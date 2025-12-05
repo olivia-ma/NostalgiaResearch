@@ -9,7 +9,7 @@ df = pd.read_csv('labeled_data.csv')
 # ===============================================================
 
 # --- Fix negative playtime ---
-df['playtime_at_review'] = df['playtime_at_review'].clip(lower=0
+df['playtime_at_review'] = df['playtime_at_review'].clip(lower=0)
 
 # --- Fix negative review length (shouldn’t happen, but safe) ---
 df['review_length'] = df['review_text'].fillna("").str.split().str.len().clip(lower=0)
