@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 appid,name,type,release_date,required_age,developers,publishers,genres,price,metacritic_score,recommendations,achievements,year,owners_estimate,players_forever,average_playtime,median_playtime,tags,positive_reviews,negative_reviews,release_date_parsed
 20200,Galactic Bowling,game,"Oct 21, 2008",0,Perpetual FX Creative,Perpetual FX Creative,"Casual, Indie, Sports",19.99,,,0,2008,"0 .. 20,000",,54,54,"Indie, Casual, Sports, Bowling",7,12,
 655370,Train Bandit,game,"Oct 12, 2017",0,Rusty Moyher,Wild Rooster,"Action, Indie",0.99,,,0,2017,"0 .. 20,000",,4,4,"Indie, Action, Pixel Graphics, 2D, Retro",74,9,
@@ -4999,3 +5000,1006 @@ appid,name,type,release_date,required_age,developers,publishers,genres,price,met
 752810,NOLA is Burning,game,"17 Nov, 2017",0,Choice of Games,Choice of Games,"Adventure, Indie, RPG",5.25,,,0,2017,"0 .. 20,000",,0,0,"Adventure, RPG, Indie, Gore, Violent",3,6,
 949570,Rand-O-mazE,game,"24 Oct, 2018",0,Sublemonal,Sublemonal,"Casual, Indie",1.1,,,0,2018,"0 .. 20,000",,0,0,"Indie, Casual, Puzzle, Arcade, Old School",0,1,
 894160,Oh Boy Cheese,game,"3 Aug, 2018",0,Ryan Bissonnette,Ryan Bissonnette,"Action, Casual, Indie",1.1,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Casual",13,0,
+=======
+appid,name,type,release_date,required_age,developers,publishers,genres,price,metacritic_score,recommendations,achievements,year,owners_estimate,players_forever,average_playtime,median_playtime,tags,positive_reviews,negative_reviews
+20200,Galactic Bowling,game,"Oct 21, 2008",0,Perpetual FX Creative,Perpetual FX Creative,"Casual, Indie, Sports",19.99,,,0,2008,"0 .. 20,000",,54,54,"Indie, Casual, Sports, Bowling",7,12
+655370,Train Bandit,game,"Oct 12, 2017",0,Rusty Moyher,Wild Rooster,"Action, Indie",0.99,,,0,2017,"0 .. 20,000",,4,4,"Indie, Action, Pixel Graphics, 2D, Retro",74,9
+320150,Deadlings: Rotten Edition,game,"Nov 11, 2014",0,ONE MORE LEVEL,ONE MORE LEVEL,"Action, Adventure, Indie",3.99,,,0,2014,"50,000 .. 100,000",,121,142,"Action, Indie, Adventure, Puzzle-Platformer, Arcade",226,44
+1026420,WARSAW RISING: City of Heroes,game,"Oct 2, 2019",0,"Pixelated Milk, Retrovibe Games",Instytut Pamięci Narodowej,"Indie, RPG, Free To Play",0.0,,541.0,0,2019,"20,000 .. 50,000",,360,189,"Tactical RPG, Wargame, Turn-Based Strategy, Historical, Strategy RPG",864,461
+485000,Cthulhu Realms,game,"Jul 1, 2016",0,"Wise Wizard Games, LLC","Wise Wizard Games, LLC",Strategy,0.0,,,0,2016,"50,000 .. 100,000",,1521,1521,"Card Game, Strategy, Deckbuilding, Lovecraftian, Free to Play",164,63
+22670,Alien Breed 3: Descent,game,"Nov 17, 2010",0,Team17 Digital Ltd,Team17 Digital Ltd,Action,1.99,64.0,366.0,0,2010,"200,000 .. 500,000",,65,32,"Action, Shooter, Isometric, Aliens, Sci-fi",431,147
+346560,Hero of the Kingdom II,game,"Feb 20, 2015",0,Lonely Troops,Lonely Troops,"Adventure, Casual, Indie, RPG",8.99,,1842.0,0,2015,"100,000 .. 200,000",,321,254,"Adventure, Casual, Point & Click, RPG, Indie",2313,139
+1097880,Super Naughty Maid 2,game,"Jun 20, 2019",0,KENZsoft,Denpasoft,"Casual, Indie",11.19,,1257.0,0,2019,"0 .. 20,000",,37,35,,0,0
+290870,Steam Squad,game,"Jul 28, 2016",0,Bretwalda Games,Bretwalda Games,"Indie, Strategy",17.99,,,0,2016,"0 .. 20,000",,0,0,"Strategy, Indie, Turn-Based, World War I, Steampunk",58,31
+575760,Project: R.E.B.O.O.T 2,game,"Jan 27, 2017",0,Volens Nolens Games,Volens Nolens Games,"Action, Adventure, Casual, Indie",0.99,,,0,2017,"20,000 .. 50,000",,253,222,"Action, Adventure, Casual, Indie, Platformer",48,43
+434030,Aerofly FS 2 Flight Simulator,game,"Nov 20, 2017",0,IPACS,IPACS,"Action, Indie, Racing, Simulation",49.99,,1945.0,0,2017,"200,000 .. 500,000",,1682,1709,"Flight, Simulation, VR, Racing, Open World",1580,422
+810740,Turtle Lu,game,"Mar 22, 2018",0,Falco Software,,"Action, Adventure, Casual, Indie",2.99,,,0,2018,"20,000 .. 50,000",,0,0,"Action, Adventure, Indie, Casual, Platformer",7,10
+677880,Draw Your Game,game,"Aug 10, 2017",0,Zero One,Zero One,Casual,0.0,,,0,2017,"0 .. 20,000",,0,0,"Casual, Platformer, Hand-drawn",19,59
+793990,Dupio,game,"Mar 6, 2018",0,NedoStudio,NedoStudio,"Casual, Indie",4.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, Casual",26,21
+955490,Terror In The Atomic Desert,game,"Mar 22, 2019",0,TensionSplice,TensionSplice,"Adventure, Indie",2.99,,,0,2019,"0 .. 20,000",,0,0,"Adventure, Indie, Horror, Puzzle, First-Person",8,4
+552350,Unhappy Ever After,game,"Jan 20, 2017",0,Warped Tales,Warped Tales,"Adventure, Indie, RPG",0.99,,,0,2017,"20,000 .. 50,000",,282,282,"Adventure, Indie, RPG, RPGMaker, Dark Fantasy",14,12
+42500,DogFighter,game,"Jun 14, 2010",0,Dark Water Studios Ltd,Instinct Software Ltd.,"Action, Indie",0.99,,213.0,0,2010,"100,000 .. 200,000",,169,61,"Action, Indie, Flight, Arcade, Multiplayer",265,167
+1095380,Bepuzzled Kittens Jigsaw Puzzle,game,"Jun 11, 2019",0,Team Spikkeee,Spikkeee,Casual,3.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Puzzle, Cats, Cute, Psychological Horror",9,1
+1158910,Dream Detective,game,"Dec 4, 2019",0,Century Game,Century Game,"Adventure, Casual, Indie",7.99,,,0,2019,"0 .. 20,000",,0,0,"Adventure, Indie, Casual, Puzzle, Hand-drawn",19,8
+262150,Vanguard Princess,game,"Mar 3, 2014",0,Tomoaki Sugeno,eigoMANGA,"Action, Casual, Indie",4.99,,1481.0,0,2014,"200,000 .. 500,000",,247,153,"Anime, Fighting, 2D Fighter, Indie, Female Protagonist",1993,858
+231330,Deadfall Adventures,game,"Nov 15, 2013",0,The Farm 51,THQ Nordic,"Action, Adventure",19.99,53.0,1267.0,0,2013,"200,000 .. 500,000",,346,326,"Adventure, Action, FPS, Shooter, First-Person",1859,664
+1056520,Who We Are Now,game,"May 7, 2019",0,Chroma Field Games,Chroma Field Games,Indie,14.99,,,0,2019,"0 .. 20,000",,0,0,,0,0
+897820,Reigns: Game of Thrones,game,"Oct 18, 2018",0,Nerial,"Devolver Digital, Big Fan Games","Adventure, Indie, RPG",1.31,84.0,920.0,0,2018,"100,000 .. 200,000",,210,108,"RPG, Indie, Card Game, Adventure, Choices Matter",787,221
+658970,CasinoRPG,game,"Jan 16, 2018",0,GoldFire Studios,GoldFire Studios,"Casual, Indie, Massively Multiplayer, RPG, Simulation, Free To Play",0.0,,,0,2018,"50,000 .. 100,000",,1111,2178,"Simulation, Massively Multiplayer, Gambling, Management, Card Game",185,111
+552520,Far Cry® 5,game,"Mar 26, 2018",17,"Ubisoft Montreal, Red Storm, Ubisoft Shanghai, Ubisoft Toronto, Ubisoft Kiev",Ubisoft,"Action, Adventure",59.99,,163876.0,0,2018,"2,000,000 .. 5,000,000",,2147,1414,"Open World, Action-Adventure, Multiplayer, Co-op, FPS",140377,33100
+718350,Loot Collection: Mahjong,game,"Oct 5, 2017",0,Boogygames Studios,Boogygames Studios,"Adventure, Casual, Indie, Simulation, Strategy",1.99,,,0,2017,"50,000 .. 100,000",,0,0,"Hidden Object, Match 3, Puzzle, Board Game, Point & Click",4,4
+433450,INFERNO CLIMBER,game,"Sep 8, 2016",0,Arc System Works,Arc System Works,"Action, RPG",14.99,,,0,2016,"0 .. 20,000",,274,274,"RPG, Action, Dark Fantasy, Souls-like, Atmospheric",63,50
+464230,Colours of Magic: Aqua Teeter,game,"Apr 25, 2016",0,RunServer,RunServer,"Casual, Indie",0.99,,,0,2016,"20,000 .. 50,000",,183,207,"Casual, Indie, Puzzle, Singleplayer, Relaxing",78,24
+1135380,不可思议佣兵团,game,"Oct 3, 2019",0,折凳工作室,折凳工作室,Indie,3.99,,,0,2019,"0 .. 20,000",,0,0,"Sexual Content, Nudity, Indie, Visual Novel",6,5
+1144900,Pension Day,game,"Sep 3, 2019",0,Julian Henley,Julian Henley,"Action, Casual",0.99,,,0,2019,"20,000 .. 50,000",,0,0,"Action, Casual, Arcade, Pixel Graphics, 2D",0,1
+306350,Slipstream 5000,game,"Oct 9, 2015",0,"Gremlin Interactive, The Software Refinery",Funbox Media Ltd,"Action, Racing, Sports",2.99,,,0,2015,"100,000 .. 200,000",,344,226,"Racing, Sports, Action, Retro, 1990's",309,98
+1128520,Rezist: Tower Defense,game,"Sep 26, 2019",0,SparkGames,SparkGames,"Indie, Strategy",0.99,,,0,2019,"0 .. 20,000",,0,0,"Strategy, Indie",7,0
+12140,Max Payne,game,"Jan 6, 2011",17,Remedy Entertainment,Rockstar Games,Action,3.49,89.0,12043.0,0,2011,"1,000,000 .. 2,000,000",,347,152,"Action, Noir, Classic, Third-Person Shooter, Bullet Time",13072,1581
+541570,Sally Face - Episode One,game,"Dec 14, 2016",0,Portable Moose,Portable Moose,"Adventure, Indie",2.99,,23223.0,0,2016,"1,000,000 .. 2,000,000",,386,299,"Story Rich, Psychological Horror, Indie, Horror, Dark",21939,622
+1119070,Shibui Coliseum,game,"Oct 29, 2019",0,Soiree Games,Soiree Games,"Action, Indie",2.99,,,0,2019,"0 .. 20,000",,0,0,,0,0
+870000,AmazeD 3D,game,"Jul 14, 2018",0,Retrover Games,Retrover Games,"Adventure, Casual, Indie, RPG, Strategy",0.0,,,0,2018,"0 .. 20,000",,0,0,"Casual, RPG, Strategy, Adventure, Indie",4,8
+768060,The Warrior Of Treasures,game,"Jan 3, 2018",0,VS Resolution,My Way Games,"Action, Adventure, Indie",0.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Adventure, Indie",31,16
+372890,Red Crow Mysteries: Legion,game,"May 28, 2015",0,Cateia Games,Cateia Games,"Adventure, Indie",9.99,,,0,2015,"50,000 .. 100,000",,342,446,"Hidden Object, Puzzle, Female Protagonist, Point & Click, 2D",16,28
+1022840,The Adventures of Jason and the Argonauts,game,"Feb 8, 2019",0,PixQuake,HH-Games,"Action, Casual, Indie, Strategy",6.99,,,0,2019,"0 .. 20,000",,0,0,"Strategy, Action, Indie, Casual, Match 3",26,4
+652160,DC Wonder: Unlimited,game,"Jun 14, 2017",0,Nucleax,Nucleax,"Action, Indie",4.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Indie",1,0
+968580,Halloween Puzzles,game,"Nov 6, 2018",0,Boogygames Studios,Boogygames Studios,"Adventure, Casual, Indie, Simulation, Sports, Strategy",1.99,,,0,2018,"0 .. 20,000",,0,0,"Puzzle, Hidden Object, Match 3, Board Game, Tabletop",1,3
+368080,Aurion: Legacy of the Kori-Odan,game,"Apr 14, 2016",0,Kiro'o Games,Kiroo Corp,"Action, Indie, RPG",4.99,,127.0,0,2016,"20,000 .. 50,000",,217,323,"Story Rich, Lore-Rich, Fantasy, Action RPG, 2D",231,117
+817370,Marching Simulator,game,"Jul 29, 2018",0,Marching Simulator,Marching Simulator,"Free To Play, Simulation, Early Access",0.0,,,0,2018,"0 .. 20,000",,0,0,"Free to Play, Simulation, Early Access",41,11
+457140,Oxygen Not Included,game,"Jul 30, 2019",0,Klei Entertainment,Klei Entertainment,"Indie, Simulation",7.49,85.0,127121.0,0,2019,"2,000,000 .. 5,000,000",,5674,899,"Colony Sim, Base-Building, Survival, Resource Management, Building",124220,4170
+863490,Bighead Runner,game,"Jun 7, 2018",0,NukGames,NukGames,"Adventure, Casual, Indie",0.49,,144.0,0,2018,"20,000 .. 50,000",,91,91,"Indie, Casual, Adventure, Runner, Singleplayer",132,42
+396640,TowerClimb,game,"Sep 22, 2015",0,Davioware and Quazi,Davioware and Quazi,"Action, Adventure, Indie, RPG",14.99,,304.0,0,2015,"20,000 .. 50,000",,140,155,"Indie, Action Roguelike, Adventure, Action, Pixel Graphics",353,32
+726020,Mission Ammunition,game,"Oct 27, 2017",0,Quantized Bit,Quantized Bit,"Action, Indie",1.19,,,0,2017,"20,000 .. 50,000",,48,48,"Action, Indie, Pixel Graphics, Platformer, Side Scroller",76,22
+424060,The Glow,game,"Dec 10, 2015",0,Brainwashing games,Brainwashing games,"RPG, Strategy",3.99,,,0,2015,"0 .. 20,000",,0,0,"RPG, Strategy, Indie, Survival, Exploration",8,16
+514870,Fat City,game,"Oct 22, 2018",10,Heavy Iron Studios,"Heavy Iron Studios, Inc.","Casual, Indie, Strategy",0.0,,,0,2018,"0 .. 20,000",,0,0,"Indie, Casual, Strategy",3,0
+548290,Dark Eden,game,"Nov 28, 2016",0,SOFTON ENTERTAINMENT,SOFTON ENTERTAINMENT,"Massively Multiplayer, RPG",0.0,,,0,2016,"50,000 .. 100,000",,237,338,"Free to Play, RPG, Massively Multiplayer, Horror",132,135
+695420,Hex: Origins,game,"Sep 23, 2017",0,Pretty Bat Games,Pretty Bat Games,"Casual, Indie",1.99,,,0,2017,"0 .. 20,000",,137,137,"Indie, Casual, Puzzle, Relaxing, Hex Grid",7,0
+587490,Dark Throne,game,"Mar 3, 2017",0,Marcin Mikołajczyk,Back To Basics Gaming,"Action, Adventure, Indie, RPG",0.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Adventure, Indie, RPG, Pixel Graphics",15,20
+546050,Puyo Puyo™Tetris®,game,"Feb 27, 2018",0,"Sonic Team, Bitbaboon",SEGA,"Action, Casual",13.99,,4658.0,0,2018,"500,000 .. 1,000,000",,984,530,"Puzzle, Casual, Competitive, Multiplayer, Action",4654,865
+301700,Numba Deluxe,game,"May 23, 2014",0,Cobra Mobile,Cobra Mobile,Casual,2.99,,,0,2014,"200,000 .. 500,000",,335,12,"Casual, Puzzle, Singleplayer",173,105
+730310,DYNASTY WARRIORS 9,game,"Feb 13, 2018",0,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",Action,44.99,,6526.0,0,2018,"500,000 .. 1,000,000",,2724,189,"Action, Hack and Slash, Open World, Musou, Historical",3564,6493
+242530,The Chaos Engine,game,"Aug 29, 2013",0,"Abstraction Games, The Bitmap Brothers",Rebellion,Action,9.99,40.0,266.0,0,2013,"100,000 .. 200,000",,129,147,"Action, Retro, Co-op, Steampunk, Top-Down",288,138
+420270,Into the Void,game,"Dec 4, 2015",0,Mozg Labs,Mozg Labs,"Adventure, Indie, RPG, Strategy",1.99,,,0,2015,"20,000 .. 50,000",,339,471,"Strategy, Adventure, Space, RPG, Indie",84,51
+435790,10 Second Ninja X,game,"Jul 19, 2016",0,Four Circle Interactive,Curve Games,"Action, Indie",9.99,,286.0,0,2016,"500,000 .. 1,000,000",,159,15,"Action, Indie, Platformer, Puzzle-Platformer, Ninja",2492,688
+926310,咕啾！文鸟恋爱物语 Love Story of Sparrow,game,"Feb 1, 2019",0,豆干叠叠木,豆干叠叠木,"Adventure, Casual, Indie",0.99,,323.0,0,2019,"0 .. 20,000",,0,0,"Adventure, Casual, Indie, Sexual Content, LGBTQ+",301,30
+788020,Critical Gravity,game,"Dec 16, 2019",0,MOGA Creative,MOGA Creative,"Action, Casual, Indie, Racing, Simulation, Sports, Strategy",9.99,,,0,2019,"0 .. 20,000",,0,0,"Racing, Simulation, Action, Casual, Indie",6,2
+856730,ARENA 8,game,"May 16, 2018",0,Artur Rezende,Artur Rezende,"Action, Casual, Indie",0.99,,,0,2018,"20,000 .. 50,000",,0,0,"Arena Shooter, Martial Arts, Pixel Graphics, 2D, 2D Platformer",1,6
+7940,Call of Duty® 4: Modern Warfare® (2007),game,"Nov 12, 2007",17,Infinity Ward,Activision,Action,19.99,92.0,20849.0,0,2007,"2,000,000 .. 5,000,000",,983,390,"FPS, Action, Multiplayer, Shooter, Singleplayer",23438,1632
+741770,Santa's vacation,game,"Nov 22, 2017",0,ElZzap Software,Volens Nolens Games,"Action, Adventure, Indie, RPG",4.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Adventure, RPG, Indie, Arcade",13,9
+110630,Mutant Storm: Reloaded,game,"Mar 21, 2012",0,PomPom Games,PomPom Games,"Action, Indie",4.99,,,0,2012,"0 .. 20,000",,0,0,"Indie, Action, Twin Stick Shooter, Shoot 'Em Up, Arcade",35,14
+572330,The Fan,game,"May 10, 2017",0,Ezhaac Studio,Plug In Digital,Adventure,5.99,,114.0,0,2017,"20,000 .. 50,000",,193,193,"Violent, Adventure, Point & Click, Horror, Hidden Object",105,61
+567150,Mosaics Galore,game,"Jul 27, 2018",0,Creobit,8Floor,"Action, Adventure, Casual, Simulation, Sports",4.99,,109.0,0,2018,"50,000 .. 100,000",,270,306,"Adventure, Casual, Puzzle, Arcade, Solitaire",91,28
+700880,Kingdom: The Far Reaches,game,"Sep 8, 2017",0,Interplay,Interplay,Adventure,9.99,,,0,2017,"100,000 .. 200,000",,0,0,"Adventure, FMV, Fantasy, Hand-drawn, Choices Matter",6,1
+717980,伏雨录：少年篇,game,"May 11, 2018",0,祥,祥,"Adventure, Indie, RPG",6.99,,,0,2018,"20,000 .. 50,000",,0,0,"Adventure, Indie, RPG, Drama, Turn-Based",76,9
+778900,Magical Star Pillars,game,"Apr 27, 2018",0,Toolkitz Games,Toolkitz Games,"Action, Adventure, Casual, Indie",0.0,,,0,2018,"0 .. 20,000",,0,0,"Action, Adventure, Indie, Casual",1,0
+907460,Girlfriend Cards,game,"Sep 20, 2018",0,meokigame,meokigame,"Action, Adventure, Casual, Indie, RPG, Simulation, Sports, Strategy",0.99,,,0,2018,"0 .. 20,000",,0,0,"Sexual Content, Nudity, Casual, Indie, Strategy",9,19
+703120,Keeplanet,game,"Apr 6, 2018",0,BigGame Studio,BigGame Publishing,"Action, Casual, Indie, Simulation",0.99,,,0,2018,"0 .. 20,000",,0,0,"Casual, Indie, Simulation",13,8
+328710,One Last Day,game,"Apr 28, 2015",0,Bloodwolf Studio,Bloodwolf Studio,"Action, Adventure, Indie, Early Access",12.99,,,0,2015,"0 .. 20,000",,0,0,"Adventure, Indie, Early Access, Action, Survival",64,39
+845290,Destructions,game,"Jul 3, 2018",0,LUXO Interactive,LUK KUS SOFT,"Action, Adventure, Casual, Indie",1.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Open World, Indie, Destruction, Sandbox",25,9
+739720,Penkura,game,"Dec 19, 2018",0,LionsArt,LionsArt,"Action, Adventure, Indie, RPG, Strategy, Early Access",13.99,,164.0,0,2018,"0 .. 20,000",,0,0,"Early Access, Open World Survival Craft, Immersive Sim, First-Person, Base-Building",145,17
+873970,Virtual Families 2: Our Dream House,game,"Jun 25, 2018",0,Last Day Of Work,Last Day Of Work,Simulation,7.99,,,0,2018,"0 .. 20,000",,139,139,Simulation,15,15
+962950,执行人 Executor,game,"Nov 6, 2018",0,GuGong,GuGong,Indie,1.99,,,0,2018,"0 .. 20,000",,0,0,Indie,13,2
+778120,Hyperbolic Ignition,game,"Feb 12, 2018",0,Kevin Nguyen,Kevin Nguyen,"Action, Indie, Simulation",0.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Simulation, Space, Pixel Graphics",5,3
+1187910,Third Rule of Universe.,game,"Nov 15, 2019",0,Mifos Games,Mifos Games,"Action, Indie, RPG",1.49,,,0,2019,"0 .. 20,000",,0,0,"Action, RPG, Indie",2,1
+763350,Slime Sports,game,"Feb 21, 2018",0,Dribble Games,Dribble Games,"Action, Casual, Indie, Sports, Free To Play",0.0,,,0,2018,"0 .. 20,000",,0,0,"Casual, Action, Sports, Indie, Free to Play",11,3
+761910,Worbital,game,"Jan 31, 2019",0,Team Jolly Roger,"Team Jolly Roger, Advanced Interactive Gaming","Action, Indie, Strategy",12.99,76.0,402.0,0,2019,"0 .. 20,000",,128,101,"Action RTS, PvP, Multiplayer, Singleplayer, Local Multiplayer",405,49
+975470,Silver Chains,game,"Aug 6, 2019",0,Cracked Heads Games,Headup,"Adventure, Indie",2.49,51.0,890.0,0,2019,"100,000 .. 200,000",,233,264,"Horror, Adventure, Indie, Psychological Horror, Multiplayer",848,371
+372770,Floors of Discomfort,game,"May 26, 2015",0,Three Prong Productions,Three Prong Productions,"Action, Indie, RPG",1.99,,,0,2015,"0 .. 20,000",,0,0,"Action, RPG, Indie",5,2
+462580,New Yankee in Santa's Service,game,"May 12, 2016",0,Rionix,ESDigital Games,"Casual, Simulation, Strategy",4.99,,,0,2016,"0 .. 20,000",,195,236,"Strategy, Casual, Simulation",24,8
+926870,Twin Synth,game,"Oct 15, 2018",0,Joe Chatfield,Joe Chatfield,"Action, Indie, Early Access",9.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Early Access, Music, Twin Stick Shooter",1,0
+848720,Z.W!,game,"May 15, 2018",0,S. Khasanov,S. Khasanov,"Action, Indie",0.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie",3,1
+519140,Minds Eyes,game,"Aug 31, 2016",0,Stanislaw Truchowski,TurnVex,"Action, Adventure, Free To Play, Indie",0.0,,,0,2016,"200,000 .. 500,000",,41,38,"Horror, Free to Play, Multiplayer, Survival Horror, Adventure",1234,529
+821260,LIGHT,game,"Apr 5, 2018",0,Indie Light,Indie Light,"Action, Indie",0.99,49.0,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Shoot 'Em Up",5,4
+748490,The Legend of Heroes: Trails of Cold Steel II,game,"14 Feb, 2018",13,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",RPG,49.99,81.0,2567.0,0,2018,"100,000 .. 200,000",,4622,4591,"JRPG, RPG, Anime, Story Rich, Turn-Based",2655,178
+545000,Aoki Ookami to Shiroki Mejika,game,"Dec 13, 2016",0,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",Strategy,12.99,,,0,2016,"0 .. 20,000",,0,0,Strategy,2,1
+544220,Damage: Sadistic Butchering of Humanity,game,"Dec 11, 2016",0,Suomi-Peli,Suomi-Peli,"Sexual Content, Nudity, Violent, Gore, Action, Adventure, Indie, Early Access",4.2,,,0,2016,"0 .. 20,000",,0,0,"Gore, Nudity, Indie, Sexual Content, Action",5,15
+338190,Just Get Through,game,"Jan 30, 2015",0,Retrific,Retrific,"Action, Adventure, Casual, Indie, Racing",4.99,,161.0,0,2015,"20,000 .. 50,000",,101,149,"Action Roguelike, Indie, Casual, Action, Adventure",186,32
+551680,Bad birthday,game,"Nov 11, 2016",0,Strong Cube,Strong Cube,"Adventure, Indie",0.0,,,0,2016,"0 .. 20,000",,257,271,"Adventure, Indie, Horror, Action, Zombies",15,18
+964920,Space Tycoon | 星际大亨,game,"Jan 4, 2019",0,Space Driver,Space Driver,"Adventure, Casual, Indie, Simulation, Strategy",16.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Indie, Simulation, Strategy, Adventure",7,8
+1085570,Fables of Talumos,game,"Sep 1, 2019",0,Cheesemaster Games,Cheesemaster Games,"Action, Adventure, Indie, RPG",2.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Adventure, Action-Adventure, Pixel Graphics",9,0
+906050,Hentai Case Opening,game,"Sep 27, 2018",0,RewindApp,RewindApp,"Casual, Indie",0.55,,213.0,0,2018,"0 .. 20,000",,0,0,"Sexual Content, Nudity, Casual, Indie, Mature",54,29
+351910,Valhalla Hills,game,"Dec 2, 2015",0,Funatics Software,Daedalic Entertainment,"Indie, Simulation, Strategy",1.29,69.0,675.0,0,2015,"200,000 .. 500,000",,226,130,"Strategy, Simulation, Indie, City Builder, Mythology",722,586
+513480,Geo,game,"Jan 31, 2017",0,Windybeard,Windybeard,"Adventure, Indie, Simulation",8.99,,107.0,0,2017,"20,000 .. 50,000",,176,176,"Indie, Simulation, Adventure, Sci-fi, Mining",151,27
+403070,Silver Creek Falls: Chapter 2,game,"Sep 30, 2015",0,Sapphire Dragon Productions,Sapphire Dragon Productions,"Adventure, Indie",4.99,,,0,2015,"0 .. 20,000",,0,0,"Adventure, Indie, RPGMaker, Female Protagonist, Story Rich",42,11
+811440,Gripper's Adventure,game,"Mar 21, 2018",0,Gripper's Studio,Gripper's Studio,"Adventure, Indie, Strategy",10.99,,,0,2018,"0 .. 20,000",,0,0,"Strategy, Adventure, Indie, Puzzle",4,1
+491010,IN-VERT: Definitive Edition,game,"Mar 2, 2018",0,TERNOX,TERNOX,"Action, Adventure, Indie",4.99,,,0,2018,"50,000 .. 100,000",,273,296,"Indie, Action, Adventure, Difficult, Platformer",82,19
+681290,Hare,game,"Sep 27, 2017",0,zelun_,zelun_,"Action, Adventure, Indie",4.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Indie, Adventure, Racing, Casual",27,15
+350530,Airport Firefighters - The Simulation,game,"May 13, 2015",0,Visual Imagination Software GbR,rondomedia GmbH ,Simulation,1.99,,115.0,0,2015,"50,000 .. 100,000",,157,163,"Simulation, Action, First-Person",118,125
+872340,Bunny Battle Arena,game,"Sep 12, 2018",0,DCF Studios,DCF STUDIOS,"Sexual Content, Violent, Action, Adventure, Indie",2.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Adventure, Violent, Sexual Content",5,2
+523680,Honey Rose: Underdog Fighter Extraordinaire,game,"Sep 29, 2016",0,Pehesse,Self,"Action, Adventure, Indie, Strategy",0.0,,,0,2016,"20,000 .. 50,000",,221,327,"Action, Adventure, Indie, Strategy, Visual Novel",40,13
+439460,Ships 2017,game,"Oct 19, 2016",0,FragOut,"Games Box, SIG Publishing","Indie, Simulation",14.99,,154.0,0,2016,"20,000 .. 50,000",,424,432,"Simulation, Indie, Free to Play, Adventure, Strategy",65,120
+296650,The Great Jitters: Pudding Panic,game,"May 22, 2014",0,kunst-stoff GmbH,kunst-stoff GmbH,"Action, Casual, Indie, Strategy",4.99,,,0,2014,"20,000 .. 50,000",,18,18,"Indie, Casual, Action, Strategy, Puzzle",47,25
+418270,Draw Slasher,game,"Oct 13, 2016",0,Mass Creation,Mass Creation,"Action, Adventure, Indie",1.99,,168.0,0,2016,"100,000 .. 200,000",,123,43,"Action, Indie, Adventure, Ninja, 2D",485,467
+390220,Toilet Tycoon,game,"Sep 17, 2015",0,Anvil-Soft,"Anvil-Soft, Plug In Digital","Indie, Simulation",4.99,,161.0,0,2015,"20,000 .. 50,000",,133,152,"Simulation, Indie, Psychological Horror, Management, Horror",147,59
+549860,One Night Stand,game,"Nov 7, 2016",0,Kinmoku,Kinmoku,"Adventure, Casual, Indie, Simulation",2.99,,645.0,0,2016,"50,000 .. 100,000",,177,239,"Indie, Visual Novel, Choices Matter, Multiple Endings, Short",654,78
+612380,Cryptocracy,game,"Apr 11, 2017",0,Dozen Minds OU,Dozen Minds OU,"Casual, Indie, Strategy",0.99,,,0,2017,"0 .. 20,000",,0,0,"Casual, Indie, Strategy",5,4
+350480,Tales of Cosmos,game,"Oct 20, 2016",0,Red Dwarf Games,Red Dwarf Games,"Adventure, Indie",14.99,,,0,2016,"0 .. 20,000",,0,0,"Adventure, Indie, Point & Click, Space, 2D",42,9
+220900,Jack Lumber,game,"Apr 30, 2013",0,Owlchemy Labs,Owlchemy Labs,"Action, Casual, Indie, Strategy",4.99,,,0,2013,"100,000 .. 200,000",,86,69,"Casual, Indie, Action, Strategy, Touch-Friendly",226,135
+539090,Clazer,game,"Dec 27, 2016",0,"SynapticSwitch, LLC","SynapticSwitch, LLC, LeadTech, LLC","Simulation, Sports",29.99,,,0,2016,"20,000 .. 50,000",,1,1,"Simulation, Sports, VR",24,8
+908500,crazy maze ~疯狂迷宫 ~ 狂った迷路 ~ Laberinto loco ~ Labyrinthe fou ~ Verrücktes Labyrinth,game,"Nov 1, 2018",0,liuguowang,liuguowang,"Adventure, Casual, Indie, Strategy",0.0,,,0,2018,"200,000 .. 500,000",,0,0,"Casual, Indie, Strategy, Adventure",16,13
+809890,Shining Resonance Refrain,game,"Jul 9, 2018",0,SEGA,SEGA,"Adventure, RPG",5.99,68.0,886.0,0,2018,"50,000 .. 100,000",,582,427,"RPG, Adventure, Anime, JRPG, Action RPG",899,385
+570770,古剑奇谭二(GuJian2),game,"Sep 7, 2017",0,"上海烛龙信息科技有限公司, Aurogon Shanghai",北京网元圣唐娱乐科技有限公司,RPG,15.99,,2675.0,0,2017,"200,000 .. 500,000",,1023,210,"RPG, Story Rich, Singleplayer, Martial Arts, Great Soundtrack",2194,642
+448500,Little Walker,game,"Apr 6, 2016",0,FlipswitchX,FlipswitchX,"Action, Adventure, Casual, Indie",3.99,,,0,2016,"0 .. 20,000",,206,206,"Indie, Adventure, Casual, Action, Platformer",39,4
+854160,Dino Dawn,game,"May 11, 2018",0,neonboxgames,neonboxgames,"Adventure, Indie",4.99,,,0,2018,"0 .. 20,000",,2,3,"Indie, Adventure, Platformer",11,33
+897010,Surface: Return to Another World Collector's Edition,game,"Aug 6, 2018",0,Elephant Games,BFG Entertainment,"Adventure, Casual",9.99,,,0,2018,"0 .. 20,000",,0,0,"Adventure, Casual, Hidden Object",2,0
+553260,Realpolitiks,game,"Feb 16, 2017",0,Jujubee S.A.,Fulqrum Publishing,Strategy,14.99,52.0,889.0,0,2017,"200,000 .. 500,000",,707,199,"Strategy, Diplomacy, Political Sim, Grand Strategy, Politics",743,461
+453130,Powargrid,game,"Oct 5, 2016",0,Wee Free Studio,Wee Free Studio,"Indie, Strategy",9.99,,,0,2016,"0 .. 20,000",,253,253,"Strategy, Indie, Turn-Based, Turn-Based Tactics, Comedy",27,5
+3010,Xpand Rally,game,"Aug 24, 2006",0,Techland,Techland,Racing,0.54,82.0,505.0,0,2006,"20,000 .. 50,000",,99,111,"Racing, Driving, Physics, 3D, Automobile Sim",472,92
+686440,Hard Time,game,"Aug 16, 2017",0,MDickie,MDickie,"Action, Adventure, Indie, RPG, Simulation",4.99,,290.0,0,2017,"0 .. 20,000",,104,104,"Violent, Action, Simulation, Indie, Adventure",266,34
+521710,Romance of the Three Kingdoms III,game,"Feb 21, 2017",0,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",Strategy,6.79,,,0,2017,"0 .. 20,000",,0,0,"Turn-Based Tactics, Wargame, Immersive Sim, Military, Diplomacy",11,18
+108200,Ticket to Ride: Classic Edition,game,"May 24, 2012",0,Days of Wonder,"Days of Wonder, Twin Sails Interactive","Casual, Indie, Strategy",0.0,,3400.0,0,2012,"500,000 .. 1,000,000",,595,129,"Board Game, Strategy, Tabletop, Casual, Multiplayer",4628,755
+614150,Train Harder,game,"Apr 21, 2017",0,2Frogs Software,2Frogs Software,"Action, Casual, Indie, Sports",19.99,,,0,2017,"0 .. 20,000",,0,0,"Sports, Action, Indie, Casual, VR",10,0
+304970,SolidFace Parametric CAD Modeler 2D/3D,game,"Dec 22, 2014",0,"SolidFace Technology Inc., Oscar L.",SolidFace Technology Inc.,"Animation & Modeling, Design & Illustration, Utilities",0.0,,,0,2014,"0 .. 20,000",,0,0,"Design & Illustration, Animation & Modeling, Utilities",1,0
+878520,Sally's Salon: Kiss & Make-Up,game,"Jun 28, 2018",0,GameHouse,GameHouse,"Adventure, Casual, Strategy",17.99,,107.0,0,2018,"0 .. 20,000",,0,0,"Casual, Strategy, Adventure, Time Management, Female Protagonist",80,37
+340630,Ninja Guy,game,"Jan 5, 2015",0,Immunity Studios,Immunity Studios,"Action, Casual, Indie",1.99,,,0,2015,"20,000 .. 50,000",,8,8,"Action, Indie, Casual, Ninja, Funny",48,122
+704310,Lumberjack VR,game,"Oct 13, 2017",0,Erik Brunnström,Erik Brunström,"Action, Indie",0.0,,,0,2017,"0 .. 20,000",,452,452,"Action, Indie, VR",14,7
+619150,while True: learn(),game,"Jan 17, 2019",0,Luden.io,Luden.io,"Indie, Simulation",12.99,73.0,7032.0,0,2019,"500,000 .. 1,000,000",,288,183,"Programming, Simulation, Education, Puzzle, Science",6967,651
+392030,Murasaki,game,"May 12, 2016",0,Katatema,PLAYISM,"Action, Indie",4.99,,115.0,0,2016,"20,000 .. 50,000",,211,288,"Action, Indie, Bullet Hell, Shoot 'Em Up, Anime",109,11
+605850,Pinball Inside: A VR Arcade Game,game,"Mar 8, 2017",0,Reality Reflection,Reality Reflection,"Casual, Indie",0.0,,,0,2017,"0 .. 20,000",,11,11,"Indie, Casual, VR, Pinball",57,15
+441670,Jelly Killer,game,"Mar 24, 2016",0,Immortal Game Studio,Immortal Game Studio,"Action, Adventure, Casual, Indie",3.99,,341.0,0,2016,"20,000 .. 50,000",,181,186,"Indie, Action, Casual, Adventure, Platformer",306,75
+962150,"Tactics V: ""Obsidian Brigade""",game,"Aug 8, 2019",0,From Nothing Game Studios,From Nothing Game Studios,"RPG, Strategy",9.99,,,0,2019,"0 .. 20,000",,0,0,"Strategy, RPG, Turn-Based, Turn-Based Tactics, Tactical",26,8
+50990,Mystery Case Files: Ravenhearst®,game,"Apr 21, 2010",0,Big Fish Games,BFG Entertainment,"Adventure, Casual",9.99,,147.0,0,2010,"0 .. 20,000",,57,60,"Hidden Object, Puzzle, Point & Click, Detective, Horror",134,15
+648510,Choice of the Star Captain,game,"Jun 16, 2017",0,Choice of Games,Choice of Games,"Adventure, Indie, RPG",4.99,,,0,2017,"0 .. 20,000",,0,0,"Indie, Adventure, RPG, Choose Your Own Adventure, Text-Based",7,2
+1071070,Adventure of Great Wolf,game,"May 31, 2019",0,Claudius Keigfron,Claudius Keigfron,"Action, Adventure, Indie, Early Access",2.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Adventure, Indie, Early Access",3,0
+538700,TURGUL: RAPID FIGHTING,game,"Dec 19, 2016",0,dynamicsoulworks,dynamicsoulworks,"Action, Adventure, Casual, Indie, RPG, Sports",0.99,,,0,2016,"0 .. 20,000",,212,212,"Action, Indie, Adventure, Casual, Sports",1,3
+726870,Anchorhead,game,"Jan 31, 2018",0,Michael Gentry,Michael Gentry,"Adventure, Indie",9.99,,,0,2018,"0 .. 20,000",,265,265,"Adventure, Indie, Horror, Interactive Fiction, Lovecraftian",40,6
+1065750,Spark and The Digital Daydream,game,"May 7, 2019",0,Luminescence Interactive,Luminescence Interactive,"Adventure, Free To Play, Indie",0.0,,,0,2019,"0 .. 20,000",,0,0,"Free to Play, Indie, Adventure",63,4
+714780,Google Spotlight Stories: Special Delivery,game,"Dec 14, 2017",0,Google Inc.,Google Inc.,"Adventure, Free To Play",0.0,,,0,2017,"0 .. 20,000",,0,0,"Free to Play, Adventure, VR",46,5
+1204930,Hop Step Sing! Astral Piece,game,"Dec 12, 2019",0,"Kodansha, Kodansha VR Lab",KOMODO,Casual,9.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, VR, Anime, Action, Singleplayer",89,1
+416340,Viking Saga: New World,game,"Nov 5, 2015",0,Qumaron,Qumaron,"Adventure, Casual, Simulation, Strategy",3.99,,,0,2015,"0 .. 20,000",,0,0,"Casual, Strategy, Adventure, Simulation, Vikings",29,7
+242610,Grappledrome,game,"Feb 13, 2017",0,800 North,800 North,"Action, Indie, Early Access",0.0,,,0,2017,"0 .. 20,000",,0,0,"Action, Indie, Early Access, FPS",16,4
+302610,Boson X,game,"Sep 15, 2014",0,"Ian MacLarty, Jon Kerney",Shape Shop,"Action, Indie",1.99,,1318.0,0,2014,"200,000 .. 500,000",,270,217,"Difficult, Action, Arcade, Runner, Minimalist",1449,116
+922520,Blood City,game,"Aug 28, 2018",0,WJLE,WJLE,"Action, Adventure, Indie",2.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Adventure",18,0
+1099400,唤境引擎 Evkworld,game,"Jul 14, 2019",0,星飞游戏,星飞游戏,Game Development,0.0,,,0,2019,"20,000 .. 50,000",,0,0,Game Development,35,13
+503060,The Agency of Anomalies: Mystic Hospital Collector's Edition,game,"Jul 18, 2016",0,Orneon,BFG Entertainment,"Adventure, Casual",9.99,,,0,2016,"0 .. 20,000",,0,0,"Adventure, Casual, Hidden Object",19,0
+847490,Star Speeder,game,"May 11, 2018",0,Synthetic Games,Synthetic Games,"Action, Casual, Indie",0.99,,,0,2018,"0 .. 20,000",,0,0,"Casual, Racing, Relaxing, Atmospheric, Colorful",7,3
+201010,Geneforge 5: Overthrow,game,"Nov 1, 2008",0,Spiderweb Software,Spiderweb Software,"Strategy, RPG, Indie",19.99,,,0,2008,"50,000 .. 100,000",,1332,1410,"RPG, Indie, Strategy, Turn-Based Combat, Isometric",110,8
+837610,Mary Skelter: Nightmares,game,"19 Jul, 2018",0,Idea Factory,Ghostlight LTD,"Sexual Content, Adventure, RPG, Strategy",20.99,,514.0,0,2018,"0 .. 20,000",,2183,2846,"JRPG, Dungeon Crawler, Anime, Horror, Visual Novel",474,83
+205690,1000 Amps,game,"Feb 22, 2012",0,Brandon Brizzi,Brandon Brizzi,"Adventure, Indie",4.99,,130.0,0,2012,"100,000 .. 200,000",,194,291,"Puzzle-Platformer, Indie, Platformer, Puzzle, Adventure",265,71
+632240,Gunball,game,"Jun 28, 2017",0,REDspace,REDspace,"Casual, Indie, Sports",7.99,,,0,2017,"0 .. 20,000",,0,0,"Indie, Casual, Sports, VR",2,0
+109500,Fowl Space,game,"Mar 21, 2012",0,Pixelante Game Studios,Pixelante Game Studios,"Action, Indie",4.99,,125.0,0,2012,"50,000 .. 100,000",,7,7,"Action, Indie, Memes",106,77
+539290,Brick Breaker,game,"Feb 20, 2017",0,Sanuk Games,Nacon,Casual,9.99,,134.0,0,2017,"50,000 .. 100,000",,95,140,"Casual, Funny, Action, Indie, Multiplayer",58,75
+489100,MachRace,game,"Jun 30, 2016",0,enko,full beast creative,"Casual, Indie, Racing, Early Access",9.99,,,0,2016,"0 .. 20,000",,0,0,"Racing, Indie, Early Access, Casual",8,2
+740450,Alien Planet,game,"Dec 4, 2017",0,Falkrus,Falkrus,"Action, Adventure, Indie",0.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Adventure, Indie",2,0
+448670,Pinball HD Collection,game,"Aug 3, 2016",0,OOO Gameprom,App Business Ventures LLC,"Action, Casual, Indie, Simulation",19.99,,,0,2016,"0 .. 20,000",,0,0,"Simulation, Action, Indie, Casual, Pinball",65,36
+542740,Balloon Blowout,game,"Oct 28, 2016",0,EnsenaSoft,EnsenaSoft,"Action, Casual",0.99,,,0,2016,"50,000 .. 100,000",,233,215,"Action, Casual",57,83
+687980,Mothlight,game,"Aug 25, 2017",0,Samu,Samu,"Free To Play, Indie, RPG",0.0,,,0,2017,"20,000 .. 50,000",,406,406,"Free to Play, RPG, Indie, Nudity, Violent",388,24
+612120,Darwin's bots: Episode 1,game,"Mar 27, 2017",0,Duplicator Studio,Duplicator Studio,"Nudity, Violent, Action, Adventure, Indie",7.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Adventure, Indie, Violent, Nudity",9,8
+701100,Amoreon NightClub,game,"Sep 6, 2017",0,Citor3,Citor3,"Free To Play, Simulation",0.0,,,0,2017,"20,000 .. 50,000",,16,16,"Nudity, Free to Play, Simulation, VR, Sexual Content",59,20
+1126970,Strazeal,game,"Aug 26, 2019",0,"Tradosoft, Michiel Pater",Tradosoft,"Indie, Strategy",1.99,,,0,2019,"20,000 .. 50,000",,0,0,"Strategy, Indie",3,0
+286750,Zoo Empire,game,"Sep 3, 2015",0,Enlight Software Limited,"Retroism, Enlight Software Limited","Casual, Simulation, Strategy",6.99,59.0,133.0,0,2015,"20,000 .. 50,000",,35,52,"Simulation, Strategy, Casual, Management",110,42
+388080,Borderless Gaming,game,"Jul 23, 2015",0,AndrewMD5,"Codeusa, viorae","Action, Utilities",6.99,,4047.0,0,2015,"200,000 .. 500,000",,12158,899,"Utilities, Software, 2D, 3D, Psychological Horror",3300,633
+925360,Ape Hit,game,"Aug 31, 2018",0,Zombie's Delight Studio,Zombie's Delight Studio,"Casual, Indie, Simulation, Free To Play",0.0,,,0,2018,"0 .. 20,000",,0,0,"Casual, Indie, Simulation, Free to Play, VR",11,3
+482300,Investigator,game,"Jun 1, 2016",0,AdroVGames,AdroVGames,"Adventure, Indie, Simulation",1.24,,852.0,0,2016,"50,000 .. 100,000",,285,407,"Adventure, Indie, Horror, Atmospheric, Simulation",701,311
+16130,Fish Tycoon,game,"May 12, 2008",0,Last Day of Work,,"Casual, Simulation",9.99,,110.0,0,2008,"0 .. 20,000",,0,0,"Simulation, Casual, Management",104,14
+411530,Roads of Rome 3,game,"Oct 19, 2015",0,Qumaron,Qumaron,"Adventure, Casual, Simulation, Strategy",3.99,,,0,2015,"0 .. 20,000",,571,571,"Casual, Strategy, Adventure, Simulation, Time Management",40,11
+237430,Expeditions: Conquistador,game,"May 30, 2013",0,Logic Artists,THQ Nordic,"Indie, RPG, Strategy",19.99,77.0,1179.0,0,2013,"200,000 .. 500,000",,589,272,"RPG, Strategy, Turn-Based, Indie, Turn-Based Strategy",1218,325
+485120,Frog Climbers,game,"Oct 6, 2016",0,TeamCrew,Dear Villagers,Indie,0.0,,,0,2016,"20,000 .. 50,000",,5108,130,"Indie, Local Multiplayer, Funny, Parkour, 4 Player Local",158,32
+528670,Elems,game,"Nov 11, 2016",0,Fifth Dimension Company,Fifth Dimension Company,"Casual, Indie",0.99,,,0,2016,"500,000 .. 1,000,000",,300,316,"Indie, Casual",24,16
+417540,Gamefuel Driver Control,game,"Dec 10, 2015",0,Auslogics Software,Console Classics,Utilities,0.0,,,0,2015,"20,000 .. 50,000",,0,0,Utilities,7,6
+465070,TRIZEAL Remix,game,"Jul 7, 2016",0,TRIANGLE SERVICE,KOMODO,Action,11.99,,,0,2016,"0 .. 20,000",,0,0,"Action, Shoot 'Em Up, Bullet Hell, Arcade",28,5
+448010,RePete,game,"Mar 9, 2016",0,Luke Godfrey,Luke Godfrey,"Casual, Indie",1.99,,,0,2016,"0 .. 20,000",,268,311,"Indie, Casual, Platformer, Puzzle-Platformer",42,8
+782630,Twisted Sails,game,"Mar 26, 2018",0,Heatwave Studios,Heatwave Studios,"Action, Casual, Free To Play, Indie",0.0,,,0,2018,"0 .. 20,000",,0,0,"Free to Play, Action, Indie, Casual",15,4
+1162170,Below Sunshade,game,"Nov 19, 2019",0,Arvus Games,Arvus Games,"Indie, RPG",2.99,,,0,2019,"0 .. 20,000",,144,144,,0,0
+818070,Draoi,game,"Sep 27, 2018",0,Avenal Investments Ltd,Avenal Investments Ltd,"RPG, Early Access",19.99,,,0,2018,"0 .. 20,000",,0,0,"RPG, Early Access, VR",0,1
+944590,Thunder Kid,game,"Oct 22, 2018",0,Renegade Sector Games,Renegade Sector Games,Action,7.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Shoot 'Em Up, Retro, Sci-fi, Indie",33,4
+958090,School of the Dead: Anastasia,game,"Nov 27, 2018",0,"NOINDEX GAMES, Maksim Streicher",NOINDEX GAMES,"Action, Indie",0.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Female Protagonist, 2D, GameMaker",28,10
+607040,Grimoire Chronicles,game,"Apr 20, 2017",0,Warfare Studios,Warfare Studios,"Adventure, Casual, Indie, RPG, Strategy",9.99,,,0,2017,"50,000 .. 100,000",,183,215,"Adventure, Casual, RPG, Indie, Strategy",78,25
+299380,Masquerade: The Baubles of Doom,game,"Apr 20, 2016",0,Big Ant Studios,Big Ant Studios,"Action, Adventure, Casual, Indie",14.99,,,0,2016,"0 .. 20,000",,202,202,"Action, Adventure, Indie, Casual",17,53
+342260,Nevermind,game,"Sep 29, 2015",0,Flying Mollusk,Flying Mollusk,"Adventure, Indie",19.99,,338.0,0,2015,"50,000 .. 100,000",,154,154,"Adventure, Indie, Psychological Horror, Horror, Puzzle",336,94
+888010,Tango: The Adventure Game,game,"Nov 16, 2018",0,Gualicho Games,Inca Games,"Adventure, Indie",1.99,,,0,2018,"0 .. 20,000",,0,0,"Adventure, Indie, Point & Click, Story Rich, Cartoony",61,10
+538950,Plenty: Skyhearth,game,"Oct 20, 2016",0,Tiny Lions,Tiny Lions Inc.,"Action, Casual, Free To Play, Indie, RPG",0.0,,,0,2016,"20,000 .. 50,000",,282,282,"Free to Play, Casual, Action, RPG, Indie",56,9
+293520,Carnivores: Dinosaur Hunter Reborn,game,"May 27, 2015",0,Digital Dreams Entertainment LLC,Digital Dreams Entertainment LLC,"Indie, Simulation",0.0,,664.0,0,2015,"50,000 .. 100,000",,236,399,"Dinosaurs, Simulation, Hunting, Indie, Open World",580,212
+502940,"Calm Down, Stalin",game,"Sep 8, 2016",0,Cartboard Games,Cartboard Games,"Casual, Indie",3.99,,1014.0,0,2016,"50,000 .. 100,000",,74,87,"Memes, Casual, Indie, Funny, Politics",994,105
+1038680,凯旋岛,game,"Apr 4, 2019",0,清风,清风,"Action, Adventure, Massively Multiplayer, Free To Play",0.0,,,0,2019,"0 .. 20,000",,0,0,"Free to Play, Action, Adventure, Massively Multiplayer, Shooter",12,11
+291690,Empathy: Path of Whispers,game,"May 16, 2017",0,Pixel Night,Iceberg Interactive,"Adventure, Indie",19.99,59.0,159.0,0,2017,"20,000 .. 50,000",,152,152,"Adventure, Indie, Story Rich, Atmospheric, Walking Simulator",129,84
+653210,Prisoner,game,"Jul 17, 2017",0,Polovey Alexander,Polovey Alexander,"Adventure, Indie",1.52,,,0,2017,"0 .. 20,000",,7,9,"Indie, Adventure, Platformer, Dark, Perma Death",22,17
+267360,MURI,game,"Dec 6, 2013",0,"Ludosity, Remar Games",Ludosity,Action,9.99,,307.0,0,2013,"50,000 .. 100,000",,113,153,"Action, Platformer, Retro, Female Protagonist, 2D",433,45
+499910,SHINRAI - Broken Beyond Despair,game,"Aug 26, 2016",0,Gosatsu Visual Novels,Gosatsu Visual Novels,"Adventure, Indie",14.99,,124.0,0,2016,"0 .. 20,000",,185,185,"Visual Novel, Detective, Investigation, Mystery, Interactive Fiction",112,12
+12460,BC Kings,game,"Jun 16, 2009",0,Mascot Entertainment,Strategy First,Strategy,0.79,,187.0,0,2009,"20,000 .. 50,000",,47,62,"Strategy, RTS, Multiplayer",125,78
+410320,EARTH DEFENSE FORCE 4.1 The Shadow of New Despair,game,"Jul 18, 2016",0,SANDLOT,D3PUBLISHER,Action,19.99,79.0,7554.0,0,2016,"1,000,000 .. 2,000,000",,1467,665,"Action, Third-Person Shooter, Co-op, Online Co-Op, Aliens",9554,500
+757600,Hotel Transylvania 3: Monsters Overboard,game,"Jul 10, 2018",0,Torus Games,Outright Games Ltd.,Adventure,6.24,,,0,2018,"0 .. 20,000",,9,9,"Vampire, Action-Adventure, Colorful, Family Friendly, Gothic",19,13
+336670,HIT,game,"Feb 9, 2015",0,Shifty Chair Games,Shifty Chair Games,Free To Play,0.0,,,0,2015,"200,000 .. 500,000",,316,465,"Free to Play, Multiplayer, Funny, Action, Shooter",182,290
+733420,Fragments,game,"Nov 9, 2017",0,Pulsarium,Pulsarium,"Adventure, Indie",0.0,,,0,2017,"0 .. 20,000",,0,0,"Adventure, Indie, VR",7,3
+542260,The Herbalist,game,"Nov 15, 2016",0,Moonworks,Moonworks,"Casual, Indie",5.99,,628.0,0,2016,"0 .. 20,000",,306,307,"Anime, Visual Novel, Nudity, Singleplayer, Relaxing",659,45
+369560,The Story Goes On,game,"Mar 2, 2018",0,Scarecrow Arts,Scarecrow Arts,"Action, Adventure, Casual, Indie",4.99,,,0,2018,"0 .. 20,000",,0,0,"Action Roguelike, Action, Casual, Adventure, Arcade",102,26
+394850,Square Brawl,game,"Oct 22, 2015",0,landfall,landfall,"Action, Indie",4.99,,151.0,0,2015,"0 .. 20,000",,25,35,"Action, Indie, Local Multiplayer, 4 Player Local, Multiplayer",146,41
+953900,Pantsu Hunter: Back to the 90s,game,"Jan 17, 2019",0,Golden Wave Games,Golden Wave Games,"Adventure, Casual, Indie",8.99,,230.0,0,2019,"0 .. 20,000",,246,317,"Casual, Adventure, Indie, Visual Novel, Anime",212,44
+299480,Rogue Stormers,game,"Apr 21, 2016",0,Black Forest Games,"HandyGames, Black Forest Games","Action, Indie",19.99,68.0,643.0,0,2016,"200,000 .. 500,000",,137,179,"Action Roguelike, Side Scroller, Shoot 'Em Up, Twin Stick Shooter, Rogue-lite",675,308
+750960,Yissa Deep Realms,game,"Nov 23, 2017",0,PixelGreeds,PixelGreeds,"Action, Adventure, Indie",4.99,,,0,2017,"0 .. 20,000",,0,0,"Platformer, Difficult, Side Scroller, Female Protagonist, 2D",67,6
+523210,A Normal Lost Phone,game,"Jan 26, 2017",0,Accidental Queens,"PID Games, Dear Villagers","Casual, Indie",2.99,71.0,2312.0,0,2017,"100,000 .. 200,000",,128,133,"Indie, LGBTQ+, Casual, Interactive Fiction, Story Rich",2389,297
+950400,Blame Him,game,"Jun 2, 2019",0,Chilla's Art,Chilla's Art,"Action, Adventure, Casual, Indie, Simulation, Strategy",14.99,,175.0,0,2019,"20,000 .. 50,000",,471,688,"Action, Indie, Horror, Adventure, Casual",81,102
+848460,Aurum Kings,game,"Jul 23, 2018",0,Bull Horn Games LLC,Bull Horn Games LLC,"Action, Casual, Indie",0.0,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Casual",0,1
+735650,One More Night: BiO Clinic,game,"Nov 6, 2017",0,Stephen Wu,Stephen Wu,"Indie, Strategy",4.99,,,0,2017,"0 .. 20,000",,0,0,"Indie, Strategy, Horror",4,0
+1048100,Peekaboo,game,"Aug 7, 2019",0,Redaster Studio,Redaster Studio,"Action, Adventure, Casual, Indie, Massively Multiplayer, RPG, Simulation",0.74,,2799.0,0,2019,"200,000 .. 500,000",,1717,107,"Action, Multiplayer, Casual, PvP, Physics",2613,686
+345700,Echo Tokyo: An Intro,game,"Jan 27, 2016",0,Dharker Studios,Dharker Studios,"Adventure, Casual, Indie",4.99,,,0,2016,"0 .. 20,000",,0,0,"Adventure, Indie, Casual, Visual Novel, Violent",97,61
+65600,Gothic 3: Forsaken Gods Enhanced Edition,game,"Mar 22, 2011",0,"Trine Studios, G3 Community Patch Team, Mad Vulture Games",THQ Nordic,RPG,9.99,,949.0,0,2011,"200,000 .. 500,000",,253,203,"RPG, Open World, Action, Singleplayer, Adventure",616,623
+674250,Resurgence: Earth United,game,"Sep 29, 2017",0,Pixel by Pixel Studios Inc.,Pixel by Pixel Studios Inc.,"Action, Indie, RPG, Early Access",2.99,,,0,2017,"0 .. 20,000",,225,225,"Indie, Early Access, Action, RPG",22,6
+439250,Space Pilgrim Episode III: Delta Pavonis,game,"Feb 4, 2016",0,"Pilgrim Adventures, GrabTheGames Studios","GrabTheGames, TheGamesFortress","Adventure, Indie",1.99,,346.0,0,2016,"200,000 .. 500,000",,268,250,"Adventure, Indie, RPGMaker, Space, Sci-fi",369,56
+940350,Snakest,game,"Dec 7, 2018",0,Softwaves Mini,HandMade Games,"Adventure, Casual, Indie, Simulation",0.99,,,0,2018,"0 .. 20,000",,0,0,"Adventure, Indie, Casual, Simulation",10,10
+868060,Immortal Darkness: Curse of The Pale King,game,"Oct 17, 2018",0,Giant Space Monster,Giant Space Monster,"Action, Adventure, Indie, RPG",0.0,,,0,2018,"0 .. 20,000",,0,0,"RPG, Dungeon Crawler, Dark Fantasy, Horror, Vampire",44,7
+598590,Escape 2042 - The Truth Defenders,game,"Mar 31, 2017",0,OrionSoft,OrionSoft,"Action, Adventure, Indie",5.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Adventure, Indie, Retro, Platformer",10,3
+620050,Start10,game,"May 11, 2017",0,Stardock,Stardock,Utilities,0.0,,,0,2017,"0 .. 20,000",,1,1,"Utilities, Software",40,25
+211208,VectorMan 2,game,"May 2, 2012",0,,SEGA,,0.0,,,0,2012,"20,000 .. 50,000",,0,0,"Platformer, Action, Classic",5,1
+454330,A Room Beyond,game,"Jun 13, 2017",0,René Bühling,René Bühling,"Adventure, Indie",7.99,,,0,2017,"0 .. 20,000",,0,0,"Adventure, Indie, Point & Click, Horror, Pixel Graphics",21,8
+763230,Fruity Smoothie,game,"Dec 21, 2017",0,Wooden Shoes Games,Wooden Shoes Games,"Casual, Free To Play, Indie",0.0,,,0,2017,"20,000 .. 50,000",,41,59,"Free to Play, Indie, Casual, Co-op, Local Co-Op",196,25
+959710,the earth is a better person than me,game,"Nov 7, 2018",0,Kara Stone,Kara Stone,Indie,6.99,,,0,2018,"0 .. 20,000",,0,0,,0,0
+1140060,War Ghost,game,"Sep 6, 2019",0,Luiz Felipe Da Silva Marian,Mushroom Angels Games,"Action, Adventure, Indie, RPG, Strategy",0.75,,,0,2019,"0 .. 20,000",,0,0,"Turn-Based Tactics, Wargame, Turn-Based Combat, 2D Platformer, Tower Defense",2,2
+974930,Eternal Realm II: Dark Matter,game,"Nov 21, 2018",0,Omega Games,Omega Games,RPG,3.99,,,0,2018,"0 .. 20,000",,0,0,,0,0
+1017480,WarGround,game,"Feb 2, 2019",0,GamersUnit,GamersUnit,"Casual, Free To Play, Indie, Strategy",0.0,,,0,2019,"0 .. 20,000",,0,0,"Free to Play, Strategy, Indie, Casual",13,8
+1165280,Shuffle World,game,"Oct 9, 2019",0,NanningsGames,NanningsGames,"Casual, Indie",0.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Casual, Puzzle, Puzzle-Platformer, Music",14,6
+818390,The Deer,game,"Dec 16, 2019",0,Dodo Digital,Dodo Digital,"Adventure, Indie",0.0,,,0,2019,"0 .. 20,000",,0,0,"Adventure, Indie, Violent, Gore, Horror",57,26
+562640,Introvert Quest,game,"Mar 15, 2017",0,Amaterasu Software,Amaterasu Software,"Adventure, Casual, Indie, RPG",2.99,,,0,2017,"50,000 .. 100,000",,233,212,"Mystery, Adventure, Anime, JRPG, Indie",103,36
+360840,Lumini,game,"Sep 3, 2015",0,Speelbaars,2Awesome Studio,"Adventure, Indie",12.99,69.0,,0,2015,"0 .. 20,000",,969,990,"Indie, Adventure, Relaxing, Simulation, Great Soundtrack",147,26
+1007890,VR Paper Star,game,"Jan 21, 2019",0,North Breeze Entertainment Ltd,North Breeze Entertainment Ltd,"Action, Indie",19.99,,,0,2019,"0 .. 20,000",,0,0,,0,0
+1093880,XWallpaper,game,"Oct 15, 2019",0,XDesktopSoft,XDesktopSoft,"Animation & Modeling, Design & Illustration, Utilities",3.99,,153.0,0,2019,"50,000 .. 100,000",,1169,1697,"Utilities, Design & Illustration, Animation & Modeling",84,83
+368730,No Time To Explain Remastered,game,"Jul 17, 2015",0,tinyBuild,tinyBuild,"Action, Adventure, Casual, Indie",14.99,,1295.0,0,2015,"200,000 .. 500,000",,137,76,"Indie, Action, Adventure, Casual, Platformer",1972,528
+1041300,Human Sacrifice,game,"Mar 19, 2019",0,"Tricol Co., Ltd.","Tricol Co., Ltd.",Adventure,0.0,,,0,2019,"0 .. 20,000",,0,0,"Adventure, VR",3,4
+318260,Supreme: Pizza Empire,game,"Jan 9, 2015",0,Nexeon Studios,Nexeon Studios,"Casual, Indie, Simulation",9.99,,,0,2015,"0 .. 20,000",,38,38,"Indie, Casual, Simulation, Management, Strategy",72,40
+886360,Casino Mega Collection,game,"Jul 2, 2018",0,Gunnar Games,Gunnar Games,Casual,6.99,,,0,2018,"0 .. 20,000",,0,0,Casual,25,16
+696760,HoloLAB Champions,game,"Jul 10, 2018",0,Schell Games,Schell Games,Simulation,9.99,,,0,2018,"20,000 .. 50,000",,11,11,"Simulation, Education, VR, Science, Strategy",22,3
+780210,Freeways,game,"Feb 6, 2018",0,Captain Games,Captain Games,"Indie, Simulation",4.99,,1979.0,0,2018,"100,000 .. 200,000",,517,306,"Simulation, Indie, Puzzle, Transportation, 2D",1658,216
+451600,CounterAttack: Uprising,game,"Mar 11, 2019",0,Relative Games,Relative Software LTD.,"Action, Adventure, Casual, Indie",14.99,,252.0,0,2019,"0 .. 20,000",,362,362,"Shoot 'Em Up, Side Scroller, Bullet Hell, 4 Player Local, Online Co-Op",303,27
+1109350,ANCIENT SOULS : The Governor,game,"Jul 14, 2019",0,OE WORKS,OE WORKS,"Casual, Indie, RPG, Strategy, Early Access",7.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Strategy, RPG, Early Access, Indie",6,2
+781240,Mystical,game,"Feb 8, 2018",0,Infogrames,Ziggurat ,Action,4.99,,,0,2018,"0 .. 20,000",,0,0,Action,5,17
+929570,A Familiar Fairytale Dyslexic Text Based Adventure,game,"Nov 18, 2019",0,Alastair Low,Lowtek Games,"Adventure, Casual, Indie, Simulation",0.99,,,0,2019,"0 .. 20,000",,0,0,"Adventure, Indie, Casual, Simulation, Text-Based",6,2
+841830,Semi-Sweet Tofu,game,"May 3, 2018",0,Team TatoTaco,"Ottercopter Studios, LLC","Adventure, Casual, Indie",0.0,,,0,2018,"0 .. 20,000",,0,0,"Adventure, Indie, Casual",7,0
+1165460,Unlit,game,"Nov 25, 2019",0,Clockworks,Clockworks,"Adventure, Casual, Indie, Early Access",11.99,,,0,2019,"0 .. 20,000",,0,0,"Adventure, Early Access, Indie, Casual, Puzzle",1,1
+485980,Syrian Warfare,game,"Feb 21, 2017",0,Cats Who Play,Cats Who Play,"Indie, Strategy",13.99,,5009.0,0,2017,"200,000 .. 500,000",,591,184,"Real Time Tactics, RTS, Realistic, Military, Wargame",4543,689
+679400,Relik,game,"Oct 18, 2017",0,Iron 27,Iron 27,"Free To Play, Indie, Strategy, Early Access",0.0,,,0,2017,"50,000 .. 100,000",,62,63,"Turn-Based Tactics, Real Time Tactics, Puzzle, Education, PvP",140,36
+1121310,ViRo Playspace,game,"Sep 13, 2019",18,LewdTube LLC,LewdTube LLC,"Casual, Indie, Simulation, Free To Play, Early Access",0.0,,,0,2019,"0 .. 20,000",,63,29,,0,0
+429480,Vision Runner,game,"Oct 19, 2016",0,Snowbit Interactive,Snowbit Interactive,"Indie, Early Access",9.99,,,0,2016,"0 .. 20,000",,0,0,"Indie, Early Access, Parkour, First-Person, Level Editor",4,8
+1005050,Fabulous - Angela's True Colors,game,"Jan 24, 2019",0,"Nitreal, GameHouse",GameHouse,"Adventure, Casual, Strategy",19.99,,,0,2019,"0 .. 20,000",,0,0,"Strategy, Casual, Adventure, Time Management, Story Rich",53,6
+529040,Fine China,game,"May 5, 2017",0,Fine China Games,Fine China Games,"Casual, Indie, Simulation",2.99,,,0,2017,"0 .. 20,000",,0,0,"Simulation, Indie, Casual, VR",9,3
+694070,BadLands RoadTrip,game,"Apr 5, 2018",0,Obsessive Science Games,Obsessive Science Games,"Action, Adventure, Indie, RPG",6.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Adventure, RPG, Multiplayer",9,5
+587580,Nature Treks VR,game,"May 4, 2017",0,John Carline,GreenerGames,"Indie, Simulation",9.99,,279.0,0,2017,"20,000 .. 50,000",,84,84,"Simulation, Indie, VR, Nature, Relaxing",245,47
+294440,Shadowgate,game,"Aug 21, 2014",0,Zojoi,Zojoi,"Adventure, Indie",14.99,68.0,486.0,0,2014,"50,000 .. 100,000",,187,185,"Adventure, Point & Click, Remake, Puzzle, Singleplayer",603,90
+364980,Bunker Constructor,game,"Jun 24, 2016",0,Tindalos Interactive,,"Casual, Simulation, Strategy",0.69,,,0,2016,"0 .. 20,000",,0,0,"Casual, Strategy, Simulation",19,12
+269250,WORLD END ECONOMiCA episode.01,game,"Jun 17, 2014",0,Spicy Tails,Sekai Project,Indie,12.99,,453.0,0,2014,"50,000 .. 100,000",,242,349,"Visual Novel, Anime, Indie, Economy, Sci-fi",595,111
+633660,Onimod Land,game,"Nov 10, 2017",0,Astralax,Astralax,Strategy,9.99,,,0,2017,"0 .. 20,000",,0,0,"Strategy, RTS",14,3
+508650,Signal Decay,game,"Sep 19, 2019",0,Nela System,"Nela System, Gamirror Games","Action, Adventure, Indie, Strategy, Early Access",13.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Strategy, Action, Adventure, Co-op",53,12
+358700,3d Bridges,game,"Mar 23, 2015",0,Robert Dahlenburg,Dahlenburg,Simulation,3.99,,,0,2015,"0 .. 20,000",,0,0,"Simulation, Building, Physics, Indie, Sandbox",10,17
+656740,Cosmonator,game,"Jan 21, 2019",0,Bourbontank,Bourbontank,"Action, Indie, RPG",6.99,,,0,2019,"20,000 .. 50,000",,0,0,"Action, Indie, RPG, Shoot 'Em Up, Top-Down Shooter",84,13
+1076100,Illusion of L'Phalcia,game,"Jul 2, 2019",0,Exe Create Inc.,KEMCO,"Adventure, Casual, RPG, Strategy",12.99,,,0,2019,"0 .. 20,000",,0,0,"Adventure, RPG, Casual, Strategy, Anime",5,3
+630900,Illwinter's Floorplan Generator,game,"May 4, 2018",0,Illwinter Game Design,Illwinter Game Design,"RPG, Design & Illustration, Utilities",7.99,,448.0,0,2018,"50,000 .. 100,000",,580,785,"Design & Illustration, RPG, Utilities, Software, Tabletop",429,33
+883160,Legend of Dragon Labyrinth,game,"Oct 15, 2018",0,13-lab,"13-lab, azimuth team","Casual, Indie",0.99,,,0,2018,"20,000 .. 50,000",,0,0,"Indie, Casual, RPGMaker",1,0
+783840,Lakeview Valley,game,"Oct 22, 2019",0,Roope Tamminen,Roope Tamminen,"Adventure, Indie, RPG",14.99,,690.0,0,2019,"0 .. 20,000",,412,801,"CRPG, Tactical RPG, Survival Horror, Fishing, Action RPG",595,122
+1138580,Farmington County: The Ultimate Farming Tycoon Simulator,game,"Oct 26, 2019",0,"Grenoble Interactive, LLC","Grenoble Interactive, LLC","Indie, Simulation, Strategy, Early Access",14.99,,109.0,0,2019,"0 .. 20,000",,0,0,"Farming Sim, Simulation, Indie, Strategy, Early Access",79,28
+416090,Caretaker Retribution,game,"Dec 15, 2016",0,Xiotex Studios Ltd,Xiotex Studios Ltd,"Action, Indie, Simulation",0.0,,,0,2016,"0 .. 20,000",,0,0,"Action, Indie, Simulation, VR, 6DOF",4,2
+595360,NIGHTSTAR: Rogue Wings,game,"Mar 30, 2017",0,SOLIDMESH,SOLIDMESH,"Action, Indie, Simulation, Early Access",0.0,,,0,2017,"0 .. 20,000",,0,0,"Action, Indie, Simulation, Early Access, Space",21,12
+404530,Voxel Turf,game,"13 Sep, 2017",0,L Twigger,L Twigger,"Action, Indie, Simulation, Strategy",7.99,,519.0,0,2017,"50,000 .. 100,000",,1167,2166,"Action, Simulation, Sandbox, Strategy, Indie",500,68
+1137650,Switchblade,game,"Aug 22, 2019",0,"Core Design, Gremlin Interactive","Piko Interactive LLC, Bleem!","Action, Adventure",8.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Adventure, 2D",5,4
+461550,Typing Instructor Platinum 21 - Mac,game,"Feb 10, 2017",0,Individual Software,Individual Software,Education,29.99,,,0,2017,"0 .. 20,000",,0,0,,0,0
+1049690,Catch the Head,game,"Aug 29, 2019",0,Horos Interactive,Audio Visual Enterprises S.A.,"Action, Adventure, Indie",7.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Adventure, Violent, Sexual Content",8,0
+612840,Boxplosion,game,"Jan 15, 2018",0,DNV,DNV,"Casual, Indie, Simulation",1.99,,,0,2018,"0 .. 20,000",,0,0,"Casual, Indie, Simulation, VR",10,1
+791370,Xploquest 2,game,"Feb 20, 2018",0,Jean-Sébastien Nouveau,33 Production,"Adventure, RPG",0.0,,,0,2018,"0 .. 20,000",,320,320,"Adventure, RPG",19,4
+622460,Steampunk Tower 2,game,"Apr 19, 2018",0,DreamGate,DreamGate,"Action, Indie, Strategy",7.99,,306.0,0,2018,"100,000 .. 200,000",,641,626,"Steampunk, Tower Defense, Action, Strategy, Indie",265,89
+883130,New Star Manager,game,"Sep 27, 2018",0,New Star Games Ltd.,Five Aces Publishing Ltd.,"Indie, Simulation, Sports",19.99,,480.0,0,2018,"0 .. 20,000",,336,336,"Simulation, Sports, Indie, Football (Soccer), Management",428,60
+913570,Cave under Richmordnom,game,"Aug 23, 2018",0,Drymir,Drymir,"Adventure, Indie, RPG",0.99,,,0,2018,"0 .. 20,000",,0,0,"Adventure, RPG, Indie",2,1
+351490,Intergalactic Bubbles,game,"May 29, 2015",0,Hellscape Games,Hellscape Games,"Casual, Indie",1.99,,1012.0,0,2015,"200,000 .. 500,000",,190,194,"Casual, Indie, Puzzle, Singleplayer, Arcade",931,251
+378360,Ymir,game,"Mar 16, 2019",0,Thibaud Michaud,Thibaud Michaud,"Indie, Simulation, Strategy, Early Access",34.99,,836.0,0,2019,"100,000 .. 200,000",,6405,9557,"City Builder, Colony Sim, Strategy, Multiplayer, Economy",818,261
+1059660,Life Combinations,game,"Apr 26, 2019",0,Awix Studio,Awix Studio,"Casual, Indie, Simulation, Early Access",0.99,,,0,2019,"0 .. 20,000",,0,0,"Early Access, Casual, Indie, Simulation",3,1
+820830,The famous diver,game,"Mar 22, 2018",0,Laush Dmitriy Sergeevich,Laush Studio,"Action, Casual, Indie, Simulation",3.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Casual, Indie, Simulation, Underwater",13,4
+668290,From Orbit,game,"Aug 27, 2019",0,Tentacle Head Games,Tentacle Head Games,"Action, Indie, Strategy",4.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Strategy, Indie, RTS, Casual",4,6
+646100,Woodlands,game,"Sep 27, 2017",0,"Acuze Interactives, Winterbyte",Acuze Interactives,"Action, Adventure, Indie",5.99,,,0,2017,"50,000 .. 100,000",,16,23,"Indie, Action, Adventure, Survival, Horror",88,213
+575800,Arizona Rose and the Pharaohs' Riddles,game,"Jan 18, 2017",0,Anawiki Games,Anawiki Games,"Casual, Indie, Strategy",9.99,,,0,2017,"0 .. 20,000",,0,0,"Indie, Casual, Strategy, Puzzle",8,3
+634120,Inmates,game,"Oct 5, 2017",0,Davit Andreasyan,Iceberg Interactive,"Adventure, Indie",9.99,,258.0,0,2017,"20,000 .. 50,000",,126,150,"Adventure, Indie, Horror, Walking Simulator, First-Person",174,127
+316260,Disney Universe,game,"Oct 6, 2014",0,Eurocom,Disney,"Action, Adventure",19.99,,293.0,0,2014,"50,000 .. 100,000",,221,117,"Family Friendly, Cartoony, Adventure, Action, Co-op",319,69
+604040,Legion Tale,game,"Sep 20, 2017",0,Maulidan Games,Maulidan Games,"Indie, Strategy",4.99,,,0,2017,"50,000 .. 100,000",,337,339,"Tactical RPG, Turn-Based Tactics, Turn-Based, Strategy RPG, Turn-Based Strategy",14,5
+762850,Cubit,game,"Feb 6, 2019",0,S.A. DigiWorks,S.A. DigiWorks,Casual,0.99,,,0,2019,"0 .. 20,000",,0,0,Casual,3,5
+437530,A Blind Legend,game,"Apr 7, 2016",0,Dowino,Plug In Digital,"Action, Adventure, Indie",6.99,,200.0,0,2016,"20,000 .. 50,000",,180,288,"Adventure, Action, Indie",235,72
+311120,The Stalin Subway: Red Veil,game,"Oct 24, 2014",0,Orion Games,ESDigital Games,Action,2.99,,539.0,0,2014,"200,000 .. 500,000",,258,246,"Action, FPS, Female Protagonist, Shooter, First-Person",269,305
+410670,Suits: A Business RPG,game,"Jan 5, 2016",0,Technomancy Studios,Technomancy Studios,"Action, Adventure, Indie, RPG",0.99,,925.0,0,2016,"200,000 .. 500,000",,207,211,"RPG, Dark Comedy, Stylized, Turn-Based Combat, Hand-drawn",873,121
+516940,MineSweeper VR,game,"Aug 25, 2016",0,Funny Twins,Funny Twins,"Action, Casual, Indie, Simulation",3.99,,,0,2016,"0 .. 20,000",,3,5,"Action, Indie, Casual, Simulation, VR",34,9
+511110,DodgeBall Blitz,game,"Sep 2, 2016",0,C3 Games Inc,C3 Games Inc,"Action, Indie, Sports, Early Access",14.99,,,0,2016,"0 .. 20,000",,0,0,,0,0
+465750,Tank Battle: North Africa,game,"Jul 12, 2016",0,HexWar Games,Hunted Cow Games,Strategy,9.99,,,0,2016,"20,000 .. 50,000",,289,289,"Strategy, Hex Grid, Turn-Based Strategy, World War II",26,11
+1053660,Chaos Starter,game,"Apr 5, 2019",0,Kiddy,Kiddy,"Action, Adventure, Casual, Indie, Simulation",0.99,,,0,2019,"20,000 .. 50,000",,0,0,"Action, Casual, Simulation, Adventure, Indie",30,21
+605490,One Hit KO,game,"Apr 5, 2017",0,Three Frog Studios,Three Frog Studios,"Action, Casual, Indie",6.99,,,0,2017,"0 .. 20,000",,0,0,"Casual, Action, Indie",8,2
+448960,"I, Hope",game,"Feb 21, 2018",0,Kenny Roy,"++Good Games, GameChanger Charity","Action, Adventure, Casual, Indie",9.99,,,0,2018,"0 .. 20,000",,71,71,"Action, Adventure, Indie, Casual, Female Protagonist",31,6
+1129660,Runefall 2,game,"Oct 10, 2019",0,Playcademy,GC Games,Casual,9.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Match 3",45,12
+292180,X-Plane 10 Global - 64 Bit,game,"Jul 14, 2014",0,Laminar Research,Aerosoft GmbH,Simulation,0.0,,932.0,0,2014,"50,000 .. 100,000",,620,846,"Simulation, Flight, Realistic, Open World, Multiplayer",717,297
+1095140,PrimeOrbial,game,"Jul 16, 2019",0,"RainbowVerse, LLC",Self,"Action, Adventure, Casual, Indie, Simulation, Early Access",4.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Action, Early Access, Adventure, Simulation",4,0
+973410,The Elementalist,game,"May 27, 2019",0,Zack Radick,Zack Radick,"Action, Adventure, Indie, RPG",4.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Action, Adventure, RPG, Pixel Graphics",9,0
+1094250,It Stares Back,game,"Jun 25, 2019",0,Light Arc Studio Ltd,Light Arc Studio Ltd,"Action, Adventure, Indie, RPG, Strategy, Early Access",9.99,,,0,2019,"0 .. 20,000",,0,0,"Strategy, Action, Indie, RPG, Adventure",87,5
+536660,JCB Pioneer: Mars,game,"Sep 1, 2017",0,Atomicom,GamesCo,"Action, Adventure, Indie, Simulation, Early Access",24.99,,128.0,0,2017,"0 .. 20,000",,199,199,"Early Access, Simulation, Action, Adventure, Indie",64,89
+362920,Atlantis 2: Beyond Atlantis,game,"Apr 17, 2015",0,"Cryo Interactive, Koalabs",Microids,Adventure,3.99,,,0,2015,"0 .. 20,000",,245,245,"Adventure, Point & Click",38,63
+1113940,Electronic Super Joy 2,game,"Aug 9, 2019",0,Michael Todd Games,2&30 Software,Indie,0.0,,,0,2019,"50,000 .. 100,000",,146,187,"Indie, Difficult, Platformer, Free to Play, 2D",621,93
+915760,Aether Drift,game,"Aug 27, 2018",0,Toxic Sasquatch Games,Toxic Sasquatch LLC,"Action, Indie",0.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Arcade, Singleplayer, Bullet Hell",4,0
+416840,Color By,game,"Jan 21, 2016",0,Team Polykroma,Polykroma Games,Indie,9.99,,,0,2016,"0 .. 20,000",,0,0,"Indie, Puzzle, Puzzle-Platformer, 2D, Great Soundtrack",6,1
+529130,Expect The Unexpected,game,"Dec 8, 2016",0,GoldenGod Games,GoldenGod Games,"Casual, Indie, RPG, Strategy",1.0,,,0,2016,"20,000 .. 50,000",,633,980,"RPG, Strategy, Casual, Indie, Rogue-like",59,30
+836440,MonsterxMan: Inheritence To Lust,game,"Apr 24, 2018",0,Hexadecimalstudios,Hexadecimalstudios,"Sexual Content, Nudity, Adventure, Free To Play, Indie, RPG",0.0,,,0,2018,"20,000 .. 50,000",,129,129,"Free to Play, Sexual Content, Nudity, RPG, Adventure",67,18
+796580,100 Seconds,game,"Mar 12, 2018",0,Cien Studio,Cien Studio,Casual,0.99,,,0,2018,"20,000 .. 50,000",,0,0,"Casual, Bullet Hell, Arcade",0,2
+691680,Ganbatte,game,"Apr 19, 2018",0,Mimicry,Mimicry,"Casual, Indie, Early Access",6.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, Early Access, Casual, VR, Arcade",2,1
+399670,Game Corp DX,game,"Oct 2, 2015",0,Endless Loop Studios,Endless Loop Studios,"Indie, Simulation",2.99,,2712.0,0,2015,"200,000 .. 500,000",,316,234,"Management, Simulation, Economy, Indie, 2D",2701,374
+584170,Freedom Locomotion VR,game,"Mar 13, 2017",0,Huge Robot,Huge Robot,"Casual, Free To Play, Indie",0.0,,,0,2017,"50,000 .. 100,000",,31,46,"Free to Play, Indie, Casual, VR",192,30
+559210,Rakuen,game,"May 10, 2017",0,Laura Shigihara,Laura Shigihara,,14.99,84.0,4656.0,0,2017,"200,000 .. 500,000",,255,219,"Story Rich, Emotional, Puzzle, Cute, JRPG",5629,219
+227160,Kinetic Void,game,"Nov 21, 2014",0,Badland Studio,Badland Studio,"Action, Indie, Simulation",9.99,,1381.0,0,2014,"100,000 .. 200,000",,250,169,"Space, Simulation, Indie, Action, Sandbox",270,1283
+816490,Hidden Paws,game,"Mar 22, 2018",0,Manic Hyena,Manic Hyena,"Casual, Indie",2.99,,821.0,0,2018,"50,000 .. 100,000",,53,54,"Relaxing, Cats, Hidden Object, Casual, Family Friendly",731,126
+336230,Way to Go!,game,"Jun 8, 2015",0,Makivision Games,Makivision Games,Indie,4.99,,,0,2015,"0 .. 20,000",,24,24,"Indie, Puzzle, Casual",27,3
+1029160,Sunset Planet,game,"Mar 1, 2019",0,So Dank Studio,So Dank Studio,"Adventure, Indie, Strategy",0.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Strategy, Adventure, Tower Defense, Difficult",13,4
+975710,Qipa World-Hello Big Adventure,game,"Dec 17, 2018",0,QIPAWORLD,QIPAWORLD,"Adventure, Casual, Indie",0.99,,,0,2018,"20,000 .. 50,000",,0,0,"Dark, Quick-Time Events, Dark Fantasy, Difficult, Exploration",19,6
+800510,RoboHeist VR,game,"Apr 13, 2018",0,Blob Lab,Blob Lab,"Action, Casual, Indie",12.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Casual, VR",4,3
+1094010,火柴人联盟2,game,"Dec 19, 2019",0,厦门市火柴人科技有限公司,"深圳市中顺和盈科技有限公司, BlueStacks","Action, Adventure, Free To Play, Massively Multiplayer, RPG",0.0,,,0,2019,"20,000 .. 50,000",,0,0,"Action, Free to Play, RPG, Adventure, Massively Multiplayer",22,19
+34282,Shadow Dancer™,game,"Jun 1, 2010",0,SEGA,SEGA,Action,0.0,,,0,2010,"20,000 .. 50,000",,0,0,"Action, Ninja, Platformer, 2D, Classic",36,3
+40800,Super Meat Boy,game,"Nov 30, 2010",0,Team Meat,,Indie,14.99,87.0,27305.0,0,2010,"2,000,000 .. 5,000,000",,340,138,"Precision Platformer, Platformer, Difficult, Indie, 2D Platformer",33571,1923
+371450,Awe,game,"Oct 9, 2015",0,Badland Development Studio,BadLand Publishing,"Casual, Indie",0.99,,207.0,0,2015,"20,000 .. 50,000",,125,195,"Casual, Indie, Puzzle, God Game, Colorful",185,73
+42920,The Kings' Crusade,game,"Oct 8, 2010",0,NeoCoreGames,,Strategy,9.99,71.0,103.0,0,2010,"50,000 .. 100,000",,146,135,"Strategy, Medieval, RTS, Historical",66,101
+959540,Devil's Toy,game,"Nov 6, 2018",0,Blueplant Entertainment,Blueplant Entertainment,"Adventure, Casual, Indie",0.99,,,0,2018,"0 .. 20,000",,0,0,"Adventure, Indie, Casual, Horror, Atmospheric",30,15
+1167650,Context,game,"Oct 24, 2019",0,SunshineOvercast,SunshineOvercast,"Casual, Indie",0.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Indie, Clicker, Point & Click",1,2
+939250,Dungeons and Dinners,game,"Oct 14, 2018",0,Dobest Studio,Dobest Studio,"Adventure, Casual, Indie, RPG, Strategy, Early Access",0.99,,,0,2018,"20,000 .. 50,000",,0,0,"Strategy, Adventure, RPG, Indie, Early Access",4,0
+305490,Heileen 3: New Horizons,game,"Jul 17, 2014",0,Winter Wolves,Winter Wolves,"Adventure, Casual, Indie, Simulation",24.99,,,0,2014,"0 .. 20,000",,166,228,"Visual Novel, Simulation, Pirates, LGBTQ+, Female Protagonist",56,32
+488360,Vistascapes VR,game,"Jul 8, 2016",0,Bird Man Games,Bird Man Games,"Action, Adventure, Simulation",0.0,,,0,2016,"0 .. 20,000",,0,0,"Simulation, Adventure, Action, VR",21,18
+682280,Code 9,game,"Aug 24, 2017",0,Brendan Wiltshire,Brendan Wiltshire,"Casual, Indie",2.99,,,0,2017,"0 .. 20,000",,0,0,"Indie, Casual, Puzzle",3,0
+648070,CrisisActionVR,game,"Sep 11, 2017",0,Pixel Wonder,Pixel Wonder,"Violent, Gore, Action, Adventure, Indie, Massively Multiplayer",19.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Adventure, Massively Multiplayer, Indie, Gore",14,11
+791320,Zahalia,game,"Mar 6, 2018",0,LunarCore Games,LunarCore Games,"Adventure, Indie",1.99,,,0,2018,"20,000 .. 50,000",,0,0,"Adventure, Indie, Singleplayer, Exploration, 2D",9,6
+1012390,Fruitlockers Reborn! 2,game,"Jan 23, 2019",0,e-FunSoft Games,HH-Games,"Action, Casual, Indie, Strategy",6.99,,,0,2019,"20,000 .. 50,000",,0,0,"Strategy, Action, Indie, Casual, Match 3",8,6
+738030,Monjarmageddon,game,"Mar 22, 2019",0,Mantis Shrimp Studio,Mantis Shrimp Studio,Indie,2.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Nudity, Pixel Graphics, Platformer, Difficult",6,1
+764630,Alien Invaders from the Planet Plorth,game,"Jan 15, 2018",0,Robert Lanthier,Robert Lanthier,"Action, Casual, Indie",3.99,,,0,2018,"0 .. 20,000",,0,0,,0,0
+962070,Angry King,game,"Nov 5, 2018",0,PixToPix Studios,Firehawk Studios,"Action, Casual, Indie",0.0,,,0,2018,"0 .. 20,000",,0,0,"Indie, Action, Casual",1,12
+690610,MagiCats Builder (Crazy Dreamz),game,"Jul 10, 2018",0,Dreamz Studio,Dreamz Studio,"Adventure, Free To Play, Indie",0.0,,,0,2018,"50,000 .. 100,000",,57,51,"Free to Play, Indie, Puzzle-Platformer, Platformer, Sandbox",115,72
+905510,Rugösi,game,"Aug 8, 2018",0,Goetheden,,"Action, Adventure, Casual, Indie",1.99,,,0,2018,"0 .. 20,000",,0,0,"Platformer, 2D Platformer, Funny, Pixel Graphics, Retro",16,4
+539750,Kombine,game,"Oct 14, 2016",0,Robert Alvarez,Robert Alvarez,"Casual, Indie, Strategy",0.99,,134.0,0,2016,"0 .. 20,000",,202,205,"Puzzle, 2D, Minimalist, Match 3, Singleplayer",111,33
+1059370,IMPALE YOUR FRIENDS!,game,"Jun 19, 2019",0,James Korin,James Korin,"Action, Casual, Indie",4.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Casual, Platformer, Multiplayer",3,0
+661700,心の闇の先に Trial VersionⅡ,game,"Jan 15, 2018",0,It's a Wonderful Life,It's a Wonderful Life,"Adventure, Free To Play",0.0,,,0,2018,"0 .. 20,000",,0,0,"Free to Play, Adventure",18,10
+486940,Handball Action Total,game,"Feb 16, 2018",0,netmin games,netmin games,"Simulation, Sports",11.99,,,0,2018,"0 .. 20,000",,0,0,"Sports, Simulation, Arcade, 3D, Realistic",19,7
+778860,Animals Memory: Insect,game,"Jan 26, 2018",0,Laush Dmitriy Sergeevich,Laush Studio,"Casual, Indie",3.99,,,0,2018,"0 .. 20,000",,0,0,"Casual, Indie, Puzzle, Atmospheric, Logic",36,10
+876850,WhiteLily 1：丽丽公主,game,"Aug 16, 2018",0,游学者狐狸,游学者狐狸,"Adventure, Casual, Indie, RPG, Strategy",2.99,,191.0,0,2018,"20,000 .. 50,000",,0,0,"RPG, Casual, Adventure, Indie, Strategy",1135,71
+482390,The Night Cafe: A VR Tribute to Vincent Van Gogh,game,"Jun 3, 2016",0,Borrowed Light VR,Borrowed Light VR,"Casual, Indie",0.0,,,0,2016,"20,000 .. 50,000",,13,13,"Casual, Indie, VR, Free to Play",258,13
+676320,Letter-Setter,game,"Aug 16, 2017",0,Beaver Drummer,Beaver Drummer,"Casual, Indie",2.99,,,0,2017,"0 .. 20,000",,0,0,"Word Game, Score Attack, Puzzle, Casual, Hand-drawn",2,2
+946360,inside path,game,"Oct 18, 2018",0,Incensecoil,Incensecoil,"Casual, Indie, Strategy",0.99,,,0,2018,"0 .. 20,000",,0,0,,0,0
+513330,Party Tycoon,game,"Oct 19, 2017",0,"Pinokl Games, Kverta Limited",tinyBuild,"Indie, Simulation, Strategy, Early Access",4.99,,293.0,0,2017,"20,000 .. 50,000",,133,155,"Simulation, Strategy, Indie, Early Access, Management",177,194
+1034120,GACHIMUCHI The Card Game,game,"Mar 7, 2019",0,M♂NLY,M♂NLY,"Adventure, Casual, Indie, RPG, Simulation, Sports, Strategy",0.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Sexual Content, Nudity, Indie, Strategy",10,4
+736430,Clicker bAdventure,game,"Dec 27, 2017",0,Luminark,Luminark,"Action, Adventure, Indie",2.99,,,0,2017,"0 .. 20,000",,59,59,"Action, Indie, Adventure, Clicker",25,66
+699510,The New California,game,"Nov 19, 2017",0,Game e Arte,Game e Arte,"Adventure, Casual, Indie",9.99,,,0,2017,"0 .. 20,000",,0,0,"Adventure, Indie, Casual, RPGMaker",8,2
+1100180,Yousei Daisensou ~ Touhou Sangetsusei,game,"Aug 2, 2019",0,上海アリス幻樂団,"Mediascape Co., Ltd.","Action, Indie",10.99,,120.0,0,2019,"0 .. 20,000",,199,290,"Indie, Action, Bullet Hell, Shoot 'Em Up, Faith",113,4
+959000,Edna & Harvey: The Breakout - Anniversary Edition,game,"Dec 4, 2019",0,Daedalic Entertainment,Daedalic Entertainment,"Adventure, Indie",1.99,,703.0,0,2019,"50,000 .. 100,000",,319,389,"Adventure, Indie, Point & Click, Puzzle, Comedy",672,60
+731180,Coffee Run,game,"Oct 30, 2017",0,Andrew Rodenhiser,Andrew Rodenhiser,"Action, Casual, Free To Play, Indie",0.0,,,0,2017,"20,000 .. 50,000",,36,36,"Free to Play, Indie, Casual, Action, Comedy",90,26
+376410,Acaratus,game,"May 25, 2017",0,Nodbrim Interactive,Nodbrim Interactive,"Adventure, Indie, RPG, Strategy",14.99,,,0,2017,"0 .. 20,000",,0,0,"Strategy, Adventure, RPG, Indie, Mechs",29,31
+723110,Scrap Galaxy,game,"Dec 1, 2017",0,Catalope Games,Catalope Games,"Action, Indie",7.99,,,0,2017,"20,000 .. 50,000",,0,0,"4 Player Local, Local Multiplayer, Building, Sci-fi, Shoot 'Em Up",14,4
+788040,Edvog Explorer Game,game,"Apr 20, 2018",0,Andrei Ionita,Andrei Ionita,"Action, Casual, Indie",0.0,,,0,2018,"0 .. 20,000",,0,0,"Indie, Action, Casual, Adventure, Simulation",1,0
+699080,Jake's Love Story,game,"Oct 5, 2017",0,Mikołaj Spychał,Mikołaj Spychał,"Adventure, Casual, Indie, Simulation",2.99,,119.0,0,2017,"20,000 .. 50,000",,17,17,"Visual Novel, Anime, Dating Sim, Parody , Comedy",116,26
+1068120,CrunchTime,game,"Oct 10, 2019",0,Umiringo Studio,Navila Software Japan,"Action, Adventure, Indie",0.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Adventure, Platformer",16,3
+1061420,Obscure Doubt,game,"Apr 26, 2019",0,Disbanded Crow,RPG Maker MV,RPG,3.99,,,0,2019,"0 .. 20,000",,0,0,"RPG, RPGMaker",3,0
+363180,Tenshu General,game,"Dec 1, 2015",0,SmartArt Game Studio,Tenshu General,"Casual, Indie, Strategy",5.99,,,0,2015,"0 .. 20,000",,0,0,"Strategy, Indie, Casual, RTS",21,11
+843620,Forest Below,game,"May 17, 2018",0,Team Arborium,Team Arborium,Casual,0.0,,,0,2018,"0 .. 20,000",,0,0,"Casual, Free to Play, Puzzle",13,1
+618570,Pixel Arcade Legacy,game,"Apr 2, 2018",0,CJG Studio,CJG Studio,"Action, Adventure, Casual, Indie, Simulation",4.99,,,0,2018,"0 .. 20,000",,206,206,"Action, Indie, Casual, Simulation, Adventure",16,4
+110600,Astro Tripper,game,"Sep 15, 2011",0,PomPom,Pom Pom Games,"Action, Indie",4.99,,,0,2011,"20,000 .. 50,000",,253,258,"Action, Indie, Shoot 'Em Up, Arcade, Shooter",38,29
+773530,Magic Nations - Card Game,game,"Sep 20, 2018",0,Prime Bit Games SA,Prime Bit Games SA,"Casual, Indie, Strategy",14.99,,,0,2018,"0 .. 20,000",,0,0,"Strategy, Indie, Card Game, Turn-Based Strategy, Trading Card Game",83,35
+404730,Wasteland 2: Director's Cut,game,"Sep 18, 2014",17,inXile Entertainment,inXile Entertainment,"Adventure, Indie, RPG, Strategy",29.99,87.0,4644.0,0,2014,"500,000 .. 1,000,000",,1139,475,,0,0
+945490,Little Square Things,game,"Sep 28, 2019",0,G.Reed,,"Indie, Strategy",0.0,,,0,2019,"200,000 .. 500,000",,0,0,"Early Access, Indie, Strategy, Puzzle, Sokoban",69,10
+301260,Gardens Inc. 2: The Road to Fame,game,"May 22, 2014",0,"World-Loom, Nitreal",MumboJumbo,"Casual, Simulation, Strategy",9.99,,,0,2014,"0 .. 20,000",,11,11,"Casual, Strategy, Simulation, Time Management",51,8
+510710,Bloxiq VR,game,"Aug 29, 2016",0,Blot Interactive,Red Meat Games,"Casual, Indie, Strategy",14.99,,,0,2016,"0 .. 20,000",,0,0,"Puzzle, Difficult, Logic, VR, Sokoban",4,3
+1091350,Valley Run,game,"Jul 3, 2019",0,Alliance4devs,Alliance4devs,"Action, Casual, Racing",0.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Casual, Racing, VR",1,2
+813360,Space Duty,game,"Mar 21, 2018",0,cybercritics,cybercritics,"Adventure, RPG",0.0,,,0,2018,"0 .. 20,000",,0,0,"Adventure, RPG",1,0
+846220,Catsapults,game,"Jun 12, 2018",0,Midnight Warden,Superfantastic Productions,"Adventure, Casual, Indie",1.99,,,0,2018,"0 .. 20,000",,2,2,"Casual, Indie, Adventure, Puzzle, Singleplayer",3,0
+223750,DCS World Steam Edition,game,"Aug 2, 2013",0,Eagle Dynamics SA,Eagle Dynamics SA,"Simulation, Free To Play",0.0,,686.0,0,2013,"5,000,000 .. 10,000,000",,794,66,"Simulation, Flight, Free to Play, Military, Multiplayer",31661,5528
+291170,Royal Defense,game,"Nov 10, 2014",0,"Good Games, Creobit",8Floor,"Adventure, Casual, Indie, Strategy",14.99,,240.0,0,2014,"100,000 .. 200,000",,252,302,"Strategy, Casual, Indie, Tower Defense, Adventure",272,104
+236490,Hexodius,game,"Jun 21, 2013",0,Brain Slap Studio,BANDAI NAMCO Entertainment,"Action, Indie",9.99,47.0,,0,2013,"0 .. 20,000",,0,0,"Action, Indie, Twin Stick Shooter",31,18
+1002510,The Spell - A Kinetic Novel,game,"Jan 15, 2019",0,Hangover Cat Purrroduction,Hangover Cat Purrroduction,"Casual, Indie",4.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Casual, Visual Novel, Psychological, Mystery",29,0
+346940,Shadowrun: Hong Kong - Extended Edition,game,"Aug 20, 2015",0,Harebrained Schemes,Paradox Interactive,"Adventure, Indie, RPG, Strategy",19.99,81.0,3483.0,0,2015,"500,000 .. 1,000,000",,1657,997,"RPG, Cyberpunk, Turn-Based, Isometric, Story Rich",4030,614
+40420,Tidalis,game,"Jul 16, 2010",0,Arcen Games,Arcen Games,"Casual, Indie",4.99,75.0,103.0,0,2010,"100,000 .. 200,000",,653,35,"Casual, Indie, Puzzle, Match 3, Co-op",151,85
+288790,White Haven Mysteries,game,"Apr 17, 2014",0,Gogii Games,Strategy First,Adventure,3.99,,,0,2014,"20,000 .. 50,000",,5,5,"Adventure, Hidden Object, Point & Click",56,48
+434970,That Dam Level redux,game,"Feb 25, 2016",0,noiarc,noiarc,"Action, Indie",8.99,,,0,2016,"0 .. 20,000",,0,0,"Action, Indie, Crafting, 2D, Retro",2,1
+283620,World of Subways 3 – London Underground Circle Line,game,"May 12, 2014",0,TML-Studios,Aerosoft GmbH,"Casual, Indie, Simulation",0.0,,573.0,0,2014,"100,000 .. 200,000",,383,537,"Simulation, Trains, Casual, Driving, Realistic",479,179
+1152410,Karate Cat,game,"Oct 10, 2019",0,Take Toad,Take Toad,"Casual, Indie",0.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Indie, 2D, Pixel Graphics, Cute",83,5
+350970,Planet of the Eyes,game,"Aug 24, 2015",0,Cococucumber,Cococucumber,"Action, Adventure, Indie",9.99,66.0,167.0,0,2015,"100,000 .. 200,000",,307,457,"Puzzle, Platformer, Indie, Action, Adventure",479,93
+308560,City Quest,game,"Aug 20, 2015",0,Stone Monkey Studios,Stone Monkey Studios,"Adventure, Indie",1.99,,,0,2015,"0 .. 20,000",,290,293,"Adventure, Indie, Point & Click, Comedy, Dark Comedy",35,12
+418650,Space Pirate Trainer,game,"Oct 12, 2017",0,I-Illusions,I-Illusions,Action,14.99,,2633.0,0,2017,"200,000 .. 500,000",,142,56,"VR, Action, Space, Shooter, First-Person",2664,158
+1064920,VR Party Pack,game,"May 4, 2019",0,Roxanne Marshall-Porter,Stack Interactive,"Casual, Indie",0.0,,,0,2019,"0 .. 20,000",,0,0,"Indie, Casual, VR",1,0
+1088040,MMA Executive,game,"Aug 26, 2019",0,Vectormatrix Limited,Vectormatrix Limited,"Casual, Indie, Simulation, Sports, Strategy",5.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Strategy, Simulation, Sports, Indie",6,5
+1128420,Solitaire Jack Frost Winter Adventures,game,"Sep 1, 2019",0,Somer Games,8floor,Casual,4.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Card Game, Solitaire, Tabletop, Match 3",3,4
+313740,Sakura Spirit,game,"Jul 9, 2014",0,Winged Cloud,Winged Cloud,Indie,9.99,,4930.0,0,2014,"200,000 .. 500,000",,494,148,"Anime, Visual Novel, Nudity, Mature, Dating Sim",5448,1504
+960820,Data mining 2,game,"Oct 25, 2018",0,Blender Games,Blender Games,"Adventure, Casual, Indie, Simulation, Strategy",1.99,,,0,2018,"0 .. 20,000",,0,0,"Puzzle, Simulation, Abstract, Physics, 2D",14,15
+237760,Intake,game,"Nov 6, 2013",0,Cipher Prime Studios,Cipher Prime Studios,"Action, Indie",9.99,,,0,2013,"50,000 .. 100,000",,201,187,"Indie, Action, Arcade, Score Attack, Great Soundtrack",359,34
+1022480,KAMIKO,game,"Jun 26, 2019",0,"SKIPMORE, ESQUADRA,inc., Kan.Kikuchi",Flyhigh Works,"Action, Adventure",4.99,,198.0,0,2019,"0 .. 20,000",,100,106,"Action, Hack and Slash, Pixel Graphics, Top-Down, Fantasy",175,30
+532080,Apocalypse Mechanism,game,"Jun 11, 2018",0,Mirage Interactive,Mirage Interactive,"Action, Adventure, Early Access",14.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Adventure, Early Access, VR",7,7
+407420,Gabe Newell Simulator,game,"Dec 14, 2015",0,Antonio Renna,Antonio Renna,"Action, Adventure, Casual, Indie, Simulation",2.99,,516.0,0,2015,"20,000 .. 50,000",,168,215,"Memes, Action, Simulation, Indie, Adventure",346,322
+391280,Epic Manager - Create Your Own Adventuring Agency!,game,"Dec 12, 2016",0,ManaVoid Entertainment,"ManaVoid Entertainment, Indie Asylum","Adventure, Indie, RPG, Simulation, Strategy",17.99,,183.0,0,2016,"100,000 .. 200,000",,124,203,"Choose Your Own Adventure, Rogue-lite, Economy, Management, Medieval",159,79
+471770,"In Case of Emergency, Release Raptor",game,"Aug 29, 2016",0,Arcen Games,Arcen Games,"Action, Adventure, Indie",0.0,,,0,2016,"0 .. 20,000",,17,17,"3D Platformer, Immersive Sim, Dinosaurs, Robots, Physics",65,21
+461830,Adventure Apes and the Mayan Mystery,game,"Jul 15, 2016",0,ScaryPotato,Groupees Interactive,"Adventure, Indie",2.99,,,0,2016,"0 .. 20,000",,242,261,"Indie, Adventure, Metroidvania, Pixel Graphics, Platformer",15,7
+990840,Running Tadpoles,game,"Dec 21, 2018",0,Mr. Neighbor,Mr. Neighbor,"Casual, Indie",0.99,,,0,2018,"0 .. 20,000",,0,0,,0,0
+889280,Marginalia,game,"Oct 1, 2019",0,"Connor Sherlock, Cameron Kunzelman",Connor Sherlock,"Adventure, Indie",5.99,,,0,2019,"20,000 .. 50,000",,0,0,"Walking Simulator, Exploration, First-Person, Story Rich, Horror",50,10
+869840,羽翼的祈愿 - Feather Of Praying,game,"Jun 6, 2018",0,秋之忧郁,Eternal Dream,"Adventure, Indie, RPG",1.99,,273.0,0,2018,"50,000 .. 100,000",,10,19,"Adventure, RPG, RPGMaker, Indie, Female Protagonist",264,10
+438490,GOD EATER 2 Rage Burst,game,"Aug 29, 2016",0,"BANDAI NAMCO Studio, SHIFT, QLOC",BANDAI NAMCO Entertainment,"Action, RPG",49.99,,3415.0,0,2016,"200,000 .. 500,000",,827,175,"Anime, Action, Character Customization, RPG, Hunting",3524,1015
+656070,Better Off Tread,game,"Sep 12, 2017",0,"Pixel Constructor, LLC.","Pixel Constructor, LLC","Action, Free To Play, Indie",0.0,,,0,2017,"20,000 .. 50,000",,15,18,"Free to Play, Action, Indie, Multiplayer, Tanks",61,33
+406930,Epic Showdown,game,"Oct 27, 2015",0,Naloki,Naloki,"Action, Casual, Indie",4.99,,,0,2015,"0 .. 20,000",,13,13,"Action, Indie, Casual",14,27
+855010,270 | Two Seventy US Election,game,"May 31, 2018",0,Political Games LLC,Political Games LLC,Strategy,0.0,,,0,2018,"200,000 .. 500,000",,172,127,"Strategy, Politics, Political, Free to Play",795,257
+312540,Ys VI: The Ark of Napishtim,game,"28 Apr, 2015",0,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.","Action, Adventure, RPG",22.99,76.0,1277.0,0,2015,"100,000 .. 200,000",,620,557,"Action, RPG, JRPG, Adventure, Great Soundtrack",1197,133
+1028340,Spare Teeth VR,game,"Dec 12, 2019",0,L2D,Level 2 Design,"Indie, Sports",3.99,,,0,2019,"0 .. 20,000",,0,0,"Sports, Indie, Casual, VR",7,2
+368570,Beat Da Beat,game,"Mar 10, 2016",0,2 players,Nekki Limited,Indie,1.99,,451.0,0,2016,"20,000 .. 50,000",,348,412,"Indie, Bullet Hell, Arcade, Rhythm, Great Soundtrack",441,31
+270880,American Truck Simulator,game,"Feb 2, 2016",0,SCS Software,SCS Software,"Indie, Simulation",4.99,76.0,154530.0,0,2016,"2,000,000 .. 5,000,000",,3687,805,"Automobile Sim, Driving, Open World, Transportation, Simulation",169735,5552
+959410,The Endless Empty,game,"Nov 3, 2018",0,Erik Sheader-Smith,Erik Sheader-Smith,"Adventure, Indie, RPG",3.99,,259.0,0,2018,"0 .. 20,000",,0,0,"RPG, Indie, Adventure, Surreal, RPGMaker",243,11
+913440,Mahjongg The Ultimate Collection 2,game,"Aug 13, 2018",0,Gunnar Games,Gunnar Games,Casual,5.99,,,0,2018,"0 .. 20,000",,0,0,Casual,10,4
+959050,Bound Up & Squirming!,game,"Apr 25, 2019",0,Stegersaurus Software Inc.,Stegersaurus Software Inc.,"Action, Adventure, Casual, Indie, Simulation",4.99,,,0,2019,"0 .. 20,000",,0,0,"Physics, Parkour, Funny, Intentionally Awkward Controls, Difficult",30,2
+991230,Highway of death,game,"Dec 18, 2018",0,Laush Dmitriy Sergeevich,Laush Studio,"Indie, Racing",1.99,,,0,2018,"0 .. 20,000",,0,0,"Runner, Casual, Racing, Bikes, Difficult",29,12
+589220,UAYEB: The Dry Land,game,"Jan 31, 2018",0,ICA GAMES,ICA GAMES,"Action, Adventure, Indie",4.99,,,0,2018,"20,000 .. 50,000",,0,0,"Singleplayer, Action-Adventure, FPS, Crafting, Survival",53,31
+993750,Girls & sweets,game,"Dec 24, 2018",0,Multiblender Games,Multiblender Games,Indie,3.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, Visual Novel, Anime, Sexual Content, RPG",3,10
+1208040,Axiel,game,"Dec 27, 2019",0,RawEgg,RawEgg,"Casual, Indie",1.99,,,0,2019,"20,000 .. 50,000",,0,0,"Indie, Casual, Puzzle, Minimalist, Atmospheric",1,0
+408920,Krai Mira: post-apocalyptic Crimea,game,"Jul 11, 2016",0,TallTech studio,,"Adventure, Indie, RPG",9.99,50.0,148.0,0,2016,"20,000 .. 50,000",,43,43,"RPG, Adventure, Indie, Post-apocalyptic, Isometric",151,98
+394960,The Facility,game,"Sep 3, 2015",0,PolyDigital,PolyDigital,"Action, Adventure, Early Access",0.0,,,0,2015,"0 .. 20,000",,0,0,"Action, Adventure, Early Access, Horror",3,1
+747110,Kamboja,game,"Mar 15, 2018",0,"Rotciv Ocnarb, João ""Humming"" Luiz",Rotciv Ocnarb,"Action, Casual, Indie",0.0,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Casual",4,1
+733990,I Can't Believe It's Not Gambling,game,"Dec 11, 2017",0,Mutant Entertainment Studios,Mutant Entertainment Studios,"Casual, Simulation",0.99,,1529.0,0,2017,"0 .. 20,000",,146,104,"Loot, Memes, Funny, Satire, Collectathon",1499,140
+704760,Grimrush,game,"Nov 30, 2017",0,Merge Heroes,Pohjoinen Pelinkehitys ry,"Action, Indie",0.0,,,0,2017,"0 .. 20,000",,0,0,"Action, Indie, Shoot 'Em Up, Top-Down Shooter, Replay Value",19,3
+528460,Rogalia,game,"Oct 15, 2018",0,"TatriX, Nanalli",TatriX,"Adventure, Indie, Massively Multiplayer, RPG",0.0,,306.0,0,2018,"50,000 .. 100,000",,4385,4440,"Massively Multiplayer, RPG, Sandbox, Open World, Indie",365,160
+12670,Mission Runway,game,"Jul 17, 2009",0,Virtual Playground,Cosmi Valusoft,Simulation,9.99,,,0,2009,"0 .. 20,000",,0,0,"Simulation, Casual",14,8
+765860,Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work,game,"Dec 18, 2017",0,"Assemble Entertainment, Sierra Entertainment",Assemble Entertainment,Adventure,0.0,,,0,2017,"20,000 .. 50,000",,32,39,"Adventure, Point & Click, Sexual Content, 2D, Nudity",43,29
+45750,Lost Planet® 2,game,"Oct 15, 2010",0,"CAPCOM CO., LTD.",Capcom,"Action, Adventure",0.0,63.0,2346.0,0,2010,"200,000 .. 500,000",,389,151,"Action, Co-op, Adventure, Mechs, Third-Person Shooter",1965,990
+850710,Skip's Sanity,game,"May 24, 2018",0,David Donarumo,David Donarumo,"Action, Casual, Indie, RPG, Simulation, Sports, Strategy",0.0,,,0,2018,"0 .. 20,000",,0,0,"Casual, Action, Strategy, RPG, Indie",21,2
+821860,Secret Laboratory,game,"Mar 27, 2018",0,Falco Software,,"Action, Casual, Indie",0.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Casual, Horror, Zombies",5,11
+577850,Tiny Wheels,game,"Jan 6, 2017",0,Wonder Assembly,Wonder Assembly,Simulation,1.99,,,0,2017,"0 .. 20,000",,90,90,"Simulation, VR",23,5
+1008000,Aetheria Online,game,"Feb 1, 2019",0,Zachary Hodges,Zachary Hodges,"Adventure, Free To Play, Indie, Massively Multiplayer, RPG",0.0,,,0,2019,"0 .. 20,000",,0,0,"Free to Play, RPG, Massively Multiplayer, Adventure, Indie",59,25
+1006920,Pull Ball,game,"Jan 18, 2019",0,Nichengun,Nichengun,"Casual, Indie",0.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Indie, Competitive, Puzzle, 2D",13,2
+1011310,PARSE ALLY,game,"Feb 4, 2019",0,wHDinc.,wHDinc.,"Action, Indie",2.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, FPS",2,4
+536950,Legend of Ares,game,"May 31, 2017",0,Bono Games,RedFox Games,"Free To Play, Massively Multiplayer",0.0,,,0,2017,"20,000 .. 50,000",,0,0,"Free to Play, Massively Multiplayer, MMORPG",35,28
+994200,天际起源 The Ark of Horizon,game,"Mar 13, 2019",0,ITBT Studio,ITBT  Studio,"Action, Adventure, Massively Multiplayer",0.0,,,0,2019,"100,000 .. 200,000",,0,0,"Free to Play, Battle Royale, Massively Multiplayer, Action, Third-Person Shooter",349,320
+1148680,Austerlitz,game,"Oct 3, 2019",0,"Turcan Research Systems, PSS",MIRROR Soft,Strategy,4.99,,,0,2019,"20,000 .. 50,000",,0,0,"Strategy, Retro, Historical, Wargame, Simulation",2,1
+460630,Trouble Witches Origin - Episode1 Daughters of Amalgam -,game,"Nov 21, 2016",0,Studio SiestA,"Rocket-Engine Co.,Ltd.","Action, Indie",9.99,,203.0,0,2016,"0 .. 20,000",,229,457,"Action, Indie, Shoot 'Em Up, Anime, Bullet Hell",194,11
+562050,Liquid Pinball,game,"Nov 24, 2016",0,RunServer,RunServer,"Casual, Indie",0.99,,,0,2016,"100,000 .. 200,000",,202,223,"Indie, Casual, Singleplayer, Relaxing, Puzzle",73,35
+613880,Zoo Tycoon: Ultimate Animal Collection,game,"Sep 14, 2018",0,"Frontier Developments, Asobo Studio",Xbox Game Studios,Simulation,19.99,,1539.0,0,2018,"100,000 .. 200,000",,274,193,"Simulation, Management, Sandbox, Multiplayer, Singleplayer",1227,684
+371710,Age of Castles: Warlords,game,"May 15, 2015",0,Anarchy Enterprises,Anarchy Enterprises,"Casual, Indie, Simulation, Strategy",2.99,,,0,2015,"0 .. 20,000",,193,199,"Casual, Strategy, Simulation, Indie",22,49
+38160,Farm Frenzy 3: American Pie,game,"Feb 15, 2010",0,Alawar,Next Game,Casual,9.99,,,0,2010,"0 .. 20,000",,286,286,"Casual, Agriculture",11,0
+703000,"Beer, Babes and Dragons",game,"Sep 15, 2017",0,Kristof De Meyer,Creative Consultants Agency,RPG,1.99,,,0,2017,"0 .. 20,000",,0,0,"RPG, RPGMaker, Sexual Content, Dark Humor",6,0
+536430,The Revenge of Johnny Bonasera: Episode 1,game,"Oct 31, 2016",0,Rafael García,Rafael García,"Adventure, Indie",3.99,,,0,2016,"0 .. 20,000",,155,155,"Adventure, Indie, Point & Click, Cartoony, Comedy",58,12
+742990,Sanguo: War Under Heaven,game,"Dec 17, 2018",0,Telestic Studios,"Second March, LLC","Free To Play, Strategy",0.0,,,0,2018,"0 .. 20,000",,0,0,"Free to Play, Strategy",9,7
+1000040,细胞战争,game,"Mar 30, 2019",0,DoubleC Games,DoubleC Games,"Action, Casual, Indie, Simulation",0.0,,,0,2019,"0 .. 20,000",,0,0,"Action, Casual, Indie, Simulation",0,1
+380990,B.A.D Battle Armor Division,game,"Aug 18, 2015",0,Crian Soft,Crian Soft,"Action, Indie",5.99,,,0,2015,"0 .. 20,000",,0,0,"Action, Indie, Mechs, Platformer, Arcade",31,30
+377010,Easy Spanish™ Platinum,game,"Jan 18, 2017",0,Individual Software,Individual Software,Education,49.99,,,0,2017,"0 .. 20,000",,1,1,Education,1,0
+612440,The Cable Center - Virtual Archive,game,"Apr 6, 2017",0,The Cable Center,The Cable Center,"Casual, Free To Play",0.0,,,0,2017,"0 .. 20,000",,0,0,"Free to Play, Casual, VR",15,3
+327980,Dragon Fantasy: The Volumes of Westeria,game,"Apr 9, 2015",0,Muteki,Choice Provisions,RPG,9.99,,,0,2015,"0 .. 20,000",,242,242,"RPG, Retro, JRPG, Fantasy, Turn-Based Combat",39,8
+266330,Ethan: Meteor Hunter,game,"Feb 7, 2014",0,Seaven Studio,Seaven Studio,"Action, Indie",9.99,,,0,2014,"100,000 .. 200,000",,226,137,"Puzzle-Platformer, Indie, Platformer, Puzzle, Action",153,96
+654710,Ashes,game,"Jun 28, 2017",0,FurGoldGames,FurGoldGames,"Action, Adventure, Indie",0.99,,,0,2017,"0 .. 20,000",,122,122,"Action, Indie, Adventure, Survival",38,22
+873250,Crimson Light,game,"Jun 18, 2018",0,Nandee,Crimson Lodge,"Indie, RPG",0.0,,,0,2018,"0 .. 20,000",,0,0,"Indie, RPG, Female Protagonist, Free to Play, RPGMaker",14,3
+868570,Prototype Mansion - Used No Cover,game,"Jul 19, 2018",0,Jupiter Lighthouse Games,Jupiter Lighthouse Games,"Adventure, Indie",4.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, Adventure, Difficult, Survival Horror, Horror",40,16
+635900,Tunnels of Despair,game,"Mar 16, 2018",0,BearFighterDev,BearFighterDev,"Action, Adventure, Indie",5.99,,,0,2018,"0 .. 20,000",,0,0,"Adventure, Action, Indie, Horror, Survival Horror",45,27
+590600,LifeBase,game,"Mar 23, 2017",0,Patryk Szuberla,Patryk Szuberla,"Action, Casual, Indie, Simulation, Early Access",12.99,,,0,2017,"0 .. 20,000",,0,0,"Indie, Casual, Action, Early Access, Simulation",1,2
+870010,Mazes and Mages,game,"Jun 15, 2018",0,Juan Jose Garrido Gomez,Juan Jose Garrido Gomez,"Indie, Strategy",0.0,,,0,2018,"20,000 .. 50,000",,0,0,"Strategy, Indie, Card Game, Turn-Based",4,3
+457690,Hotel Blind,game,"Apr 5, 2016",0,Serellan LLC,Serellan LLC,"Casual, Indie, Simulation",1.99,,,0,2016,"0 .. 20,000",,0,0,"Indie, Casual, Simulation",9,39
+371120,Discouraged Workers,game,"Sep 16, 2015",18,YGGDRASIL STUDIO,YGGDRASIL STUDIO,"Adventure, Indie",0.0,,101.0,0,2015,"0 .. 20,000",,381,422,"Nudity, Sexual Content, Mature, Indie, Anime",61,38
+910460,Rocket of Whispers: Prologue,game,"Sep 12, 2018",0,SIGONO INC.,SIGONO INC.,"Adventure, Indie",0.0,,,0,2018,"100,000 .. 200,000",,8,8,"Adventure, Indie, Free to Play, Great Soundtrack, Puzzle",202,62
+760520,Dough,game,"Mar 20, 2018",0,Ermao Animation,Ermao Animation,Animation & Modeling,11.99,,,0,2018,"0 .. 20,000",,0,0,"Animation & Modeling, VR",3,1
+226780,MUD - FIM Motocross World Championship™,game,"Feb 26, 2013",0,Milestone S.r.l.,Milestone S.r.l.,"Racing, Sports",9.99,,122.0,0,2013,"20,000 .. 50,000",,528,528,"Motocross, Racing, Motorbike, Sports, Multiplayer",81,53
+251990,Long Live The Queen,game,"Nov 8, 2013",0,Hanako Games,Hanako Games,"Indie, RPG, Simulation, Strategy",9.99,67.0,5769.0,0,2013,"200,000 .. 500,000",,326,224,"Visual Novel, Political Sim, Anime, Female Protagonist, Simulation",6681,357
+1137770,Avalive,game,"Nov 1, 2019",0,Avamoe,Avamoe,"Free To Play, Animation & Modeling, Audio Production, Utilities, Video Production",0.0,,,0,2019,"0 .. 20,000",,0,0,"Animation & Modeling, Utilities, Video Production, Audio Production",9,4
+543240,√Letter - Root Letter -,game,"7 Jul, 2017",0,"DRAGAMI GAMES, LTD.","DRAGAMI GAMES, LTD.",Adventure,19.99,,537.0,0,2017,"20,000 .. 50,000",,328,475,"Adventure, Visual Novel, Anime, Detective, Mystery",435,113
+764180,Cross of Auria,game,"Dec 31, 2017",0,Hardytier,Hardytier,"Indie, RPG",0.0,,,0,2017,"0 .. 20,000",,0,0,"RPG, Indie, RPGMaker, Turn-Based, Party-Based RPG",19,4
+854190,Russian Gangsta In HELL,game,"May 9, 2018",0,"Nikita ""Ghost_RUS""",Ghost_RUS Games,"Violent, Gore, Action, Adventure, Indie",0.99,,,0,2018,"0 .. 20,000",,29,29,"Violent, Action, Adventure, Indie, Gore",29,28
+1123730,ROD,game,"Sep 5, 2019",0,Ivory Tower,Ivory Tower,"Casual, Indie, RPG",2.99,,,0,2019,"0 .. 20,000",,0,0,"RPG, Indie, Casual",1,0
+837780,Coin-Op Kingdom,game,"Aug 9, 2018",0,Canalside Studios,Canalside Studios,"Casual, Indie, Simulation, Strategy",7.99,,,0,2018,"0 .. 20,000",,0,0,"Casual, Simulation, Strategy, Indie, Singleplayer",7,6
+11370,Nikopol: Secrets of the Immortals,game,"Jul 30, 2009",0,,Meridian4,"Adventure, Indie",4.99,68.0,255.0,0,2009,"100,000 .. 200,000",,112,136,"Choose Your Own Adventure, Point & Click, Adventure, Dystopian , Comic Book",211,173
+898260,Juliantli,game,"Aug 30, 2018",0,stardust.ch,stardust.ch,"Casual, Indie",0.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, Casual, Music, Rhythm",21,3
+426930,Moonshot,game,"Dec 21, 2015",0,Pump Action Games,Pump Action Games,"Action, Indie, Early Access",4.99,,,0,2015,"0 .. 20,000",,16,16,"Action, Indie, Early Access, 4 Player Local, Local Multiplayer",86,12
+499540,Wake Up,game,"Aug 9, 2016",0,Black Cell OG,Black Cell OG,"Adventure, Indie",0.0,,,0,2016,"20,000 .. 50,000",,94,131,"Indie, Adventure, VR, Free to Play, Great Soundtrack",79,19
+598620,Mystery Riddles,game,"Mar 15, 2017",0,AnaWiki Games,AnaWiki Games,"Casual, Indie",8.99,,,0,2017,"0 .. 20,000",,0,0,"Casual, Indie",5,4
+606230,Thea 2: The Shattering,game,"May 13, 2019",0,"MuHa Games, Eerie Forest Studio",MuHa Games,"Indie, RPG, Strategy",12.49,,1944.0,0,2019,"200,000 .. 500,000",,1629,672,"Strategy, RPG, Indie, Turn-Based Strategy, Survival",1707,484
+894090,Maze Gold Run,game,"Sep 24, 2019",0,Pavel Ksenofontov,Pavel Ksenofontov,"Adventure, Casual, Indie",1.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Adventure, Casual, Singleplayer, Dark",3,0
+828740,Tales of the Neon Sea,game,"Apr 29, 2019",0,YiTi Games,Thermite Games,"Adventure, Indie",16.99,,3384.0,0,2019,"100,000 .. 200,000",,330,247,"Pixel Graphics, Cyberpunk, Point & Click, Story Rich, Investigation",3519,548
+454680,MetaTron,game,"Dec 19, 2016",0,TubbyKiD UG (haftungsbeschränkt),TubbyKiD UG (haftungsbeschränkt),"Violent, Action, Indie, Early Access",0.0,,,0,2016,"0 .. 20,000",,222,241,"Early Access, Action, Indie, Survival, Violent",50,60
+449040,Jesus Christ RPG Trilogy,game,"Mar 18, 2016",0,Wholetone Games,Wholetone Games,"Action, RPG",5.99,,,0,2016,"100,000 .. 200,000",,37,40,"Memes, RPG, RPGMaker, Family Friendly, Story Rich",1376,225
+219830,King Arthur's Gold,game,"Nov 5, 2013",0,Transhuman Design,Transhuman Design,"Action, Indie, Free To Play",0.0,81.0,2652.0,0,2013,"500,000 .. 1,000,000",,410,63,"Multiplayer, 2D, Action, Pixel Graphics, Building",4390,814
+1192500,GraFi Christmas,game,"Nov 22, 2019",0,Blender Games,Blender Games,"Adventure, Casual, Indie, Simulation, Strategy",0.55,,,0,2019,"0 .. 20,000",,0,0,"Puzzle, Physics, 2D, Family Friendly, Singleplayer",11,6
+1155230,Extend Desktop,game,"Sep 21, 2019",0,chengcong,chengcong,Utilities,1.99,,,0,2019,"0 .. 20,000",,0,0,Utilities,2,3
+720030,Indecision.,game,"Feb 8, 2018",0,bilge,bilge,"Casual, Indie",2.99,,437.0,0,2018,"20,000 .. 50,000",,189,52,"Experience, Experimental, Surreal, Casual, Exploration",532,94
+1086140,Weaving,game,"Jun 4, 2019",0,Bitlock Studio,Bitlock Studio,"Casual, Indie",0.49,,,0,2019,"20,000 .. 50,000",,0,0,"Indie, Casual",4,0
+415920,Voidspire Tactics,game,"Nov 2, 2015",0,Rad Codex,Rad Codex,"Indie, RPG, Strategy",14.99,,262.0,0,2015,"0 .. 20,000",,129,208,"RPG, Indie, Strategy, Tactical RPG, Turn-Based Tactics",259,9
+240340,Space Ace,game,"Aug 27, 2013",0,Digital Leisure Inc.,Digital Leisure Inc.,"Action, Adventure, Casual",9.99,,153.0,0,2013,"0 .. 20,000",,172,337,"Adventure, Casual, Action, Quick-Time Events, FMV",128,31
+987710,BLASK,game,"Jan 14, 2019",0,SmallBigSquare,SmallBigSquare,"Casual, Indie",4.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Indie, Puzzle, Minimalist, Colorful",18,1
+951050,Another Hardcore Game,game,"Oct 31, 2018",0,Ninba,Ninba Games,"Action, Adventure, Indie",1.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Adventure, Singleplayer",21,4
+680250,The Mirage : Illusion of wish,game,"Nov 15, 2017",0,APPLEMINT,APPLEMINT,"Action, Indie, Early Access",7.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Indie, Early Access",1,0
+781520,Lucid Dreams: Polyventure,game,"Jan 28, 2018",0,Eternity Studios,Eternity Studios,"Action, Adventure, Casual, Indie, Simulation, Strategy",3.99,,,0,2018,"0 .. 20,000",,366,366,"Indie, Exploration, Walking Simulator, Psychedelic, Abstract",16,25
+211200,Beyond Oasis,game,"May 2, 2012",0,,SEGA,,0.0,,,0,2012,"0 .. 20,000",,0,0,"Action, Classic, RPG, Adventure, Retro",6,0
+612590,Mouse Playhouse,game,"Mar 31, 2017",0,Tinkertainment,SMU Guildhall,"Casual, Free To Play, Indie",0.0,,,0,2017,"20,000 .. 50,000",,186,186,"Free to Play, Casual, Indie, VR",50,11
+700170,Deserving Life,game,"Oct 13, 2017",0,"Lukas Paul, Gabriel Mittermair",Deserving Life,Free To Play,0.0,,,0,2017,"20,000 .. 50,000",,56,68,"Free to Play, Horror, VR, Multiplayer",118,26
+798590,Elven Love,game,"Mar 16, 2018",0,Red Vibe Studio,Red Vibe Studio,"Action, Adventure, Casual, Indie, Simulation",14.99,,138.0,0,2018,"20,000 .. 50,000",,71,71,"Sexual Content, Nudity, Mature, NSFW, VR",70,66
+718740,Chop Chop Princess!,game,"Nov 8, 2017",0,Spectre EU,"Take Five Games, Dikobraz Games","Adventure, Indie, Racing",6.99,,,0,2017,"0 .. 20,000",,0,0,"Adventure, Indie, Racing",2,1
+481950,Emily: Displaced,game,"Jul 26, 2016",0,Bossa Studios,War Child Gaming,"Adventure, Indie",14.99,,,0,2016,"0 .. 20,000",,0,0,"Adventure, Indie, Visual Novel",8,0
+113420,Fallen Earth Classic,game,"Feb 22, 2012",0,Little Orbit,Little Orbit,"Free To Play, Massively Multiplayer, RPG",0.0,71.0,,0,2012,"1,000,000 .. 2,000,000",,441,60,"Free to Play, Survival, Open World, Multiplayer, Post-apocalyptic",4484,3047
+714880,大乱斗 Chaos Battle,game,"Oct 13, 2017",0,绿叶工作室,绿叶工作室,"Action, Adventure, Casual, Indie, Massively Multiplayer, Strategy",5.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Indie, Massively Multiplayer, Adventure, Casual",2,2
+328550,Thieves' Gambit: The Curse of the Black Cat,game,"Oct 17, 2014",0,Choice of Games,Choice of Games,"Indie, RPG",4.99,,,0,2014,"0 .. 20,000",,0,0,"Indie, RPG, Text-Based, Choose Your Own Adventure, Interactive Fiction",24,6
+429430,Tyrfing  Cycle |Vanilla|,game,"Apr 15, 2016",0,Demon Sword Games,,"Action, Adventure, Indie, Early Access",1.99,,,0,2016,"0 .. 20,000",,215,267,"Action, Indie, Early Access, Adventure, Female Protagonist",10,29
+454540,LuckCatchers,game,"Nov 15, 2016",0,DiP Online,DiP Online,"Free To Play, Indie, Massively Multiplayer, RPG, Simulation, Strategy",0.0,,,0,2016,"200,000 .. 500,000",,97,73,"Free to Play, Massively Multiplayer, RPG, Strategy, Simulation",445,365
+829260,Morning Never Comes,game,"Apr 6, 2018",0,7 Box Games,7 Box Games,"Action, Indie",0.99,,,0,2018,"20,000 .. 50,000",,0,0,"Indie, Action, Twin Stick Shooter, Singleplayer, 2D",35,6
+1108020,Bepuzzled Jigsaw Puzzle: Sweets,game,"Jul 12, 2019",0,Team Spikkeee,Spikkeee,Casual,3.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Puzzle",1,0
+781760,Trivia Vault: Health Trivia Deluxe,game,"Jan 23, 2018",0,Ripknot Systems,Ripknot Systems,"Casual, Indie, Simulation, Strategy",13.99,,,0,2018,"0 .. 20,000",,0,0,"Trivia, Indie, Casual, Simulation, Strategy",67,40
+988070,All Of ZHEM,game,"Mar 29, 2019",0,KOEX studio,KOEX studio,"Action, Indie",3.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Action, Violent, Gore, Zombies",0,5
+533960,Scary Humans,game,"Oct 26, 2016",0,Gabhel Games,Gabhel Studios,Indie,9.99,,,0,2016,"20,000 .. 50,000",,0,0,"Runner, Dungeon Crawler, Arcade, 2.5D, Cute",6,0
+22380,Fallout: New Vegas,game,"19 Oct, 2010",0,Obsidian Entertainment,Bethesda Softworks,"Action, RPG",39.0,84.0,189727.0,0,2010,"5,000,000 .. 10,000,000",,3822,1075,"Open World, RPG, Post-apocalyptic, Singleplayer, Moddable",218763,8937
+529780,Disturbed,game,"Oct 3, 2016",0,iBlackpen,iBlackpen,"Adventure, Casual, Free To Play, Indie, Simulation",0.0,,,0,2016,"200,000 .. 500,000",,82,92,"Free to Play, Horror, Adventure, Visual Novel, Simulation",1679,131
+753090,Marius,game,"Jan 5, 2018",0,Granola Studios,Granola Studios,Free To Play,0.0,,,0,2018,"20,000 .. 50,000",,0,0,"Free to Play, VR",18,11
+499230,SurvHive,game,"Aug 1, 2016",0,Rocking Hamster,Rocking Hamster,"Action, Indie, Early Access",14.99,,,0,2016,"0 .. 20,000",,12173,12173,"Indie, Action, Early Access, Horror, Multiplayer",52,32
+1136240,Crowd Control,game,"Sep 20, 2019",0,Sugoi Yellow,GrabTheGames,"Free To Play, Indie, Strategy",0.0,,,0,2019,"20,000 .. 50,000",,0,0,"Free to Play, Indie, Strategy, Casual, Action",41,10
+450390,The Lab,game,"Apr 5, 2016",0,Valve,Valve,Free To Play,0.0,,391.0,0,2016,"1,000,000 .. 2,000,000",,168,45,"Free to Play, VR, Singleplayer, Action, First-Person",6066,323
+1050910,GALAXY MONSTER,game,"Apr 5, 2019",0,Small Games,GLD Games,"Action, Indie",7.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie",0,3
+403100,Rescue Team 3,game,"Sep 23, 2015",0,Alawar Entertainment,ESDigital Games,"Casual, Simulation, Strategy",4.99,,,0,2015,"0 .. 20,000",,265,362,"Strategy, Simulation, Casual, Time Management",52,16
+1021260,Chocolate makes you happy: St.Patrick's Day,game,"Feb 6, 2019",0,Blender Games,Blender Games,"Adventure, Casual, Indie, Simulation, Strategy",1.99,,,0,2019,"0 .. 20,000",,0,0,"Puzzle, Side Scroller, 2D, Stylized, Strategy",21,13
+837720,Tactical Mind,game,"Apr 27, 2018",0,"Drageus Games S.A., Qubic Games",Drageus Games S.A.,"Indie, Strategy",0.59,,,0,2018,"50,000 .. 100,000",,0,0,"Strategy, Indie, Board Game, Logic",4,2
+463150,BARRIER X,game,"May 27, 2016",0,Noclip,HypeTrain Digital,"Action, Indie",2.99,,884.0,0,2016,"200,000 .. 500,000",,173,195,"Indie, Action, Arcade, Difficult, Music",1985,334
+514700,Mystery Case Files®: 13th Skull™ Collector's Edition,game,"18 Aug, 2016",0,Big Fish Games,BFG Entertainment,"Adventure, Casual",89999.0,,146.0,0,2016,"20,000 .. 50,000",,0,0,"Adventure, Casual, Hidden Object, FMV",127,19
+910540,Moon River,game,"Jan 7, 2019",0,Cerdeira Guillaume,Cerdeira Guillaume,"Adventure, Casual, Indie",3.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Casual, Adventure",11,7
+514920,Crash Wheels,game,"Dec 20, 2018",0,Quiet River,Quiet River,"Indie, Racing",4.99,,1146.0,0,2018,"100,000 .. 200,000",,267,265,"Racing, Indie, Destruction, Arcade, Singleplayer",1062,165
+550600,Sphere Complex,game,"Nov 18, 2016",0,OC Game Studio,OC Game Studio,"Action, Casual, Indie, Racing, Simulation",4.99,,,0,2016,"0 .. 20,000",,0,0,"Indie, Casual, Racing, Action, Simulation",2,3
+1173870,Endless Knight,game,"Dec 31, 2019",0,Will Sykes Games,Will Sykes Games,"Action, Indie",6.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Gore, Violent, Fighting",48,4
+826170,Laser Ball,game,"Mar 30, 2018",0,ZaxtorGameS,ZaxtorGameS,"Action, Indie",2.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie",10,3
+643900,Alvora Tactics,game,"Jun 1, 2017",0,Rad Codex,Rad Codex,"Indie, RPG, Strategy",9.99,,131.0,0,2017,"20,000 .. 50,000",,0,0,"Indie, Strategy, RPG, Pixel Graphics, Turn-Based Tactics",131,11
+598030,REVOLT 1917,game,"Apr 11, 2018",0,juhbee,juhbee,"Action, Adventure, Indie",1.99,,,0,2018,"20,000 .. 50,000",,0,0,"Indie, Action, Adventure, World War I, Singleplayer",3,21
+352950,Better Late Than DEAD,game,"Mar 3, 2016",0,Odin Game Studio,Excalibur Publishing,"Action, Adventure, Indie",0.99,,608.0,0,2016,"50,000 .. 100,000",,39,65,"Survival, Open World, Crafting, Multiplayer, Action",255,656
+385800,NEKOPARA Vol. 0,game,"Aug 17, 2015",0,NEKO WORKs,Sekai Project,"Casual, Indie",2.99,,14526.0,0,2015,"500,000 .. 1,000,000",,3539,70,"Anime, Nudity, Sexual Content, Visual Novel, Cute",16447,1078
+1125800,Endless Ski,game,"Dec 16, 2019",0,So-So-Games,So-So-Games,"Casual, Indie",0.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Indie, Skiing, Snow, Fast-Paced",13,2
+700520,Shift Quantum - A Cyber Noir Puzzle Platformer,game,"May 29, 2018",0,Fishing Cactus,Fishing Cactus,"Action, Adventure, Indie",19.99,,,0,2018,"0 .. 20,000",,259,259,"Indie, Action, Puzzle-Platformer, Singleplayer, Level Editor",65,6
+1154210,Convenience Store,game,"Oct 3, 2019",0,ChaoYe Liu,Happy Home Company,"Casual, Simulation",14.99,,,0,2019,"0 .. 20,000",,0,0,"Simulation, Casual, Retro",19,7
+388010,Tick: The Time Based Puzzle Game,game,"Aug 20, 2015",0,Fingertip Games UK,Fingertip Games UK,"Casual, Indie, Strategy",2.99,,,0,2015,"0 .. 20,000",,0,0,"Strategy, Indie, Casual",4,3
+681760,DIVER - SEA SURVIVAL SIMULATOR,game,"Sep 3, 2017",0,Theodor Niklas,Theodor Niklas,"Violent, Gore, Action, Adventure, Indie, Simulation",11.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Indie, Simulation, Gore, Violent",1,2
+842770,Deadfall Tropics,game,"May 10, 2018",0,Studio Jimothy,Studio Jimothy,"Action, Indie",4.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, 2D, Pixel Graphics, Difficult",12,0
+697930,Brutal Runner,game,"Oct 13, 2017",0,ANV Team,ANV Team,"Action, Indie",0.99,,,0,2017,"0 .. 20,000",,441,441,"Action, Indie",62,41
+859610,S.T.R.E.T.C.H.,game,"May 18, 2018",0,ARGames,Metal Fox,"Action, Indie",0.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie",15,23
+644670,DEUS VULT | Online VR sword fighting,game,"May 26, 2017",0,raptor lab,raptor lab,"Violent, Action, Simulation, Early Access",4.99,,135.0,0,2017,"50,000 .. 100,000",,190,147,"Early Access, Action, Simulation, Violent, VR",92,57
+710920,Darksiders Genesis,game,"5 Dec, 2019",0,Airship Syndicate,THQ Nordic,"Action, Adventure",129.99,77.0,9715.0,0,2019,"1,000,000 .. 2,000,000",,596,218,"Action, Adventure, Co-op, Hack and Slash, Local Co-Op",10185,2188
+1131750,Alien Squatter,game,"Sep 30, 2019",0,"A. Hagen, Shea Kennedy",A. Hagen,"Indie, RPG, Simulation",0.0,,,0,2019,"0 .. 20,000",,0,0,"RPG, Indie, Simulation, Sandbox, Pixel Graphics",92,5
+907190,GRITS Racing,game,"Mar 4, 2019",0,Muddy Desert,Muddy Desert,"Action, Casual, Indie, Racing, Simulation, Sports, Early Access",9.99,,,0,2019,"0 .. 20,000",,0,0,"Racing, Indie, Automobile Sim, Action, Casual",4,1
+860590,MissileDancer,game,"Jun 1, 2018",0,TERARIN GAMES,TERARIN GAMES,"Action, Casual, Indie",8.99,,,0,2018,"20,000 .. 50,000",,0,0,"Shoot 'Em Up, Shooter, Pixel Graphics, Score Attack, Action",15,3
+1124810,Tower of the Alchemist,game,"Aug 8, 2019",0,六零道长,JingtuStudio,"Action, Adventure, Indie, Strategy",0.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Adventure, Indie, Strategy, RPGMaker",10,2
+566250,Project Almighty,game,"Dec 5, 2017",0,John C. Ragland,John C. Ragland,Action,0.49,,,0,2017,"0 .. 20,000",,5,5,"Action, Gore, Violent, Superhero, Indie",1,2
+747230,Cosmic Buddies Town,game,"Jan 5, 2018",0,"Ghost Clusters, NYX Digital Ltd","Funbox Media Ltd, KISS ltd","Simulation, Strategy",2.99,,,0,2018,"20,000 .. 50,000",,0,0,"Simulation, Strategy",1,4
+951440,Volcanoids,game,"29 Jan, 2019",0,Volcanoid,Volcanoid,"Action, Adventure, Indie, Simulation, Early Access",71.99,,7468.0,0,2019,"200,000 .. 500,000",,662,321,"Open World Survival Craft, Survival, Open World, Multiplayer, Crafting",7404,1511
+491060,League of Evil,game,"Oct 25, 2016",0,"Ratalaika Games S.L., Woblyware",Ratalaika Games S.L.,"Action, Indie",7.99,,,0,2016,"20,000 .. 50,000",,314,314,"Action, Indie, Platformer, Pixel Graphics, Difficult",49,13
+216210,Secret Files 3,game,"Sep 13, 2012",0,Animation Arts,Ravenscourt,Adventure,9.99,67.0,168.0,0,2012,"20,000 .. 50,000",,65,65,"Adventure, Point & Click, Female Protagonist, Puzzle",132,52
+867540,Honor Cry: Aftermath,game,"Jun 6, 2018",0,SimProse Studios,PlayIndustry LLC Publishing,"Adventure, Indie, RPG",0.49,,,0,2018,"20,000 .. 50,000",,0,0,"Adventure, Indie, RPG, Puzzle, Exploration",5,9
+464340,Syberia 3,game,"Nov 13, 2017",0,Microids,Microids,Adventure,14.99,,3089.0,0,2017,"200,000 .. 500,000",,1132,590,"Adventure, Puzzle, Story Rich, Point & Click, Female Protagonist",2294,2150
+1147970,Abode 2,game,"Nov 7, 2019",0,Overflow,Overflow,Adventure,14.99,,119.0,0,2019,"50,000 .. 100,000",,113,113,"Adventure, Puzzle, Sci-fi, Atmospheric, VR",125,30
+912790,Meteor,game,"Sep 8, 2018",0,Nidal alshawwaf,Nidal alshawwaf,"Action, Adventure, Racing, RPG",2.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Adventure, Racing, RPG, Third-Person Shooter",1,3
+17100,Children of the Nile: Enhanced Edition,game,"Jul 8, 2008",0,"Tilted Mill Entertainment, Inc.",,"Strategy, Simulation",7.99,75.0,415.0,0,2008,"50,000 .. 100,000",,565,806,"City Builder, Simulation, Strategy, Historical, Management",372,70
+554290,Himawari - The Sunflower -,game,"Dec 9, 2016",0,blank-note & Frontwing,"MangaGamer, Sunflower Ocean",Adventure,8.74,,167.0,0,2016,"0 .. 20,000",,78,78,"Adventure, Visual Novel, Anime, Story Rich, Sci-fi",161,14
+485630,Brazed,game,"Dec 16, 2016",0,Vladimir Maslov,Vladimir Maslov,"Casual, Indie, Strategy",4.99,,,0,2016,"0 .. 20,000",,143,206,"Indie, Casual, Strategy, Crafting, Space",30,29
+302750,The Counting Kingdom,game,"Aug 5, 2014",0,Little Worlds Interactive,Little Worlds Interactive,"Casual, Indie, Strategy",6.99,,,0,2014,"0 .. 20,000",,39,39,"Casual, Strategy, Indie, Education, Cute",112,3
+708630,Little Adventurer II,game,"Sep 21, 2017",0,hubiao,hubiao,Adventure,0.9,,,0,2017,"0 .. 20,000",,0,0,"Adventure, Casual, Third Person",2,12
+1156200,VirtuaLiron - Immersive YOGA practice,game,"Nov 14, 2019",0,"Motek Entertainment, Oshri Even Zohar",Motek Entertainment,"Casual, Indie, Sports",3.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Casual, Sports, VR",1,2
+581100,Langoth,game,"Feb 27, 2017",0,Atum Software,Sometimes You,"Action, Adventure, Indie",2.99,,,0,2017,"50,000 .. 100,000",,251,248,"Indie, Adventure, Action",38,39
+789700,Wendy’s Mart 3D,game,"Feb 15, 2018",0,MacProton Games,MacProton Games,"Casual, Indie, Simulation, Early Access",9.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, Early Access, Casual, Simulation",1,1
+1061090,Jump King,game,"May 3, 2019",0,Nexile,Nexile,"Action, Adventure, Indie",12.99,,11761.0,0,2019,"500,000 .. 1,000,000",,662,172,"Psychological Horror, Difficult, Precision Platformer, Indie, Pixel Graphics",11081,1222
+500940,Get The Gems,game,"Nov 11, 2016",0,PSY LABS,PSY LABS,"Action, Casual, Indie",2.99,,,0,2016,"50,000 .. 100,000",,199,248,"Old School, Casual, Retro, 2D, Puzzle",37,8
+1112340,The Dreadful Whispers,game,"Sep 5, 2019",0,Blackthornprod,Blackthornprod,"Adventure, Indie",9.99,,149.0,0,2019,"20,000 .. 50,000",,18,18,"Indie, Adventure, 2D, Platformer, Singleplayer",134,21
+391210,Arclight Cascade,game,"Aug 25, 2015",0,Hexdragonal Games,Hexdragonal Games,"Action, Indie",0.0,,,0,2015,"0 .. 20,000",,207,218,"Action, Indie, 4 Player Local, Local Multiplayer, Multiplayer",46,8
+420070,Kill The Plumber,game,"Dec 31, 2015",0,"Keybol, Iskander Aminov",Tekitown,"Action, Adventure, Indie",4.99,,,0,2015,"20,000 .. 50,000",,299,338,"Action, Adventure, Indie, Platformer, 2D",79,34
+484390,Hanger World,game,"Jan 24, 2018",0,A Small Game AB,A Small Game AB,"Action, Indie",0.99,,,0,2018,"20,000 .. 50,000",,0,0,"Action, Indie, Comedy, Arcade, Physics",28,3
+494720,Morphblade,game,"Mar 3, 2017",0,Suspicious Developments,Suspicious Developments,"Casual, Indie",4.99,,258.0,0,2017,"20,000 .. 50,000",,67,53,"Casual, Indie, Strategy, Turn-Based, Hex Grid",513,47
+1201770,Colossals,game,"Dec 26, 2019",0,Isaac Birchmier,"If the clouds are full of rain, they empty themselves upon the earth, LLC",Indie,9.99,,,0,2019,"20,000 .. 50,000",,0,0,"Interactive Fiction, Visual Novel, Based On A Novel, 2D, Story Rich",2,1
+503620,Fictorum,game,"Aug 9, 2017",0,Scraping Bottom Games,Scraping Bottom Games,"Action, Indie, RPG",9.99,64.0,1021.0,0,2017,"100,000 .. 200,000",,235,130,"Action Roguelike, Magic, Destruction, Third-Person Shooter, Choose Your Own Adventure",889,243
+550200,World Destroyers,game,"Mar 14, 2017",0,HardHead Games,HardHead Games,"Action, Indie",0.0,,,0,2017,"0 .. 20,000",,0,0,"Action, Indie, Space, Retro, 4 Player Local",12,2
+1102060,Gun Blaze,game,"Oct 15, 2019",0,Cybertime System,Cybertime System,"Action, Indie, Early Access",5.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Early Access, Indie",12,4
+856270,Draid,game,"May 9, 2019",0,Bullet Bears,Bullet Bears,"Adventure, Indie",1.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Adventure, Old School, Family Friendly, 3D",4,4
+701970,Sliding Blocks,game,"Sep 11, 2017",0,Boogygames Studios,Boogygames Studios,"Adventure, Casual, Indie, RPG, Strategy",2.99,,,0,2017,"0 .. 20,000",,125,125,"Puzzle, Family Friendly, Difficult, Casual, Mouse only",19,2
+490890,Ne no Kami: The Two Princess Knights of Kyoto,game,"Oct 26, 2016",0,Kuro Irodoru Yomiji,Sekai Project,"Adventure, Casual",9.99,,165.0,0,2016,"0 .. 20,000",,508,755,"Adventure, Casual, Visual Novel, Sexual Content, LGBTQ+",157,23
+908010,Farjob,game,"Aug 21, 2018",0,Simon Kaley,Simon Kaley,"Action, Indie",0.0,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Platformer",9,2
+1060560,GNRBLEX,game,"Jul 25, 2019",0,Whamgames,Whamgames,"Adventure, Indie",0.0,,,0,2019,"20,000 .. 50,000",,0,0,"Adventure, Indie, Puzzle, Exploration, Music",8,2
+458730,Conception II: Children of the Seven Stars,game,"Aug 15, 2016",0,"Spike Chunsoft Co., Ltd.","Spike Chunsoft Co., Ltd.",RPG,19.99,,614.0,0,2016,"100,000 .. 200,000",,316,182,"RPG, Anime, JRPG, Dating Sim, Dungeon Crawler",533,133
+549080,Graviteam Tactics: Tunisia 1943,game,"May 1, 2017",0,Graviteam,Graviteam,"Simulation, Strategy",7.49,,374.0,0,2017,"0 .. 20,000",,247,256,"Strategy, Simulation, World War II, Gore, Violent",327,67
+613420,BOROS,game,"Apr 6, 2017",0,Kraken Bit,Kraken Bit,"Action, Casual, Indie",4.99,,,0,2017,"0 .. 20,000",,195,195,"Casual, Action, Indie, Puzzle, Local Multiplayer",26,2
+356190,Middle-earth™: Shadow of War™,game,"9 Oct, 2017",17,Monolith Productions,WB Games,"Action, Adventure, RPG",2.5,,83143.0,0,2017,"2,000,000 .. 5,000,000",,1868,1071,"Open World, Action, RPG, Singleplayer, Fantasy",95053,12165
+775940,Rise of Liberty,game,"May 30, 2019",0,Sandstorm Studios Inc.,Sandstorm Studios Inc.,"Indie, Strategy",7.99,,1800.0,0,2019,"100,000 .. 200,000",,402,540,"FPS, War, Singleplayer, Shooter, Action",1562,297
+392000,TRON RUN/r,game,"Feb 16, 2016",0,Sanzaru Games Inc.,Disney,"Action, Racing",19.99,,351.0,0,2016,"50,000 .. 100,000",,110,180,"Action, Racing, Cyberpunk, Runner, Parkour",331,83
+915770,People Cu3ed,game,"Nov 7, 2018",0,Whitway Studios,Whitway Studios,"Action, Adventure, Casual, Indie",9.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Adventure, Indie, Casual, VR",7,0
+299020,Runaway Express Mystery,game,"Sep 23, 2014",0,Icarus Games,Libredia,Casual,6.99,,,0,2014,"20,000 .. 50,000",,236,287,"Casual, Hidden Object, Point & Click",37,14
+1001980,Archeo: Shinar,game,"Sep 11, 2019",0,Artists Entertainment,Artists Entertainment,"Indie, Simulation, Strategy",12.99,,,0,2019,"20,000 .. 50,000",,0,0,"Strategy, Simulation, Indie, Economy, Management",85,27
+300300,Ichi,game,"Jun 12, 2014",0,Stolen Couch Games,Stolen Couch Games,"Casual, Indie, Strategy",4.99,,434.0,0,2014,"100,000 .. 200,000",,159,180,"Casual, Indie, Puzzle, Strategy, 2D",556,94
+471550,Nine Parchments,game,"Dec 5, 2017",0,Frozenbyte,Frozenbyte,"Action, RPG",19.99,,3955.0,0,2017,"200,000 .. 500,000",,594,319,"Action RPG, Twin Stick Shooter, 4 Player Local, Magic, Isometric",3427,997
+733430,The Escape,game,"Dec 29, 2017",0,The Escape Team,The Escape Team,"Indie, Strategy, Early Access",6.99,,,0,2017,"0 .. 20,000",,0,0,"Strategy, Indie, Early Access",10,10
+441640,VALENS,game,"Feb 18, 2016",0,Digitallion,Digitallion,"Action, Adventure, Casual, Indie, Racing, RPG, Simulation, Sports",7.99,,,0,2016,"0 .. 20,000",,1,1,"Racing, Action, Adventure, Indie, Casual",6,13
+1150070,Mizari Loves Company,game,"Nov 13, 2019",0,Reine Works,Reine Works,"Indie, Early Access",19.99,,,0,2019,"0 .. 20,000",,0,0,,0,0
+993370,Killing Trials,game,"Feb 7, 2019",0,cBlck,cBlck,"Action, Adventure, Indie",2.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Adventure",6,1
+843130,Squirgle,game,"Jun 25, 2018",0,Planar Gazer,Planar Gazer,Indie,2.99,,,0,2018,"0 .. 20,000",,0,0,,0,0
+642830,Milanoir,game,"May 31, 2018",0,Italo Games,Good Shepherd Entertainment,"Sexual Content, Nudity, Violent, Action, Adventure, Indie",12.99,75.0,116.0,0,2018,"20,000 .. 50,000",,108,108,"Action, Indie, Adventure, Pixel Graphics, Sexual Content",82,38
+707010,Will To Live Online,game,"Apr 5, 2018",0,AlphaSoft LLC,AlphaSoft LLC,"Action, Indie, Massively Multiplayer, RPG, Free To Play, Early Access",0.0,,1970.0,0,2018,"1,000,000 .. 2,000,000",,1658,92,"Survival, Free to Play, Multiplayer, Open World, Post-apocalyptic",12263,5314
+769340,Zomby Soldier,game,"Jan 22, 2018",0,Tero Lunkka,Tero Lunkka,"Action, Indie",4.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Horror, Zombies",20,27
+580720,Carrier Deck,game,"Jun 15, 2017",0,Every Single Soldier,Every Single Soldier,Simulation,9.99,,1014.0,0,2017,"100,000 .. 200,000",,1459,1843,"Naval Combat, Simulation, Time Management, Naval, Military",917,113
+889790,Incandescent 2,game,"Jan 18, 2019",0,Stephen Crabb,Stephen Crabb,"Action, Indie",0.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Casual, Arcade, 2D",10,6
+749920,Eternal Dread,game,"Mar 2, 2018",0,Hitbear Studio,Hitbear Studio,"Action, Adventure, Indie, RPG",9.99,,,0,2018,"0 .. 20,000",,116,116,"Action, Adventure, RPG, Gore, Indie",42,18
+797450,Fantasy Mosaics 27: Secret Colors,game,"Mar 18, 2018",0,Andy Jurko,Andy Jurko,"Casual, Indie, Strategy",6.99,,,0,2018,"0 .. 20,000",,0,0,"Casual, Strategy, Indie",8,0
+712000,Elder Chaos,game,"Oct 31, 2017",0,Emprom Game,Emprom Game,"Indie, Strategy",0.99,,,0,2017,"0 .. 20,000",,8,8,"Indie, Strategy, Lovecraftian, Tower Defense, RTS",39,44
+745660,Sockman,game,"Feb 1, 2018",0,Sockware,Sockware,"Action, Indie",3.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Platformer, Difficult, Adventure",28,0
+421040,Plantera,game,"Jan 28, 2016",0,VaragtP,VaragtP,"Casual, Indie, Simulation",2.99,,4441.0,0,2016,"100,000 .. 200,000",,1156,302,"Clicker, Idler, Collectathon, Sandbox, Agriculture",5131,654
+289340,Freight Tycoon Inc.,game,"Apr 3, 2014",0,Nikita,Fulqrum Publishing,Strategy,4.99,,393.0,0,2014,"20,000 .. 50,000",,511,692,"Strategy, Management, Simulation, Economy, Singleplayer",241,233
+525050,Artisan: Going Home Again,game,"Sep 14, 2016",0,Unseen Kingdom Studios,Unseen Kingdom Games,"Casual, Indie, RPG, Simulation",9.99,,,0,2016,"0 .. 20,000",,0,0,"Indie, Casual, Simulation, RPG, Anime",14,0
+1026940,Hei,game,"Apr 4, 2019",0,Goca Games,Goca Games,"Adventure, Indie",3.99,,,0,2019,"0 .. 20,000",,0,0,"Adventure, Indie, Point & Click",24,2
+365960,rFactor 2,game,"Nov 12, 2015",0,Studio 397,Studio 397,"Racing, Simulation, Sports",29.99,,6569.0,0,2015,"500,000 .. 1,000,000",,1730,281,"Racing, Automobile Sim, Simulation, Sports, Realistic",6766,1774
+735060,The Forbidden Arts,game,"Aug 7, 2019",0,Stingbot Games,Stingbot Games,"Action, Adventure, Indie",14.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Adventure, Platformer, Side Scroller",30,10
+1143780,Graveyard Defender,game,"Aug 30, 2019",0,Pixel Cattus,Pixel Cattus,"Action, Casual, Indie",1.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Casual, Arcade, 2D",8,1
+683790,Tractorball,game,"Oct 4, 2017",0,Ninja Whale Studios,Ninja Whale Studios,"Action, Indie, Racing, Sports",6.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Sports, Indie, Racing, VR",12,7
+1035030,Funbag Fantasy: Sideboob Story,game,"Mar 28, 2019",0,Waffle,MangaGamer,Adventure,44.99,,,0,2019,"0 .. 20,000",,0,0,,0,0
+729950,Witch Hunters: Full Moon Ceremony Collector's Edition,game,"Nov 6, 2017",0,Top Evidence Studio,BFG Entertainment,"Adventure, Casual",0.0,,,0,2017,"0 .. 20,000",,0,0,"Adventure, Casual, Hidden Object",3,0
+223330,Sea Dogs: To Each His Own,game,"Dec 6, 2012",0,BlackMark Studio,Valkyrie Initiative,RPG,14.99,,1913.0,0,2012,"100,000 .. 200,000",,813,390,"Pirates, Naval, RPG, Sandbox, Naval Combat",1709,622
+708260,Text Wormhole,game,"Nov 2, 2017",0,Elknight,Elknight,"Action, Casual, Indie",6.99,,,0,2017,"20,000 .. 50,000",,0,0,"Action, Indie, Casual, Shoot 'Em Up, Bullet Hell",44,6
+386070,Planetary Annihilation: TITANS,game,"Aug 18, 2015",0,Planetary Annihilation Inc,Planetary Annihilation Inc,"Action, Indie, Strategy",29.99,,11099.0,0,2015,"500,000 .. 1,000,000",,1032,396,"RTS, Strategy, Real Time Tactics, Multiplayer, Base-Building",11976,2149
+755580,Daddy's gone a-hunting,game,"Dec 12, 2017",0,Wojciech Krupinski,KrupinskiArt,"Action, Adventure, Casual, Indie",0.99,,,0,2017,"0 .. 20,000",,1,1,"Action, Indie, Casual, Adventure",4,11
+795640,VINDICTA Arcade,game,"Oct 26, 2018",0,Game Cooks,Game Cooks,"Action, Indie",0.0,,,0,2018,"0 .. 20,000",,0,0,,0,0
+489720,Conga Master,game,"Sep 14, 2016",0,Undercoders,Undercoders,"Action, Indie",0.99,,,0,2016,"20,000 .. 50,000",,123,123,"Action, Indie, Pixel Graphics, Music, Local Multiplayer",71,7
+378410,Patchman vs. Red Circles,game,"Oct 19, 2017",0,Naturally Intelligent,Naturally Intelligent,"Action, Adventure, Indie",9.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Indie, Adventure, Isometric, Stealth",19,2
+686910,Delirium,game,"Aug 31, 2017",0,Night Whale,Night Whale,Indie,0.0,,,0,2017,"0 .. 20,000",,0,0,"Indie, Psychological Horror, First-Person, Atmospheric, Singleplayer",15,14
+388660,Project Tarvotan,game,"Sep 25, 2015",0,FlagmanJeremy,FlagmanJeremy,"Indie, Simulation, Strategy",0.99,,,0,2015,"20,000 .. 50,000",,220,275,"Strategy, Indie, Simulation, Space, Turn-Based Strategy",40,29
+248710,Iesabel,game,"11 Oct, 2013",0,,Forever Entertainment S. A.,"Action, Indie, RPG",4.99,,434.0,0,2013,"100,000 .. 200,000",,49,59,"RPG, Action, Indie, Hack and Slash, Action RPG",234,518
+21680,Bionic Commando: Rearmed,game,"Jul 28, 2009",17,Capcom,Capcom,Action,9.99,86.0,712.0,0,2009,"200,000 .. 500,000",,104,37,"Action, Platformer, Remake, Local Co-Op, Great Soundtrack",663,437
+765880,The Occupation,game,"Mar 5, 2019",13,White Paper Games,Humble Games,"Adventure, Indie",29.99,68.0,180.0,0,2019,"100,000 .. 200,000",,250,316,"Immersive Sim, Detective, Stealth, Adventure, Indie",234,153
+305960,Dragon: The Game,game,"Nov 7, 2014",0,Sky Drake Studios,Red Level Games,"Action, Indie, RPG, Simulation, Early Access",17.99,,657.0,0,2014,"20,000 .. 50,000",,90,90,"Dragons, RPG, Action, Simulation, Open World",230,549
+744420,Adventures Of Pipi,game,"Nov 10, 2017",0,"Nikita ""Ghost_RUS""",Ghost_RUS Games,"Adventure, Casual, Indie",0.99,,164.0,0,2017,"0 .. 20,000",,0,0,"Adventure, Casual, Indie, Memes",187,78
+659560,VITATIO,game,"Jul 28, 2017",0,ColloseusX,Phat Phrog Studios,"Casual, Indie, Strategy",1.99,,,0,2017,"0 .. 20,000",,179,179,"Indie, Casual, Strategy",26,8
+227480,God Mode,game,"Apr 19, 2013",17,Old School Games,ATLUS USA,Action,0.0,58.0,1615.0,0,2013,"200,000 .. 500,000",,333,205,"Action, Co-op, Multiplayer, Third-Person Shooter, Shooter",1785,740
+653190,spaceBOUND,game,"Sep 1, 2017",0,Gravity Whale Games,Gravity Whale Games,Indie,4.99,,,0,2017,"0 .. 20,000",,0,0,"Indie, Puzzle-Platformer, Difficult, Space, Co-op",22,7
+594410,Western Bank VR,game,"Dec 21, 2017",0,Gameplay Studio VR,Gameplay Studio VR,"Action, Adventure, Casual",5.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Adventure, Casual, VR, Western",6,1
+570590,Solitaire VR,game,"Apr 20, 2017",0,"Babaroga, LLC","Tripp, LLC","Adventure, Casual, Indie, RPG, Simulation, Strategy",1.99,,,0,2017,"0 .. 20,000",,0,0,"Casual, Strategy, Adventure, Indie, Simulation",16,2
+4000,Garry's Mod,game,"29 Nov, 2006",0,Facepunch Studios,Valve,"Casual, Indie, Simulation",10.99,,1032044.0,0,2006,"20,000,000 .. 50,000,000",,9837,1264,"Sandbox, Moddable, Multiplayer, Physics, Building",1122546,37161
+231060,Ragnarok Online 2,game,"May 1, 2013",0,"Gravity, Inc.",Gravity Interactive,"Free To Play, Massively Multiplayer, RPG",0.0,,,0,2013,"1,000,000 .. 2,000,000",,1295,92,"Free to Play, RPG, MMORPG, Massively Multiplayer, Anime",1848,1336
+1050210,The Superlatives: Shattered Worlds,game,"Mar 28, 2019",0,Choice of Games,Choice of Games,"Adventure, Indie, RPG",5.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Adventure, RPG, Text-Based, Choose Your Own Adventure",5,2
+918740,Flat Trip,game,"Oct 3, 2018",0,Dmitriy Mamaev,Dmitriy Mamaev,Indie,0.0,,,0,2018,"0 .. 20,000",,0,0,"Indie, Hand-drawn, Great Soundtrack, Singleplayer, Short",30,2
+1143390,Ichor,game,"Sep 28, 2019",0,"Luke Palmer, Namaste Reid",Luke Palmer,"Action, Indie, Strategy",0.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Strategy",4,0
+628580,Miniballist,game,"Mar 13, 2018",0,Timberwolf Studios,My Way Games,"Casual, Indie",9.99,,,0,2018,"50,000 .. 100,000",,402,469,"Indie, Casual, Platformer, Difficult, Psychological Horror",69,27
+1167530,Ailment,game,"Oct 23, 2019",0,Ivan Panasenko,Ivan Panasenko,"Action, Adventure, Indie",5.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Gore, Violent, Adventure",9,2
+727460,Magic Tower,game,"Dec 31, 2017",0,夕,夕,"Indie, RPG, Strategy, Early Access",0.99,,,0,2017,"0 .. 20,000",,28,28,"Strategy, Indie, Early Access, RPG, Tower Defense",29,11
+1530,Multiwinia,game,"19 Sep, 2008",0,Introversion Software,Introversion Software,Indie,15.49,76.0,402.0,0,2008,"50,000 .. 100,000",,81,22,"RTS, Strategy, Multiplayer, Singleplayer, Retro",478,107
+1170290,Lovely Heroines,game,"Oct 16, 2019",0,Kavorka Play,Kavorka Play,"Casual, Indie, Simulation, Strategy",4.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Casual, Simulation, Strategy, Visual Novel",10,13
+996080,King's League II,game,"Nov 7, 2019",0,Kurechii,Kurechii,"Indie, RPG, Simulation, Strategy",15.99,,104.0,0,2019,"0 .. 20,000",,388,507,"Indie, Strategy, Simulation, RPG",97,25
+1072140,Rigid Chess,game,"May 15, 2019",0,RigidBody,RigidBody Tech LLC,"Casual, Strategy",12.99,,,0,2019,"0 .. 20,000",,0,0,"Strategy, Casual, Tabletop",1,0
+1008320,Epic Adventures: La Jangada,game,"Jan 20, 2019",0,Urchin Games,HH-Games,"Action, Adventure, Casual, Indie, Simulation, Strategy",6.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Casual, Adventure, Simulation, Hidden Object",14,15
+1035410,xMoon,game,"Jun 13, 2019",0,buffalo buffalo buffalo,buffalo buffalo buffalo,"Adventure, Indie",9.99,,,0,2019,"20,000 .. 50,000",,0,0,"Indie, Adventure, Puzzle, Sci-fi",3,0
+1069710,Gear City Against Chaos,game,"Nov 15, 2019",0,"ZKW, ZKW",ZKW,"Action, Simulation, Strategy, Early Access",0.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Strategy, Early Access, Simulation",12,8
+353540,Stephen's Sausage Roll,game,"Apr 17, 2016",0,increpare games,increpare games,Indie,29.99,90.0,1402.0,0,2016,"100,000 .. 200,000",,843,132,"Puzzle, Indie, Difficult, Singleplayer, Sokoban",1672,81
+749800,PixelJunk™ Monsters 2,game,"May 25, 2018",0,Q-Games Ltd.,"Spike Chunsoft Co., Ltd.",Action,14.99,,257.0,0,2018,"20,000 .. 50,000",,166,235,"Action, Tower Defense, Local Co-Op",173,90
+951110,VR Cricket,game,"Dec 27, 2018",0,Hunter Games,Hunter Software,"Simulation, Sports",0.99,,,0,2018,"0 .. 20,000",,0,0,"Sports, Simulation, VR",1,1
+915430,Triteckka: The pure shooter,game,"Sep 30, 2018",0,1MP,1MP,"Action, Casual, Indie, Early Access",7.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Early Access, Casual, Shooter",1,1
+841680,Hazmat Hijinks: Total Meltdown,game,"Aug 1, 2018",0,Tod Powers,National Spork LLC,"Adventure, Casual, Indie",0.0,,,0,2018,"0 .. 20,000",,0,0,"Casual, Puzzle-Platformer, Collectathon, Tutorial, Arcade",8,2
+916510,Running Man 3D Part2,game,"Aug 23, 2018",0,GGaming,GGaming,"Adventure, Indie, Simulation",0.99,,,0,2018,"20,000 .. 50,000",,0,0,"Indie, Adventure, Simulation, Runner, Action",15,11
+933660,In Memory,game,"Oct 11, 2018",0,BLAV,BLAV,Indie,0.0,,,0,2018,"0 .. 20,000",,0,0,"Indie, VR, Story Rich",20,3
+464000,Arcade Saga,game,"Dec 8, 2016",0,2 Bears Studio,Vive Studios,"Action, Casual, Sports",0.0,,,0,2016,"0 .. 20,000",,0,0,"Action, Casual, Sports, VR",33,10
+944330,Hunt and Snare,game,"Dec 17, 2018",0,"Ruffleneck, Hare, Drathek",Ruffleneck,"Action, Adventure, RPG, Early Access",29.99,,666.0,0,2018,"0 .. 20,000",,980,1536,,0,0
+1113680,Hentai Girl Division,game,"Aug 15, 2019",0,Mature Games,Mature Games,"Action, Adventure, Casual, Indie, RPG",1.99,,889.0,0,2019,"20,000 .. 50,000",,144,166,"Sexual Content, Nudity, Casual, Action, RPG",507,84
+396820,Mass Destruction,game,"Aug 24, 2015",0,NMS Software,Console Classics,Action,8.99,,,0,2015,"0 .. 20,000",,0,0,"Action, Tanks",6,5
+839180,Nine-Slicer,game,"Aug 22, 2019",0,Gilligames,Gilligames,"Indie, Design & Illustration, Utilities, Game Development",9.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Utilities, Game Development, Design & Illustration",2,0
+71250,Sonic Adventure DX,game,"Mar 4, 2011",0,SEGA,SEGA,,3.99,,14582.0,0,2011,"500,000 .. 1,000,000",,518,134,"Platformer, Great Soundtrack, 3D Platformer, Classic, Adventure",15415,1432
+585910,Wild Guns Reloaded,game,"Jul 11, 2017",0,NatsumeAtari,Natsume Inc.,Action,14.99,,404.0,0,2017,"50,000 .. 100,000",,365,341,"Action, Western, Arcade, Remake, Shooter",392,57
+470220,UNO,game,"Jan 3, 2017",0,Ubisoft Entertainment,Ubisoft Entertainment,Casual,3.99,,41183.0,0,2017,"2,000,000 .. 5,000,000",,490,237,"Card Game, Multiplayer, Tabletop, Board Game, Casual",37173,14345
+681730,Nowhere Prophet,game,"Jul 19, 2019",0,Sharkbomb Studios,No More Robots,"Indie, RPG, Strategy",24.99,73.0,695.0,0,2019,"50,000 .. 100,000",,401,409,"Rogue-like, Deckbuilding, Card Game, Turn-Based, Post-apocalyptic",803,317
+1173120,Markov Alg,game,"Nov 26, 2019",0,Fewjix,Fewjix,Indie,2.99,,,0,2019,"20,000 .. 50,000",,0,0,"Programming, Hacking, Simulation, Sokoban, Old School",21,1
+516840,The Tale of Doris and the Dragon - Episode 1,game,"Sep 8, 2016",0,Arrogant Pixel,Arrogant Pixel,"Adventure, Indie",3.99,,,0,2016,"20,000 .. 50,000",,232,232,"Casual, Difficult, Point & Click, Hidden Object, Female Protagonist",71,4
+755920,CHOP,game,"Sep 13, 2019",0,Claws Up Games,Claws Up Games,"Action, Indie",9.99,,,0,2019,"20,000 .. 50,000",,0,0,"Fighting, Arcade, Local Multiplayer, Fast-Paced, Gore",19,2
+501020,Super Pixel Racers,game,"Jan 30, 2019",0,"21c.Ducks Co., Ltd.","H2 Interactive Co., Ltd.","Action, Indie, Racing",14.99,,,0,2019,"20,000 .. 50,000",,52,87,"Racing, Indie, Action, Pixel Graphics, Top-Down",99,40
+1018380,怪獣綺譚 朧十夜 空狐万華鏡,game,"Feb 15, 2019",0,ときてっと,ときてっと,"Adventure, Casual, Indie",18.99,,,0,2019,"0 .. 20,000",,0,0,"Adventure, Indie, Casual, Visual Novel, 2D",1,0
+418290,Professor Teaches QuickBooks 2016,game,"Nov 30, 2015",0,Individual Software,Individual Software,Software Training,0.0,,,0,2015,"0 .. 20,000",,0,0,Software Training,1,1
+1093330,Conscious Existence - A Journey Within,game,"Jun 15, 2019",0,Marc Zimmermann,EpicScapes,Indie,1.69,,612.0,0,2019,"20,000 .. 50,000",,14,14,"Indie, VR, Atmospheric, Cinematic, Relaxing",541,79
+589590,Kindergarten,game,"Jun 15, 2017",0,"Con Man Games, Sean Young",SmashGames,"Adventure, Indie",4.99,,9451.0,0,2017,"200,000 .. 500,000",,319,209,"Funny, Gore, Pixel Graphics, Singleplayer, Violent",8518,299
+1069500,Ultimate Shotgun Championship,game,"May 9, 2019",0,AlluGarage,AlluGarage,"Casual, Indie, Simulation",3.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Casual, Simulation, VR",0,1
+1036910,€100,game,"Mar 18, 2019",0,KuKo,KuKo,Casual,0.99,,135.0,0,2019,"20,000 .. 50,000",,0,0,"Casual, Puzzle",64,19
+356670,Spooky's Jump Scare Mansion,game,"Jul 28, 2015",0,Lag Studios,Lag Studios,"Action, Adventure, Free To Play, Indie",0.0,,149.0,0,2015,"1,000,000 .. 2,000,000",,149,44,"Horror, Free to Play, Cute, First-Person, Singleplayer",13926,1072
+444180,Techwars Online,game,"Mar 17, 2016",0,Argus Games,Argus Games,"Action, Indie, Massively Multiplayer, Strategy",4.99,,,0,2016,"20,000 .. 50,000",,0,0,"Massively Multiplayer, Strategy, Indie, Action, Turn-Based Strategy",78,44
+758150,McRogue,game,"Feb 2, 2018",0,Snare Games,Snare Games,"Action, Indie, Early Access",2.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, Early Access, Action",8,6
+1158320,Hentai: Memory leak,game,"Sep 26, 2019",0,Crew Lab,Crew Lab,"Casual, Indie",0.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Indie, Sexual Content, Nudity, Puzzle",44,8
+338760,Death Ray Manta SE,game,"Sep 17, 2015",0,The Future Of Videogames,Thalamus Digital,"Action, Indie",4.99,,,0,2015,"50,000 .. 100,000",,136,200,"Action, Indie, Twin Stick Shooter, Shoot 'Em Up, Colorful",158,56
+495030,VR Battle Grid,game,"Nov 8, 2016",0,Fred Sauer,Fred Sauer,"Action, Casual, Free To Play, Indie, Simulation, Strategy",0.0,,,0,2016,"20,000 .. 50,000",,52,52,"Free to Play, Action, Indie, Casual, Strategy",62,7
+1036000,The Ploshers,game,"Apr 16, 2019",0,platypurplestudios,platypurplestudios,"Action, Adventure, Casual",7.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Casual, Adventure",14,5
+278440,0RBITALIS,game,"May 28, 2015",0,Alan Zucconi,Mastertronic,"Indie, Simulation",9.99,73.0,146.0,0,2015,"50,000 .. 100,000",,112,138,"Simulation, Indie, Puzzle, Space, Physics",219,88
+666010,Refract,game,"Jul 6, 2017",0,Renaissance Game Studio,Renaissance Game Studio,"Indie, Strategy",0.99,,,0,2017,"0 .. 20,000",,0,0,"Strategy, Indie, Puzzle",30,3
+332360,Spriter Pro,game,"Nov 14, 2014",0,BrashMonkey,BrashMonkey,"Animation & Modeling, Design & Illustration, Utilities",59.99,,198.0,0,2014,"0 .. 20,000",,246,183,"Animation & Modeling, Design & Illustration, Utilities, Software, Game Development",292,95
+448830,ASMR Universe,game,"Mar 3, 2016",0,Colossal Wreck,Colossal Wreck,Utilities,1.34,,,0,2016,"20,000 .. 50,000",,238,324,"Utilities, Relaxing, Atmospheric, Indie, Casual",76,38
+1016890,Arch Drift,game,"Feb 6, 2019",0,"Bemami, Michiel Blancquaert",Bemami,"Action, Adventure, Indie",2.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Adventure",1,0
+38140,Farm Frenzy: Pizza Party,game,"Feb 15, 2010",0,Alawar,Next Game,Casual,4.99,,,0,2010,"0 .. 20,000",,0,0,"Casual, Agriculture",33,4
+688680,Oswald's Adventure,game,"Aug 21, 2017",0,Dede Bayi,MLG Games,"Adventure, Indie, RPG",2.99,,,0,2017,"0 .. 20,000",,0,0,"Adventure, RPG, Indie, RPGMaker, 2D",24,7
+1129200,Minesweep World,game,"Oct 7, 2019",0,Rainbirth SL,Rainbirth SL,"Casual, Indie, Strategy",1.99,,,0,2019,"20,000 .. 50,000",,0,0,"Indie, Casual, Strategy",1,1
+730010,Ninja in Training,game,"Nov 1, 2017",0,Tall James Games,Tall James Games,"Casual, Indie",0.99,,,0,2017,"0 .. 20,000",,0,0,"Indie, Casual, VR, Ninja",0,1
+770370,Adventures of Dragon,game,"Dec 20, 2018",0,Tuomo Laine,Tuomo's games,"Adventure, Casual, Indie, RPG",3.99,,,0,2018,"0 .. 20,000",,0,0,"RPG, Casual, Indie, Adventure, LGBTQ+",10,8
+795310,Devil in the Details - Uncensored,game,"Oct 12, 2018",0,Dharker Studios,Dharker Studios,"Adventure, Casual, Indie",9.99,,,0,2018,"0 .. 20,000",,28,28,,0,0
+11040,Sherlock Holmes - Nemesis,game,"Aug 7, 2008",0,Frogwares,Frogwares,"Adventure, RPG",9.99,71.0,602.0,0,2008,"100,000 .. 200,000",,152,156,"Adventure, RPG, Detective, Point & Click, Mystery",468,185
+1013670,Mr Boom's Firework Factory,game,"Jul 10, 2019",0,Brainbox.cc,Brainbox.cc,"Action, Casual, Indie, Simulation",2.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Casual, Simulation, Puzzle",6,1
+607120,Police Quest: SWAT 2,game,"Apr 18, 2017",0,Yosemite Entertainment,Sierra,"Simulation, Strategy",5.99,,107.0,0,2017,"0 .. 20,000",,30,30,"Simulation, Strategy, Classic, Tactical, Villain Protagonist",84,23
+601550,Don't Look Back,game,"Mar 2, 2017",13,"catbull, Omicron Games",catbull,Indie,4.99,,,0,2017,"0 .. 20,000",,0,0,"Indie, VR, Horror",3,5
+265590,The Red Solstice,game,"Jul 9, 2015",0,Ironward,Ironward,Strategy,9.99,74.0,867.0,0,2015,"2,000,000 .. 5,000,000",,273,278,"Strategy, Tactical, RTS, Sci-fi, Co-op",1772,729
+495140,NARUTO: Ultimate Ninja STORM,game,"Aug 25, 2017",0,CyberConnect2 Co. Ltd.,BANDAI NAMCO Entertainment,"Action, Adventure",9.99,,5675.0,0,2017,"200,000 .. 500,000",,709,249,"Action, Adventure, Anime, Fighting, Open World",4984,1561
+393660,Streamline,game,"Sep 2, 2015",0,Frostcloud Studios,Frostcloud Studios,"Action, Casual, Indie, Strategy",2.99,,,0,2015,"20,000 .. 50,000",,0,0,"Action, Strategy, Indie, Casual",31,23
+461340,A Timely Intervention,game,"Mar 24, 2017",0,Aldorlea Games,Aldorlea Games,"Adventure, Casual, Indie, RPG, Strategy",9.99,,,0,2017,"100,000 .. 200,000",,203,252,"RPG, Female Protagonist, Time Travel, Casual, Adventure",47,9
+768630,Zyxia: Neon Termination,game,"Oct 21, 2019",0,Knight and Ninja Games,Knight and Ninja Games,"Action, Indie, Early Access",9.99,,,0,2019,"0 .. 20,000",,0,0,"Early Access, Action, Indie, Top-Down Shooter, Pixel Graphics",0,1
+1126430,香江之龙，Dragon of Hongkong,game,"Aug 26, 2019",0,Studio TAPAS,Studio TAPAS,"Action, Adventure, Indie, Racing, RPG, Early Access",4.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Gore, Violent, Adventure",2,2
+572350,Craftmas,game,"Dec 23, 2016",0,Freeform Labs,MANDT VR,"Design & Illustration, Early Access",4.99,,,0,2016,"0 .. 20,000",,0,0,"Early Access, Design & Illustration, VR",2,2
+473450,The Narrator Is a DICK,game,"Jun 14, 2016",0,Adam DeLease,Adam DeLease,"Adventure, Indie",4.99,,106.0,0,2016,"20,000 .. 50,000",,55,55,"Precision Platformer, Difficult, Platformer, Female Protagonist, 2D",101,27
+378750,Sayonara Umihara Kawase,game,"Oct 5, 2015",0,Studio Saizensen,KOMODO,"Action, Indie",14.99,,152.0,0,2015,"20,000 .. 50,000",,99,191,"Action, Physics, Indie, Precision Platformer, Anime",155,9
+1177300,Space zone defender,game,"Nov 15, 2019",0,BD MINIGAMES,BD MINIGAMES,"Action, Casual, Indie",0.99,,,0,2019,"20,000 .. 50,000",,0,0,"Action, Indie, Casual, Arcade, Relaxing",1,3
+388750,BlazBlue: Chronophantasma Extend,game,"Mar 2, 2016",0,Arc System Works,"H2 Interactive Co., Ltd.",Action,29.99,,2365.0,0,2016,"200,000 .. 500,000",,401,207,"Anime, Fighting, 2D Fighter, Action, Great Soundtrack",2577,259
+340450,Crashed Lander,game,"Feb 4, 2015",0,Don Whitaker,Brain Blinks,Indie,4.99,,,0,2015,"20,000 .. 50,000",,272,272,"Indie, Arcade, Physics, VR",42,13
+1149090,Hospital 9,game,"Oct 25, 2019",0,Sonic-Alpha,NS,"Action, Indie",0.99,,,0,2019,"0 .. 20,000",,0,0,"Horror, FPS, Exploration, Shooter, Action-Adventure",8,4
+335790,Words for Evil,game,"Dec 11, 2014",0,Chromosphere Games,Chromosphere Games,"Action, Adventure, Casual, Indie",2.99,,357.0,0,2014,"50,000 .. 100,000",,127,144,"Word Game, Typing, Spelling, Indie, Adventure",379,95
+302790,Momodora III,game,"1 Jul, 2014",0,rdein,rdein,"Action, Indie",2.95,,1245.0,0,2014,"50,000 .. 100,000",,98,75,"Indie, Action, Platformer, Pixel Graphics, Female Protagonist",1315,85
+527230,For The King,game,"Apr 19, 2018",0,IronOak Games,Curve Games,"Adventure, Indie, RPG, Strategy",19.99,79.0,30170.0,0,2018,"2,000,000 .. 5,000,000",,1335,800,"RPG, Online Co-Op, Strategy, Turn-Based, Rogue-like",36581,4906
+958230,AXE:SURVIVAL,game,"Jan 14, 2019",13,DCELL GAME STUDIO,DCELL GAME STUDIO,"Action, Adventure, Indie, RPG, Early Access",2.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Adventure, RPG, Indie, Early Access",5,22
+680930,Fairy Lands: Rinka and the Fairy Gems,game,"Aug 25, 2017",0,OddMeat,Phoenix Reborn Games,"Casual, Indie",2.3,,,0,2017,"20,000 .. 50,000",,0,0,"Indie, Casual, Puzzle, Action, Match 3",20,10
+800390,Puppet Fever,game,"Apr 19, 2018",0,Coastalbyte Games,Coffee Stain Publishing,"Casual, Early Access",14.99,,,0,2018,"0 .. 20,000",,219,219,"VR, Local Multiplayer, Casual, Party Game, Early Access",33,4
+1103770,Super Arcade Racing,game,"Oct 15, 2019",0,OutOfTheBit Ltd,OutOfTheBit Ltd,"Action, Adventure, Casual, Indie, Racing, Sports",12.99,,,0,2019,"0 .. 20,000",,0,0,"Racing, Multiplayer, Arcade, Retro, Local Multiplayer",84,5
+1032270,Kill The Censored,game,"Mar 24, 2019",0,Duck INC,Duck INC,"Casual, Indie",0.99,,,0,2019,"0 .. 20,000",,0,0,,0,0
+1148080,Rainbow Pixel - Color by Number,game,"Oct 1, 2019",0,Somer Games,8floor,Casual,1.49,,,0,2019,"0 .. 20,000",,0,0,"Casual, Sandbox, Design & Illustration, Match 3, Solitaire",10,3
+805870,Do you know de way,game,"Mar 15, 2018",0,Laush Dmitriy Sergeevich,Laush Studio,"Adventure, Indie",24.99,,,0,2018,"20,000 .. 50,000",,63,84,"Adventure, Indie, Memes, 2D, Singleplayer",178,69
+1081710,Most Correct Football Simulator,game,"May 21, 2019",0,Kiddy,Kiddy,"Action, Casual, Indie, Simulation, Sports",0.99,,,0,2019,"20,000 .. 50,000",,0,0,"Action, Indie, Casual, Simulation, Sports",50,20
+999890,Bruken,game,"Apr 11, 2019",0,FlairBot Games,FlairBot Games,"Adventure, Casual, Indie",2.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Casual, Adventure",3,0
+279070,9th Dawn II,game,"Oct 17, 2016",0,Valorware,Valorware,"Action, Adventure, Indie, RPG",5.99,,160.0,0,2016,"0 .. 20,000",,5,5,"RPG, Adventure, Indie, Action, Dungeon Crawler",132,28
+1001010,雪·疑 Sknow,game,"May 19, 2019",0,泥亾,泥亾,"Indie, RPG",1.99,,,0,2019,"0 .. 20,000",,0,0,"RPG, Indie, Mystery, RPGMaker",10,4
+511740,Gal*Gun: Double Peace,game,"Sep 27, 2016",0,"INTI CREATES CO., LTD.",PQube,"Action, Adventure",29.99,,1822.0,0,2016,"100,000 .. 200,000",,270,91,"On-Rails Shooter, Anime, Dating Sim, FPS, Sexual Content",1867,280
+431740,Chowderchu,game,"Jan 4, 2016",0,Ryan Jensen,Ryan Jensen,"Action, Adventure, Indie",2.99,,,0,2016,"20,000 .. 50,000",,277,297,"Action, Adventure, Indie, Difficult, Platformer",30,24
+260040,YOU DON'T KNOW JACK TELEVISION,game,"Nov 5, 2013",0,"Jackbox Games, Inc.","Jackbox Games, Inc.","Casual, Indie, Strategy",2.99,,,0,2013,"0 .. 20,000",,26,43,"Trivia, Casual, Indie, Strategy, Party Game",39,19
+270030,Snow Horse,game,"Aug 3, 2016",0,KinifiGames LLC,KinifiGames LLC,"Action, Casual, Indie, Simulation, Sports",0.0,,,0,2016,"0 .. 20,000",,0,0,"Indie, Action, Casual, Sports, Simulation",20,7
+296770,Real Boxing™,game,"Jul 2, 2014",0,Vivid Games S.A.,Vivid Games S.A.,Sports,4.99,,895.0,0,2014,"100,000 .. 200,000",,738,299,"Sports, Boxing, Fighting, Simulation, Arcade",903,506
+849680,TimeTekker,game,"Jun 7, 2018",0,Artii Games LLC,Artii Games LLC,"Action, Indie",0.0,,,0,2018,"20,000 .. 50,000",,411,411,"Action, Indie, Arcade, Shoot 'Em Up, Bullet Time",59,6
+34272,Comix Zone™,game,"Jun 1, 2010",0,SEGA,SEGA,Action,0.0,,,0,2010,"20,000 .. 50,000",,0,0,"Action, Classic, Beat 'em up, 2D, Comic Book",16,1
+1122310,Guildmaster Story,game,"Nov 5, 2019",0,WZOGI,WZOGI,Indie,9.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Puzzle",8,0
+513960,Galactic Fighters,game,"Mar 15, 2017",0,StarworkGC,StarworkGC,"Action, Indie",1.99,,,0,2017,"0 .. 20,000",,180,180,"Action, Indie, Space, Bullet Hell, Early Access",12,2
+726620,Kitty Rescue,game,"Nov 1, 2017",0,Mesmerise Studios,Mesmerise Global,"Action, Casual, Simulation",0.0,,,0,2017,"0 .. 20,000",,11,11,"Action, Casual, Simulation, VR",34,11
+388440,Big Journey to Home,game,"Aug 20, 2015",0,The Light Sword Team,The Light Sword Team,"Indie, RPG, Strategy",2.99,,,0,2015,"20,000 .. 50,000",,375,410,"Indie, RPG, Strategy, Puzzle, Co-op",18,26
+623180,Zombie Solitaire 2 Chapter 3,game,"Mar 6, 2018",0,rokaplay,rokaplay,Casual,8.99,,,0,2018,"0 .. 20,000",,52,52,"Casual, Solitaire, Card Game, Puzzle, Mouse only",45,9
+779450,Overlanders,game,"May 23, 2019",0,Run-Down Games,Run-Down Games,"Action, Indie, Racing",24.99,,,0,2019,"0 .. 20,000",,0,0,"Racing, Action, Indie, Sci-fi, Futuristic",19,11
+462620,Pocket Kingdom,game,"Dec 8, 2016",0,08 Games,"Plug In Digital, WhisperGames","Adventure, Indie",6.99,,132.0,0,2016,"20,000 .. 50,000",,378,425,"Indie, Adventure, Puzzle, Pixel Graphics, 2D",193,21
+940070,Robot Female Hero 1,game,"Mar 12, 2019",13,Rocket Tech,Rocket Tech,RPG,0.0,,,0,2019,"0 .. 20,000",,0,0,"RPG, RPGMaker",2,0
+922880,Siberian Dawn,game,"Sep 20, 2018",0,Winterflood,Winterflood,Strategy,5.99,,,0,2018,"20,000 .. 50,000",,0,0,"Strategy, Card Game, Deckbuilding, Board Game, Tactical",10,14
+461730,Blaite,game,"Jan 2, 2017",0,Dosane Games,Akim Games,"Action, Adventure, Casual, Indie",0.99,,307.0,0,2017,"100,000 .. 200,000",,209,204,"Indie, Action, Casual, Adventure, Platformer",405,144
+619000,Riley Short: Analog Boy - Episode 1,game,"Jun 1, 2017",0,boxmyth,boxmyth,"Action, Indie, Simulation",1.99,,,0,2017,"0 .. 20,000",,0,0,"Indie, Simulation, Action, VR",1,3
+266490,Lili: Child of Geos - Complete Edition,game,"May 9, 2014",0,"BitMonster, Inc.","BitMonster, Inc.","Adventure, Indie, RPG",14.99,,787.0,0,2014,"100,000 .. 200,000",,163,150,"Adventure, Female Protagonist, Indie, RPG, Singleplayer",836,139
+94200,Jamestown,game,"8 Jun, 2011",0,Final Form Games,Final Form Games,"Action, Indie",69999.0,81.0,648.0,0,2011,"500,000 .. 1,000,000",,269,60,"Shoot 'Em Up, Bullet Hell, Local Co-Op, Indie, Arcade",2203,138
+793000,Star-Pit Starship,game,"Apr 10, 2018",0,Puddledock Games,Puddledock Games,"Action, Casual, Indie",0.99,,,0,2018,"20,000 .. 50,000",,0,0,"Indie, Casual, Action, Arcade, Singleplayer",2,0
+1069820,Fog of War: The Battle for Cerberus,game,"Apr 26, 2019",0,Choice of Games,Choice of Games,"Adventure, Indie, RPG",4.99,,,0,2019,"0 .. 20,000",,0,0,"Adventure, Indie, RPG, Text-Based, Choose Your Own Adventure",7,4
+745650,Cross Pixels,game,"Apr 17, 2018",0,crowgames UG (haftungsbeschränkt),crowgames UG (haftungsbeschränkt),"Casual, Indie, Strategy",6.99,,,0,2018,"0 .. 20,000",,0,0,"Casual, Strategy, Indie, Puzzle, Relaxing",11,6
+913250,Mimic,game,"Aug 24, 2018",0,Mimic,Mimic,Indie,0.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, Horror",2,5
+817640,Adelantado 4 Aztec Skulls,game,"22 Mar, 2018",0,Qumaron,Qumaron,"Adventure, Casual, Simulation",39999.0,,,0,2018,"0 .. 20,000",,0,0,"Adventure, Casual, Simulation",14,7
+536890,Glittermitten Grove,game,"Dec 13, 2016",0,Mostly Tigerproof,,"Simulation, Strategy",9.99,,371.0,0,2016,"20,000 .. 50,000",,316,426,"Farming Sim, City Builder, Colony Sim, Comedy, Memes",448,94
+765030,樱雪集～Yuyuko's Butterfly Dream,game,"Feb 27, 2019",0,Mescaline's Wings,Mescaline's Wings,"Action, Adventure, Casual, Indie, RPG, Early Access",3.99,,103.0,0,2019,"0 .. 20,000",,0,0,"Action, Casual, Adventure, Indie, RPG",99,19
+1146940,I will eat you,game,"Dec 6, 2019",0,Butengo entertainment,Butengo entertainment,"Action, Adventure, Casual, Indie, Massively Multiplayer, RPG",4.99,,224.0,0,2019,"0 .. 20,000",,79,134,"Indie, PvP, Family Friendly, Funny, Online Co-Op",228,65
+577940,Killer Instinct,game,"Sep 27, 2017",0,Iron Galaxy Studios,Xbox Game Studios,"Action, Free To Play",0.0,,4226.0,0,2017,"200,000 .. 500,000",,207,131,"Fighting, Action, Multiplayer, 2D Fighter, Great Soundtrack",4559,678
+371900,Pillar,game,"May 29, 2015",0,"Michael Hicks, Gonçalo Antunes",MichaelArts,"Adventure, Indie",7.99,,,0,2015,"0 .. 20,000",,242,280,"Puzzle, Psychological, Experimental, Adventure, Indie",36,16
+319320,Time Mysteries 3: The Final Enigma,game,"Sep 11, 2014",0,Artifex Mundi,Artifex Mundi,"Adventure, Casual",2.99,,245.0,0,2014,"100,000 .. 200,000",,177,214,"Hidden Object, Adventure, Casual, Female Protagonist, Point & Click",367,72
+422760,Ocean Rift,game,"Sep 13, 2017",0,Llyr ap Cenydd,Picselica Ltd,"Adventure, Casual, Indie",9.99,,122.0,0,2017,"20,000 .. 50,000",,43,76,"Casual, Adventure, Indie, VR, Underwater",103,28
+756190,Sky Road,game,"Dec 8, 2017",0,Lev Gogol,Lev Gogol,"Casual, Indie",0.99,,,0,2017,"20,000 .. 50,000",,14,14,"Casual, Indie",43,46
+754270,Hexvade,game,"Feb 21, 2018",0,Andy Mark,Andy Mark,"Action, Casual, Indie",1.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, Casual, Action",6,0
+408000,Cinderella Escape! R12,game,"Nov 16, 2015",0,Hajime Doujin Circle,Hajime Doujin Circle,Indie,4.99,,375.0,0,2015,"20,000 .. 50,000",,100,148,"Nudity, Mature, Female Protagonist, Anime, Puzzle",310,93
+841980,Avalon Legends Solitaire 3,game,"Jun 4, 2018",0,Anawiki Games,Anawiki Games,"Casual, Indie",9.99,,,0,2018,"0 .. 20,000",,0,0,"Solitaire, Indie, Casual, Card Game, Singleplayer",18,4
+708250,Lava Rolling Kid,game,"Nov 11, 2017",0,"ElVery333, Raquel Covelo Suarez, ATopeCode", Back To Basics Gaming,"Adventure, Casual, Indie",0.0,,,0,2017,"0 .. 20,000",,0,0,"Adventure, Indie, Casual",3,2
+423610,Where's My Mommy?,game,"Mar 1, 2016",0,Exquisite Games,Exquisite Games,"Action, Adventure, Casual, Indie, Racing, Simulation",5.99,,144.0,0,2016,"20,000 .. 50,000",,128,133,"Indie, Casual, Action, Racing, Adventure",130,39
+899970,NEKOPARA Extra,game,"Jul 26, 2018",0,NEKO WORKs,Sekai Project,"Casual, Indie",4.99,,3514.0,0,2018,"100,000 .. 200,000",,19558,164,"Anime, Cute, Visual Novel, Nudity, Hentai",3740,104
+623080,planetarian HD,game,"May 8, 2017",0,VisualArts/Key,VisualArts,"Adventure, Casual, Simulation",9.99,,2984.0,0,2017,"20,000 .. 50,000",,74,68,"Visual Novel, Anime, Casual, Adventure, Robots",2947,34
+586230,Kult of Ktulu: Olympic,game,"Feb 9, 2017",0,Grand Cauldron,Morrigan Games,"Adventure, Casual, Indie",5.99,,,0,2017,"0 .. 20,000",,192,192,"Casual, Adventure, Indie, Lovecraftian",13,0
+575030,Baru and the Spirit Prince,game,"Dec 29, 2016",0,"Tingly, LLC","Tingly, LLC","Adventure, Indie",3.99,,,0,2016,"0 .. 20,000",,0,0,"Adventure, Indie",4,1
+821640,Floor Kids,game,"May 16, 2018",0,MERJ Media,MERJ Media,"Action, Casual, Indie, Sports",19.9,,165.0,0,2018,"0 .. 20,000",,50,55,"Casual, Sports, Action, Indie, Rhythm",158,20
+497590,Sapper's bad dream,game,"Jul 7, 2016",0,WTFOMGames,WTFOMGames,"Action, Adventure, Casual, Indie",3.99,,,0,2016,"0 .. 20,000",,383,211,"Mystery Dungeon, Mining, Horror, Action, Mystery",17,22
+498450,A Week of Circus Terror,game,"Aug 5, 2016",0,Richard Haraším,Richard Haraším,Indie,4.99,,,0,2016,"0 .. 20,000",,13305,13305,"Indie, Horror, Point & Click",17,14
+315130,CO-OP : Decrypted,game,"Aug 17, 2015",0,Pixelz Games,Pixelz Games,"Adventure, Indie",9.99,,,0,2015,"0 .. 20,000",,0,0,"Indie, Adventure, Co-op, Side Scroller, Sci-fi",30,37
+589780,The Red Strings Club,game,"Jan 22, 2018",0,Deconstructeam,Devolver Digital,"Adventure, Indie",14.99,80.0,12090.0,0,2018,"200,000 .. 500,000",,233,200,"Cyberpunk, Pixel Graphics, Story Rich, Choices Matter, Great Soundtrack",12057,782
+757870,Australian trip,game,"Dec 19, 2017",0,SergioPoverony,SergioPoverony,"Action, Adventure, Casual, Indie",4.99,,,0,2017,"0 .. 20,000",,16,16,"Indie, Action, Adventure, Casual, Puzzle",28,11
+490230,SWARMRIDERS,game,"Jun 15, 2016",0,Walter Machado,Walter Machado,"Action, Indie, Free To Play",0.0,,,0,2016,"100,000 .. 200,000",,111,204,"Action, Free to Play, Indie, Bullet Hell, Arcade",431,55
+628890,NOBUNAGA'S AMBITION: Taishi,game,"Nov 29, 2017",0,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",Simulation,59.99,,787.0,0,2017,"20,000 .. 50,000",,1889,2495,"Wargame, Immersive Sim, Real Time Tactics, War, Military",475,489
+941410,Touhou: Dreaming Butterfly | 东方蝶梦志,game,"Oct 14, 2018",0,弦语蝶梦,弦语蝶梦,"Action, Casual, Indie",14.99,,,0,2018,"0 .. 20,000",,15,15,"Action, Indie, Casual, Faith, Bullet Hell",60,13
+885640,Lynne,game,"Jul 13, 2018",0,ebi-hime,ebi-hime,"Indie, Simulation, Free To Play",0.0,,,0,2018,"50,000 .. 100,000",,90,92,"Free to Play, Visual Novel, Psychological Horror, Sexual Content, Horror",836,215
+1037090,GREEN The Life Algorithm,game,"Nov 21, 2019",0,ESTACION PI Y DISEÑO,ESTACION PI Y DISEÑO,"Action, Adventure, Indie, Strategy",5.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Strategy, Adventure",19,5
+393320,Typing Instructor Platinum 21,game,"Jan 26, 2016",0,Individual Software,Individual Software,Education,5.99,,,0,2016,"0 .. 20,000",,0,0,"Education, Typing, Software Training, Software",11,4
+512420,Wave Magic VR,game,"Dec 29, 2016",0,Overrun Games,Overrun Games,"Action, Indie, RPG, Early Access",5.99,,,0,2016,"0 .. 20,000",,196,196,"Action, Indie, Early Access, RPG, VR",15,8
+871100,Animyst,game,"Jul 2, 2018",0,Animyst Games,Animyst Games,"Action, Adventure, Casual, Free To Play, Indie, Massively Multiplayer, RPG",0.0,,,0,2018,"100,000 .. 200,000",,0,0,"Dark Fantasy, Demons, Horror, Philosophical, Surreal",375,64
+279260,Richard & Alice,game,"Jun 5, 2014",0,Owl Cave,Owl Cave,"Adventure, Indie",5.99,70.0,303.0,0,2014,"50,000 .. 100,000",,173,198,"Adventure, Indie, Point & Click, Mystery, Crime",304,114
+705060,Infernales,game,"Nov 10, 2017",0,VGstudio,Conglomerate 5,"Action, Adventure, Indie",0.49,,,0,2017,"20,000 .. 50,000",,0,0,"Action, Adventure, Indie, FPS, Horror",23,44
+31290,Back to the Future: The Game,game,"Dec 23, 2010",0,Telltale Games,Telltale Games,Adventure,0.0,74.0,1270.0,0,2010,"500,000 .. 1,000,000",,151,122,"Adventure, Point & Click, Puzzle, Comedy, Funny",2052,271
+716920,The Ultimate Trivia Challenge,game,"Oct 27, 2017",0,LoadUpGames.com,LoadUpGames.com,"Casual, Indie",4.99,,,0,2017,"20,000 .. 50,000",,0,0,"Trivia, Casual, Multiplayer, Local Multiplayer, 4 Player Local",4,2
+1139130,BioMech,game,"Sep 6, 2019",0,ERMedia,Plug In Digital,"Action, Adventure, Indie",9.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Adventure, Indie, Metroidvania",4,5
+382180,Devilry,game,"Jun 30, 2015",0,New State,New State,"Action, Indie",3.99,,,0,2015,"20,000 .. 50,000",,0,0,"Indie, Action, Horror",44,20
+678850,Uurnog Uurnlimited,game,"Nov 16, 2017",0,Nifflas Games,Raw Fury,Indie,9.99,,,0,2017,"0 .. 20,000",,19,27,"Indie, Platformer, Puzzle, Puzzle-Platformer",94,22
+1162440,Explosive Jake,game,"Nov 9, 2019",0,PigeonDev,PigeonDev,Indie,0.49,,,0,2019,"0 .. 20,000",,0,0,"Arcade, Destruction, Action, Top-Down, Puzzle",19,9
+1146910,Atomorf2,game,"Sep 17, 2019",0,Dnovel,My Way Games,"Action, Adventure, Casual, Indie",9.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Casual, Adventure, Early Access",19,3
+1068860,非正式警探 Informal Detective,game,"Jun 14, 2019",0,SpaceMola Games,SpaceMola Games,"Adventure, Indie, RPG",1.99,,,0,2019,"0 .. 20,000",,0,0,"Adventure, RPG, Indie",7,4
+780760,Lots of Balls,game,"Feb 26, 2018",0,Paddle Team,Paddle Team,"Action, Indie",2.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie",26,6
+766680,Punch Line,game,"May 23, 2019",17,MAGES. Inc.,PQube,"Adventure, RPG",49.99,,,0,2019,"0 .. 20,000",,105,105,"Adventure, RPG, Anime, Visual Novel, Sexual Content",53,25
+1097160,Run Roll Rumble,game,"Aug 7, 2019",0,Matthew Marcellino,Benua Softworks,Casual,1.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Multiplayer, Action, Indie, Beat 'em up",7,1
+1182670,Haunted Hotel: Room 18 Collector's Edition,game,"Nov 1, 2019",0,Elephant Games,BFG Entertainment,"Adventure, Casual",9.99,,,0,2019,"0 .. 20,000",,0,0,"Adventure, Casual, Hidden Object",19,6
+485660,Karma Miwa,game,"Aug 12, 2016",0,Space Fractal,Space Fractal,"Action, Adventure, Casual, Indie",0.0,,,0,2016,"50,000 .. 100,000",,220,218,"Casual, Adventure, Indie, Action, Platformer",46,21
+204300,Awesomenauts,game,"Aug 1, 2012",0,Ronimo Games,Atari,"Action, Indie, Strategy",19.99,78.0,11832.0,0,2012,"2,000,000 .. 5,000,000",,793,326,"MOBA, Multiplayer, 2D, Platformer, Action",22618,4113
+775860,Midnightland,game,"Jan 19, 2018",0,Lorag Games,Lorag Games,"Action, Indie, Early Access",4.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Early Access, Violent, Sexual Content",9,10
+688420,Bad North: Jotunn Edition,game,"16 Nov, 2018",0,"Plausible Concept, Oskar Stålberg",Raw Fury,"Action, Indie, Simulation",2.99,,11162.0,0,2018,"500,000 .. 1,000,000",,345,166,"Wargame, Vikings, Tower Defense, Real Time Tactics, Survival",11367,831
+874640,The Life's Lane,game,"Jul 16, 2018",0,Life's Lane Studio,Life's Lane Studio,"Adventure, Casual, Indie, Simulation",2.99,,,0,2018,"0 .. 20,000",,0,0,"Casual, Adventure, Indie, Simulation",1,4
+323020,Destructamundo,game,"Jan 28, 2015",0,MiniVisions,Choice Provisions,"Casual, Indie",4.99,,,0,2015,"0 .. 20,000",,0,0,"Indie, Casual",12,3
+973690,Antrum,game,"Feb 14, 2019",0,Blank Name Games,Blank Name Games,"Action, Adventure, Casual, Indie",7.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Casual, Adventure",1,0
+552330,"Happy Birthday, Bernard",game,"Dec 13, 2016",0,Olly Whillans,Olly Whillans,Indie,4.99,,,0,2016,"0 .. 20,000",,0,0,"Indie, Platformer, Pixel Graphics, Puzzle, Puzzle-Platformer",5,1
+1136900,ポエニ戦争　地中海の稲妻,game,"Aug 21, 2019",0,白新社,白新社,"Indie, Simulation, Strategy",8.99,,,0,2019,"0 .. 20,000",,0,0,"Strategy, Indie, Simulation",2,0
+814380,Sekiro™: Shadows Die Twice - GOTY Edition,game,"Mar 21, 2019",17,"FromSoftware, Inc.","Activision (Excluding Japan and Asia), FromSoftware, Inc. (Japan), 方块游戏 (Asia)","Action, Adventure",59.99,88.0,246330.0,0,2019,"10,000,000 .. 20,000,000",,2937,1669,"Souls-like, Difficult, Action, Singleplayer, Ninja",307041,15193
+388540,Dr. Bulbaceous,game,"Nov 19, 2015",0,Wetgenes,Wetgenes,"Casual, Indie",3.99,,,0,2015,"0 .. 20,000",,0,0,"Indie, Casual, Puzzle",9,1
+671260,GOKEN,game,"Sep 28, 2017",0,GIANTY Inc.,GIANTY Inc.,"Action, RPG",14.99,,,0,2017,"0 .. 20,000",,6,6,"Action, RPG, Action RPG, Open World, JRPG",54,24
+6120,Shank,game,"Oct 25, 2010",17,Klei Entertainment,Klei Entertainment,"Action, Indie",9.99,67.0,2872.0,0,2010,"200,000 .. 500,000",,142,86,"Action, Beat 'em up, Indie, 2D, Side Scroller",3379,378
+1024570,Hentai Babes - In Public,game,"Mar 19, 2019",0,ZangGames,ZangGames,"Adventure, Casual, Indie, RPG, Simulation",1.99,,,0,2019,"0 .. 20,000",,0,0,,0,0
+774131,Nostradamus - The Four Horsemen of the Apocalypse,game,"Feb 12, 2018",0,"IV Productions, Funny Tales, Trinity Team srl","IV Productions, Funny Tales, Trinity Team srl","Adventure, Casual, Indie",7.99,,,0,2018,"0 .. 20,000",,0,0,"Adventure, Casual, Indie, Hidden Object, Puzzle",13,20
+410390,Warhammer: Vermintide VR - Hero Trials,game,"Dec 20, 2016",0,Fatshark,Fatshark,"Violent, Gore, Action, Free To Play",0.0,,,0,2016,"50,000 .. 100,000",,21,27,"Free to Play, Action, Gore, Violent, VR",132,92
+818050,Wormster Dash,game,"Oct 1, 2018",0,GAMELAB,GAMELAB,"Adventure, Indie",1.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, Adventure, Hand-drawn, Runner, 2D",47,1
+509420,Riding Club Championships,game,"Sep 27, 2016",0,Artplant,Artplant,"Action, Racing, Sports, Free To Play",0.0,,,0,2016,"100,000 .. 200,000",,196,66,"Free to Play, Horses, Sports, Racing, Action",523,183
+611020,CityBattle | Virtual Earth,game,"Oct 2, 2018",0,LLC RIKOR IMT,LLC RIKOR IMT,"Action, Massively Multiplayer",0.0,,,0,2018,"200,000 .. 500,000",,0,0,"Free to Play, Action, Shooter, FPS, Massively Multiplayer",1008,499
+933900,The Amazonian Dread,game,"Sep 21, 2018",0,GBROSSOFT,GBROSSOFT,"Adventure, Indie",2.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, Adventure",1,7
+660280,Keep It Safe 2,game,"Jun 22, 2017",0,BeshevGames,BeshevGames,"Casual, Indie",0.99,,,0,2017,"0 .. 20,000",,0,0,"Indie, Casual, Driving, 2D, Cartoony",1,3
+251470,TowerFall Ascension,game,"Mar 11, 2014",0,"Maddy Makes Games Inc., Extremely OK Games, Ltd.",Maddy Makes Games Inc.,"Action, Indie",2.99,87.0,2835.0,0,2014,"200,000 .. 500,000",,421,207,"Local Multiplayer, Indie, 2D Fighter, Action, Local Co-Op",3236,174
+893570,Short Life,game,"Nov 14, 2018",0,gametornado,gametornado,"Adventure, Indie, Simulation",0.0,,,0,2018,"20,000 .. 50,000",,0,0,"Indie, Simulation, Adventure, Blood, Free to Play",133,49
+204120,LEGO® Harry Potter: Years 5-7,game,"Jan 5, 2012",0,Traveller's Tales,Warner Bros. Interactive Entertainment,Adventure,19.99,80.0,2167.0,0,2012,"200,000 .. 500,000",,883,407,"LEGO, Adventure, Magic, Local Co-Op, Family Friendly",2800,336
+458370,VR Baseball,game,"Apr 4, 2016",0,Rank17,Rank17,"Indie, Sports",2.99,,,0,2016,"0 .. 20,000",,44,44,"Indie, Sports, VR, Baseball",24,7
+960940,VRiczat - The Virtual Reality Cricket Game,game,"Jun 5, 2019",0,Madras MindWorks,Madras MindWorks Private Limited,Sports,9.99,,,0,2019,"0 .. 20,000",,0,0,,0,0
+527350,CGWallpapers,game,"Nov 30, 2016",0,Flamy Frog Interactive,Flamy Frog Interactive,"Design & Illustration, Photo Editing",4.99,,,0,2016,"0 .. 20,000",,3,3,"Design & Illustration, Photo Editing",28,17
+877190,Flamebound,game,"Jun 27, 2018",0,OneShark,OneShark,"Adventure, Casual, Indie, RPG",0.0,,,0,2018,"0 .. 20,000",,0,0,"Adventure, Indie, Casual, RPG, Clicker",33,10
+912260,Gallery One,game,"Aug 10, 2018",0,Tim Rachor,Tim Rachor,Casual,0.0,,,0,2018,"0 .. 20,000",,0,0,Casual,3,2
+444430,Zeus vs Monsters - Math Game for kids,game,"Feb 18, 2016",0,Peaksel,Peaksel,"Action, Casual",5.99,,,0,2016,"50,000 .. 100,000",,0,0,"Casual, Education, Mythology, Third Person, Singleplayer",50,16
+513930,J.U.R : Japan Underground Racing,game,"Aug 17, 2016",0,JDM4iK,Conglomerate 5,"Casual, Indie, Racing, Simulation",0.49,,146.0,0,2016,"50,000 .. 100,000",,0,0,"Racing, Indie, Casual, Simulation",88,102
+822680,Eternal Man: Jump,game,"Apr 26, 2018",0,eProdigy,advocatus,"Action, Adventure, Casual, Indie",0.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, Casual, Action, Adventure",23,12
+464020,Super Puzzle Galaxy,game,"Jul 5, 2018",0,2 Bears Studio,Vive Studios,"Casual, Simulation, Strategy",0.0,,,0,2018,"0 .. 20,000",,0,0,"Casual, Strategy, Simulation, VR",2,3
+357690,APT,game,"Aug 27, 2015",0,RIP Studios LLC,RIP Studios LLC,"Action, Indie, Strategy",14.99,,,0,2015,"0 .. 20,000",,0,0,"Action, Indie, Strategy, FPS",22,9
+660830,Tanks2.DE,game,"Mar 22, 2019",0,Tanks2.DE,Tanks2.DE,"Action, Free To Play, Massively Multiplayer, Strategy, Early Access",0.0,,,0,2019,"20,000 .. 50,000",,0,0,"Free to Play, Action, Strategy, Massively Multiplayer, Early Access",59,31
+951450,Fit It,game,"Oct 16, 2018",0,"Edvardas Šneideris, Gabrielė Ušeckaitė, Lukas Litinskas",Lukas Litinskas,"Action, Indie, Simulation, Sports",12.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Simulation, Sports, VR",10,1
+462770,Pyre,game,"25 Jul, 2017",0,Supergiant Games,Supergiant Games,"Action, Indie, RPG",25.99,82.0,8224.0,0,2017,"500,000 .. 1,000,000",,343,142,"Indie, RPG, Great Soundtrack, Story Rich, Action",8178,860
+421060,Age of Steel: Recharge,game,"Jan 6, 2016",0,Quaint Emerald,,"Action, Casual, Indie, Strategy",6.99,,,0,2016,"200,000 .. 500,000",,361,241,"Strategy, Action, Indie, Casual, Tower Defense",256,77
+332830,Prelogate,game,"Dec 10, 2014",0,blamedrop,blamedrop,"Casual, Indie",3.99,,,0,2014,"0 .. 20,000",,55,91,"Indie, Casual, Puzzle, Logic, Programming",87,9
+761600,Onimusha: Warlords,game,"15 Jan, 2019",17,"CAPCOM CO., LTD","CAPCOM CO., LTD",Action,26.99,,2467.0,0,2019,"200,000 .. 500,000",,319,314,"Action, Violent, Hack and Slash, Classic, Singleplayer",2728,185
+1014560,Creepy Vision,game,"Feb 15, 2019",0,Orange Valley,Orange Valley,"Action, Adventure, Indie",5.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Adventure, Indie, Horror",46,8
+758250,Taste of Power,game,"Oct 10, 2019",0,OneOcean LLC,OneOcean LLC,Strategy,14.99,,,0,2019,"20,000 .. 50,000",,14,14,"Strategy, RTS, Base-Building, Medieval, Early Access",45,22
+844140,Trivia Vault: Soccer Trivia,game,"Apr 23, 2018",0,Ripknot Systems,Ripknot Systems,"Action, Casual, Simulation",1.39,,,0,2018,"0 .. 20,000",,0,0,"Casual, Action, Simulation, Trivia, Indie",55,39
+356520,Port of Call,game,"Aug 28, 2015",0,Underdog Games,Underdog Games,"Adventure, Indie",0.0,,,0,2015,"100,000 .. 200,000",,133,239,"Indie, Adventure, Free to Play, Short, Experimental",1102,149
+463250,One Tower,game,"Nov 10, 2016",0,SkyReacher Entertainment,SkyReacher Entertainment,"Free To Play, Strategy, Early Access",0.0,,,0,2016,"50,000 .. 100,000",,5,6,"Early Access, Free to Play, Strategy, MOBA, PvP",47,51
+661190,UNDEFINED,game,"Aug 13, 2019",0,Axe Games,Enoops,"Action, Adventure, Casual, Indie",0.79,,,0,2019,"0 .. 20,000",,0,0,"Indie, Action, Adventure, Casual",1,9
+548760,CameraBag Photo,game,"Nov 1, 2016",0,Nevercenter,Nevercenter,"Design & Illustration, Photo Editing, Utilities",0.0,,,0,2016,"0 .. 20,000",,0,0,"Utilities, Photo Editing, Design & Illustration",18,23
+483820,Four Realms,game,"Oct 24, 2016",0,Hugebot!,Hugebot!,"Action, Adventure, Indie, RPG, Strategy",4.0,,,0,2016,"0 .. 20,000",,0,0,"Action, Strategy, Indie, Adventure, RPG",2,1
+1134200,Chicks and Tricks VR,game,"Sep 26, 2019",0,Shapeshift Entertainment ApS,Shapeshift Entertainment ApS,"Action, Casual, Indie",1.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Action, Indie, VR, Asymmetric VR",25,8
+515700,Snowday,game,"Nov 30, 2016",0,Breachgate,Breachgate,"Action, Early Access",0.0,,,0,2016,"0 .. 20,000",,11,11,"Action, Early Access, VR, Multiplayer, Competitive",16,4
+726600,Drift Zone,game,"Dec 14, 2017",0,Awesome Industries,Awesome Industries,"Indie, Racing, Sports",6.99,,,0,2017,"0 .. 20,000",,29,29,"Racing, Sports, Indie",21,27
+1028520,Brave Battle Saga - The Legend of The Magic Warrior,game,"Mar 18, 2019",0,Chuanpu,"Piko Interactive LLC, Bleem!","Adventure, RPG",9.99,,,0,2019,"0 .. 20,000",,0,0,"RPG, Adventure, Retro, Pixel Graphics, JRPG",18,8
+1107920,8bit Pigeon Hunter,game,"Jul 17, 2019",0,Mismatch Studio,Mismatch Studio,"Action, Adventure, Casual, Indie",1.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Action, Indie, Adventure",3,0
+720380,Ancestors Legacy Free Peasant Edition,game,"Feb 6, 2018",17,Destructive Creations,Destructive Creations,Strategy,0.0,,,0,2018,"100,000 .. 200,000",,155,92,"Violent, Strategy, Gore, RTS, Tactical",585,167
+312210,The Fifth Day,game,"Jul 25, 2014",0,Touz,Touz,"Action, Adventure, Indie, Early Access",14.99,,873.0,0,2014,"100,000 .. 200,000",,115,172,"Survival, Open World Survival Craft, Open World, Multiplayer, Post-apocalyptic",351,586
+1057720,Shattered Lights,game,"Jun 11, 2019",0,Team Morbid,Breda University of Applied Sciences,"Free To Play, Indie",0.0,,,0,2019,"50,000 .. 100,000",,0,0,"Free to Play, Horror, Indie, VR, Psychological Horror",368,53
+290440,QUALIA 3: Multi Agent,game,"Apr 18, 2014",0,"Shindenken, EXTREME","KOMODO, MASAYA GAMES","Action, Indie",4.99,,,0,2014,"20,000 .. 50,000",,0,0,"Action, Indie, Shoot 'Em Up",23,25
+399880,Amos From Outer Space,game,"Oct 6, 2015",0,Poisson Rouge Interactica ltd,Poisson Rouge Interactica ltd,Casual,2.99,,,0,2015,"20,000 .. 50,000",,0,0,"Casual, Education, Family Friendly, Software",7,1
+501620,CyberLink PowerDirector 15 Ultimate,game,"Dec 16, 2016",0,CyberLink,"Koch Media , CyberLink","Audio Production, Education, Software Training, Utilities, Video Production",0.0,,,0,2016,"0 .. 20,000",,0,0,"Utilities, Audio Production, Video Production, Education, Software Training",27,9
+851650,LOGistICAL: ABC Islands,game,"May 4, 2018",0,Sacada,Sacada,"Casual, Free To Play, Indie, Strategy",0.0,,,0,2018,"20,000 .. 50,000",,264,515,"Strategy, Free to Play, Casual, Indie, Puzzle",59,20
+389470,Call of Cthulhu: Shadow of the Comet,game,"Nov 4, 2015",0,Infogrames,Atari,Adventure,5.99,,,0,2015,"0 .. 20,000",,22,22,"Violent, Gore, Lovecraftian, Horror, Point & Click",70,21
+376150,Industry Transporters,game,"Aug 31, 2015",0,Markus Fick,MK game production,"Simulation, Strategy, Early Access",9.99,,,0,2015,"0 .. 20,000",,30,30,"Strategy, Simulation, Early Access",12,36
+461780,Moonstone Tavern - A Fantasy Tavern Sim!,game,"May 13, 2016",0,"Trevor Jones, Trevor Jones",Trevor Jones,"Indie, RPG, Simulation",7.99,,,0,2016,"20,000 .. 50,000",,153,169,"Indie, RPG, Simulation, RPGMaker, Crafting",67,71
+830520,Finger Jets,game,"Apr 24, 2018",0,Josh Jaques,Josh Jaques,"Action, Casual, Indie",1.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Casual, Space, Physics",5,0
+1042030,Nyasha Winter,game,"Mar 22, 2019",0,Zloy Krot Studio,IR Studio,"Casual, Indie",0.49,,,0,2019,"0 .. 20,000",,0,0,"Indie, Casual, Sexual Content, Nudity, Puzzle",23,17
+273820,Mining & Tunneling Simulator,game,"Mar 5, 2014",0,United Independent Entertainment GmbH,United Independent Entertainment GmbH,Simulation,4.99,,,0,2014,"20,000 .. 50,000",,53,86,"Simulation, Mining",27,111
+670490,Rise of Man,game,"Sep 15, 2017",0,Darkcross Games,Darkcross Games,"Indie, Simulation, Strategy, Early Access",9.99,,128.0,0,2017,"0 .. 20,000",,0,0,"Strategy, Indie, Early Access, Simulation",26,121
+745090,ROMBIE,game,"Mar 23, 2018",0,Phr00t's Software,Phr00t's Software,"Action, Indie, RPG",8.99,,,0,2018,"0 .. 20,000",,0,0,"RPG, Indie, Action, VR, Open World",25,6
+1160800,Rainbow Robin,game,"Oct 14, 2019",0,DigiPlox,DigiPlox,"Action, Indie",1.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Nudity, Fast-Paced, Side Scroller",2,2
+622700,War Heroes: Invasion,game,"May 15, 2018",0,Hammerson Games,Hammerson Games,"Indie, Strategy",2.99,,,0,2018,"0 .. 20,000",,0,0,"Strategy, Indie, Action, Tower Defense",22,16
+324310,Bus Simulator 16,game,"Mar 2, 2016",0,stillalive studios,astragon Entertainment,Simulation,1.99,,2345.0,0,2016,"500,000 .. 1,000,000",,799,505,"Simulation, Automobile Sim, Driving, Open World, Realistic",2624,1084
+657320,Reverse Fantasy Legend,game,"Nov 23, 2017",0,废材炼金术士,废材炼金术士,"Adventure, Indie, RPG",0.0,,,0,2017,"0 .. 20,000",,0,0,"Visual Novel, JRPG, RPG, Lore-Rich, Funny",21,17
+828250,Stargazer program,game,"May 23, 2018",0,Bear Gears Studio,Bear Gears Studio,"Action, Casual",5.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Casual, Arcade, PvP, 2D",1,0
+653100,Puzzle Bloc Invasion,game,"Dec 15, 2017",0,Colorful Games,Colorful Games,"Action, Casual, Indie",2.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Indie, Casual",1,0
+932940,Archery,game,"Sep 13, 2018",0,Easy game,Game for people,"Action, Casual, Indie, Simulation",0.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, Action, Casual, Simulation",58,50
+1129080,Forex Demo Accelerator,game,"Sep 2, 2019",0,Russell Butler,Russell Butler,Simulation,4.99,,,0,2019,"0 .. 20,000",,0,0,Simulation,2,2
+1084520,雀姬/姫麻雀,game,"Aug 5, 2019",0,Jack Tech,Smile Tech,"Casual, RPG, Strategy, Free To Play, Early Access",0.0,,,0,2019,"200,000 .. 500,000",,577,167,"Free to Play, Mahjong, Sexual Content, Anime, Casual",1547,1270
+1020470,Evoland Legendary Edition,game,"Feb 7, 2019",0,Shiro Games,Shiro Games,"Action, Adventure, Casual, Indie, RPG",19.99,,1319.0,0,2019,"100,000 .. 200,000",,555,246,"RPG, Adventure, Indie, Action, Casual",1969,469
+1067110,Idle Chess Story,game,"Jun 18, 2019",0,"Joaquin Telleria, Manuel Telleria",ManuJoaco,"Casual, Free To Play, Indie, Strategy",0.0,,,0,2019,"20,000 .. 50,000",,0,0,"Early Access, Tabletop, Free to Play, Strategy, Indie",29,27
+265810,The Sandbox,game,"Jun 29, 2015",0,PIXOWL INC.,PIXOWL INC.,"Casual, Indie, Simulation, Strategy",4.99,,518.0,0,2015,"50,000 .. 100,000",,787,860,"Sandbox, Simulation, Indie, Pixel Graphics, Casual",309,254
+581200,Nash Racing,game,"Aug 2, 2017",0,Tero Lunkka,HaDe Games,"Indie, Racing",0.67,,,0,2017,"100,000 .. 200,000",,288,283,"Racing, Indie",85,99
+772610,Q-YO Blaster,game,"Jan 15, 2018",0,TEAM Black Hat Robot,TEAM Black Hat Robot,"Action, Adventure, Indie",9.99,,153.0,0,2018,"20,000 .. 50,000",,116,116,"Action, Indie, Adventure, Shoot 'Em Up, Pixel Graphics",169,14
+915730,Catch The Kids: Priest Simulator Game,game,"Mar 1, 2019",0,Fon Danyrotsky,,"Action, Adventure, Casual, Indie, Simulation",3.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Casual, Adventure, Simulation",13,2
+670240,Snappy Turtle Ultimate,game,"Dec 4, 2019",0,ElatedThumbs,ElatedThumbs,"Action, Casual, Indie",0.0,,,0,2019,"0 .. 20,000",,0,0,"Indie, Casual, Action, Cartoony, Addictive",6,3
+766250,Kaz Ball,game,"Jun 6, 2019",0,Doby Digital,Doby Digital,"Action, Simulation, Sports, Early Access",0.0,,,0,2019,"0 .. 20,000",,0,0,"Sports, Action, Early Access, Simulation, Free to Play",21,4
+1057850,Neon Boost,game,"May 20, 2019",0,Sample Text Studio,Sample Text Studio,"Action, Free To Play, Indie",0.0,,,0,2019,"200,000 .. 500,000",,0,0,"Free to Play, Parkour, Action, First-Person, Indie",2239,242
+302010,The Blue Flamingo,game,"Nov 18, 2014",0,Might and Delight,Might and Delight,"Action, Indie",9.99,,108.0,0,2014,"200,000 .. 500,000",,161,179,"Action, Indie, Shoot 'Em Up, Singleplayer",283,345
+577740,Winexy,game,"Jan 13, 2017",0,Heaven Brotherhood,GrabTheGames,"Adventure, Casual, Indie",4.99,,133.0,0,2017,"50,000 .. 100,000",,196,219,"Casual, Indie, Puzzle, Simulation, Abstract",120,61
+992210,Waves of the Atlantide,game,"Mar 26, 2019",0,Metaphore Games SAS,Metaphore Games SAS,"Indie, Strategy, Early Access",11.99,,,0,2019,"0 .. 20,000",,0,0,"Strategy, Indie, Early Access, Battle Royale, RTS",28,5
+214970,Intrusion 2,game,"Sep 11, 2012",0,Aleksey Abramenko,Aleksey Abramenko,"Action, Indie",9.99,80.0,1545.0,0,2012,"200,000 .. 500,000",,61,25,"Action, Indie, Platformer, 2D, Physics",1850,221
+264690,Coin Crypt,game,"Oct 28, 2014",0,"Wishes Ultd., Greg Lobanov",Greg Lobanov,"Indie, RPG",9.99,,204.0,0,2014,"50,000 .. 100,000",,314,92,"Roguelike Deckbuilder, Rogue-like, Card Battler, Deckbuilding, Card Game",516,84
+885320,Cro Magnon,game,"Jul 31, 2018",0,Thor Gaming,Thor Gaming,"Indie, Strategy, Early Access",0.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, Early Access, Strategy, RTS",5,8
+776390,Outbreak in Space VR - Free,game,"Apr 25, 2018",0,Soyhan Yazgan,Soyhan Yazgan,"Action, Casual, Indie, Sports",0.0,,,0,2018,"0 .. 20,000",,16,16,"Action, Indie, Casual, Sports, VR",9,5
+897440,Leviathan ~A Survival RPG~,game,"Nov 29, 2018",0,TechnoBrake,Kagura Games,"Adventure, Indie, RPG",1.99,,256.0,0,2018,"20,000 .. 50,000",,167,322,"Adventure, RPG, Indie, Sexual Content, Nudity",180,83
+826390,Haunted Manor: Painted Beauties Collector's Edition,game,"Apr 4, 2018",0,Top Evidence Studio,BFG Entertainment,"Adventure, Casual",0.0,,,0,2018,"0 .. 20,000",,0,0,"Adventure, Casual, Hidden Object",1,0
+949820,Crazy Washing Machine,game,"Oct 10, 2018",0,"Камин Игнат Алексеевич, Kamin Ignat Alekseevich, Elisey Cherkashin Alekseevich","Камин Игнат Алексеевич, Kamin Ignat Alekseevich",Indie,0.99,,,0,2018,"0 .. 20,000",,0,0,Indie,16,1
+445840,Undead vs Plants,game,"Feb 25, 2016",0,Peaksel D.O.O. Nis,Peaksel D.O.O. Nis,"Action, Adventure, Casual, Indie",0.0,,,0,2016,"20,000 .. 50,000",,4,4,"Casual, Indie, Action, Adventure, Psychological Horror",19,29
+1083490,Presidential Dating Simulator,game,"Jun 21, 2019",0,Great Idea Games,Great Idea Games,"Adventure, Casual, Indie, RPG, Simulation",2.99,,,0,2019,"0 .. 20,000",,0,0,,0,0
+874130,HUNTER BRICK BALL,game,"Jun 21, 2018",0,meokigame,meokigame,"Action, Adventure, Casual, Indie, Racing, Simulation, Sports, Strategy",1.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, Casual, Strategy, Action, Simulation",32,14
+557700,Empyrean,game,"Dec 1, 2016",0,Choice of Games,Choice of Games,"Adventure, Indie, RPG",6.99,,,0,2016,"0 .. 20,000",,0,0,"Indie, Adventure, RPG, Choose Your Own Adventure, Story Rich",10,5
+28000,Kane & Lynch 2: Dog Days,game,"Aug 17, 2010",17,IO Interactive,Square Enix,Action,9.99,66.0,6195.0,0,2010,"500,000 .. 1,000,000",,215,125,"Action, Co-op, Third-Person Shooter, Crime, Violent",5816,3061
+979260,Gizmo,game,"Dec 5, 2018",0,"Dane Winn, Alec Smith",Milo Games,"Action, Indie",0.0,,,0,2018,"20,000 .. 50,000",,0,0,"Indie, Action, Free to Play, 3D Platformer, Singleplayer",296,19
+783450,HYPERGUN,game,"Aug 23, 2018",0,NVYVE® Studios,NVYVE® Studios,"Action, Indie",9.99,62.0,,0,2018,"0 .. 20,000",,0,0,"Action Roguelike, Action, Indie, Rogue-lite, FPS",45,28
+338540,Navy Field 2 : Conqueror of the Ocean,game,"Mar 5, 2015",0,SDEnterNet,SDEnterNet,"Action, Free To Play, Massively Multiplayer, RPG, Simulation, Strategy",0.0,,,0,2015,"500,000 .. 1,000,000",,340,64,"Free to Play, Naval, Strategy, Massively Multiplayer, Action",619,771
+563170,Graveball,game,"Jul 31, 2018",0,Goin' Yumbo Games,3D Realms,"Action, Indie, Sports",4.99,,,0,2018,"0 .. 20,000",,0,0,"Sports, Action, Indie, Multiplayer",11,3
+1042170,Summon of Asmodeus,game,"Apr 30, 2019",0,PinkPeachStudio,PinkPeach,"Action, Adventure, Casual, Indie, RPG",4.99,,172.0,0,2019,"0 .. 20,000",,74,80,"Sexual Content, Nudity, Action, Adventure, RPG",114,68
+844620,Odyssee,game,"May 4, 2018",17,Earth and Life Software,Earth and Life Marcoms,"Violent, Indie, Early Access",3.49,,,0,2018,"0 .. 20,000",,0,0,"Indie, Early Access, Violent",1,1
+1127390,Cute Cute Cuties,game,"Aug 9, 2019",0,IR Studio,IR Studio,"Casual, Indie",0.49,,125.0,0,2019,"0 .. 20,000",,0,0,,0,0
+566170,Elephant Express XR,game,"Dec 15, 2016",0,Blob Lab,Blob Group Ltd,"Action, Adventure, Casual",4.99,,,0,2016,"0 .. 20,000",,0,0,"Action, Adventure, Casual, VR",0,3
+847810,Endless Horizon,game,"May 1, 2018",0,Ammonite Design Studios Ltd,Ammonite Design Studios Ltd,"Action, Casual, Indie",0.99,,,0,2018,"0 .. 20,000",,0,0,"3D Platformer, Arcade, Runner, Action, Platformer",1,1
+1193930,Ping Pong Space - Retro Tennis,game,"Dec 5, 2019",0,Best Friend Games,Best Friend Games,"Action, Indie, Sports",2.99,,,0,2019,"0 .. 20,000",,0,0,"Retro, Arcade, 1980s, Shoot 'Em Up, PvP",6,1
+340830,Razenroth,game,"Aug 28, 2015",0,Enitvare,Enitvare,"Action, Indie, RPG",4.99,,535.0,0,2015,"100,000 .. 200,000",,230,265,"RPG, Indie, Action Roguelike, Action, Top-Down Shooter",504,119
+1096330,兽耳攻略 - TFK Faculty,game,"Aug 29, 2019",0,多拉拉游戏工作室,"JingtuStudio, 多拉拉游戏工作室",Indie,3.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Visual Novel, Anime, Otome",54,4
+742120,DRAGON QUEST® XI: Echoes of an Elusive Age™ - Digital Edition of Light,game,"4 Sep, 2018",0,Square Enix,Square Enix,RPG,0.0,,6505.0,0,2018,"200,000 .. 500,000",,3178,2399,"JRPG, RPG, Turn-Based Combat, Singleplayer, Fantasy",7614,1271
+665350,Mayhem Above,game,"Aug 14, 2017",0,Spinal Games,Spinal Games,Action,1.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Music, Music-Based Procedural Generation",8,0
+704690,Elisa: Seduce the Innkeeper,game,"Sep 25, 2017",0,Neoclassic Games,Neoclassic Games,"Adventure, Indie, Free To Play",4.99,,189.0,0,2017,"20,000 .. 50,000",,85,89,"Choose Your Own Adventure, Visual Novel, Interactive Fiction, Dating Sim, 2D",138,55
+820170,CRAZY MAZE,game,"Apr 6, 2018",0,"Łukasz Tabaczkiewicz, Adrian Waltrowski",Adrian Waltrowski,"Action, Casual, Indie",1.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Casual, Difficult, Arcade",14,0
+489610,Chicken Assassin: Reloaded,game,"Jun 27, 2016",0,OneShark,Akupara Games,"Action, Casual, Indie, RPG",1.99,,683.0,0,2016,"20,000 .. 50,000",,1045,620,"Clicker, Casual, Singleplayer, 2D, Funny",909,72
+815860,Reframed,game,"Apr 27, 2018",0,Playstige Interactive,Playstige Interactive,"Action, Indie",2.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, FPS, Gore, Horror",10,9
+463010,One Way Flight,game,"Apr 22, 2016",0,SiBear Games,SiBear Games,Casual,6.99,,,0,2016,"0 .. 20,000",,0,0,"Casual, Indie, Hidden Object",8,6
+473140,BomberZone,game,"Jun 10, 2016",0,Dracula Bytes,exosyphen studios,"Action, Casual, Indie",6.99,,,0,2016,"100,000 .. 200,000",,328,300,"Casual, Action, Indie",261,52
+586620,OR,game,"Feb 8, 2017",0,Camagames,,"Casual, Indie",1.99,,,0,2017,"200,000 .. 500,000",,205,212,"Casual, Indie, Puzzle",72,116
+441680,Obscuritas,game,"Mar 17, 2016",0,VIS-Games,Ravenscourt,Adventure,14.99,63.0,113.0,0,2016,"20,000 .. 50,000",,157,270,"Adventure, Horror, Puzzle",128,78
+528900,Multirotor Sim 2,game,"Dec 9, 2019",0,Vadim Silver,Vadim Silver,"Indie, Racing, Simulation, Sports",4.99,,,0,2019,"0 .. 20,000",,0,0,"Flight, Simulation, Controller, Sports, Score Attack",6,6
+933450,Wenjia,game,"Oct 17, 2018",0,Luoriver studio-洛神游戏工作室,WhiteLakeStudio,Indie,8.99,,239.0,0,2018,"50,000 .. 100,000",,185,185,"Indie, Atmospheric, Adventure, 2D, Metroidvania",295,75
+782160,Raptainment,game,"Apr 18, 2018",0,IzmirRecht,IzmirRecht,"Violent, Gore, Casual, Indie, RPG, Simulation, Early Access",12.99,,,0,2018,"0 .. 20,000",,0,0,"Early Access, RPG, Indie, Casual, Simulation",1,5
+943030,NIGHT FALLEN,game,"Oct 25, 2018",0,Nicolas Bing,Deceptive Games,"Action, Indie, RPG",0.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, RPG",2,2
+665650,2V Hoverbike,game,"Jul 6, 2017",0,Intertum,intertum,"Action, Indie",2.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Indie, Shoot 'Em Up",19,3
+994030,Anime Girl Slide Puzzle,game,"Dec 31, 2018",0,Top Hat House,Top Hat House,Casual,1.99,,,0,2018,"20,000 .. 50,000",,0,0,Casual,4,0
+965730,Evoke,game,"Nov 18, 2018",0,Polyflame,Polyflame,"Action, Adventure, Casual, Indie",1.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Casual, Adventure, VR",0,3
+1003890,Blacksad: Under the Skin,game,"Nov 14, 2019",17,"Pendulo Studios, YS Interactive",Microids,Adventure,19.99,,4857.0,0,2019,"200,000 .. 500,000",,390,323,"Adventure, Detective, Choices Matter, Story Rich, Noir",5031,929
+622480,Gus Track Adventures VR,game,"Jun 27, 2017",0,maxlvlgames,maxlvlgames,"Action, Adventure, Indie",5.99,,,0,2017,"0 .. 20,000",,0,0,"Adventure, Indie, Action, VR",10,2
+704350,Captain 13 Beyond the Hero,game,"Sep 29, 2017",0,Zombie Soup,Zombie Soup,"Action, Casual",3.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Casual",1,1
+1006680,Expanse,game,"Oct 30, 2019",0,Yuri Eletskikh,Tabee Networking Limited,"Indie, Massively Multiplayer, Strategy",6.99,,,0,2019,"0 .. 20,000",,0,0,"Strategy, Indie, Massively Multiplayer, RTS",5,6
+80300,Puzzle Bots,game,"Oct 22, 2010",0,Ivy Games,Wadjet Eye Games,"Adventure, Indie",4.99,,,0,2010,"20,000 .. 50,000",,134,136,"Adventure, Indie, Puzzle, Point & Click, Singleplayer",126,39
+700050,Bees Knees,game,"Sep 4, 2017",0,JimJams Games,JimJams Games,"Action, Casual, Indie",0.99,,,0,2017,"20,000 .. 50,000",,0,0,"Action, Indie, Casual",0,1
+312560,Xanadu Next,game,"Nov 3, 2016",0,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.","Action, RPG",14.99,78.0,735.0,0,2016,"50,000 .. 100,000",,216,281,"RPG, Action, Action RPG, Great Soundtrack, JRPG",679,51
+809200,TRIGGERED,game,"Apr 27, 2018",0,eelDev,eelDev,"Action, Indie, Early Access",8.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie, Early Access",6,6
+742230,A Day For A Kitten,game,"Nov 29, 2017",0,橘猫的一天,橘猫的一天,"Indie, RPG, Simulation",1.99,,,0,2017,"0 .. 20,000",,0,0,"Indie, RPG, Simulation, Cats",27,12
+581320,Insurgency: Sandstorm,game,"Dec 12, 2018",17,New World Interactive,Focus Entertainment,Action,8.99,78.0,101170.0,0,2018,"2,000,000 .. 5,000,000",,2732,697,"FPS, Realistic, Shooter, Military, Tactical",107857,19061
+260570,Gray Matter,game,"Apr 1, 2014",0,WizarBox Production,Viva Media Inc,"Adventure, Casual",9.99,72.0,527.0,0,2014,"100,000 .. 200,000",,137,161,"Adventure, Point & Click, Female Protagonist, Casual, Mystery",627,78
+850450,Escape First,game,"May 10, 2018",0,OnSkull Games,OnSkull Games,"Adventure, Casual, Indie",5.99,,377.0,0,2018,"50,000 .. 100,000",,145,176,"Adventure, Puzzle, Casual, Multiplayer, Co-op",282,147
+72900,Winter Voices,game,"Oct 29, 2010",0,Clara Lehenaff,Clara Lehenaff,"Adventure, Indie, RPG",0.0,,193.0,0,2010,"50,000 .. 100,000",,220,280,"RPG, Indie, Adventure, Female Protagonist, Atmospheric",175,93
+272620,Serious Sam's Bogus Detour,game,"Jun 20, 2017",0,"Crackshell, Croteam",Devolver Digital,"Action, Indie",9.99,76.0,404.0,0,2017,"50,000 .. 100,000",,240,264,"Action, Indie, Pixel Graphics, Top-Down Shooter, Gore",411,95
+17470,Dead Space (2008),game,"Jan 9, 2009",0,EA Redwood Shores,Electronic Arts,"Action, Adventure",7.99,87.0,21973.0,0,2009,"2,000,000 .. 5,000,000",,462,174,"Horror, Sci-fi, Action, Space, Survival Horror",25388,2272
+34286,Dr. Robotnik’s Mean Bean Machine™,game,"Sep 13, 2010",0,SEGA,SEGA,"Casual, Strategy",0.0,,,0,2010,"20,000 .. 50,000",,0,0,"Puzzle, Casual, Strategy, Retro, Classic",13,1
+487160,Trials of Azra,game,"Sep 15, 2016",0,"Onion Core, Bruno Bombardi, Alejandro Elizalde",Onion Core,"Adventure, Indie",7.99,,108.0,0,2016,"0 .. 20,000",,93,93,"Adventure, Indie, Pixel Graphics, 2D, Puzzle",108,14
+465130,Wicce,game,"May 4, 2016",0,Alpheratz*,"CFK Co., Ltd.","Action, Indie",1.99,,124.0,0,2016,"20,000 .. 50,000",,0,0,"Action, Indie, 2D, Female Protagonist, Platformer",97,36
+23490,Tropico 3,game,"Oct 20, 2009",0,Haemimont Games,Kalypso Media Digital,"Simulation, Strategy",9.99,79.0,800.0,0,2009,"1,000,000 .. 2,000,000",,296,85,"Simulation, Strategy, City Builder, Management, Politics",1653,202
+1098040,Soulscape,game,"Jul 26, 2019",0,Samu,Samu,"Free To Play, RPG",0.0,,,0,2019,"0 .. 20,000",,0,0,"Free to Play, RPG, RPGMaker",48,1
+682530,MarZ: Tactical Base Defense,game,"Apr 4, 2019",0,Giant Grey,Giant Grey,"Indie, Strategy",21.99,,796.0,0,2019,"50,000 .. 100,000",,204,299,"Strategy, Tower Defense, RTS, Tactical, Indie",680,186
+993220,FirstPlanet,game,"Jan 31, 2019",0,WAPle,WAPle,"Casual, Indie, Strategy",2.99,,,0,2019,"0 .. 20,000",,0,0,,0,0
+645260,Trophy Fishing 2,game,"Jul 13, 2017",0,Overgroup,Overgroup,"Simulation, Sports, Free To Play",0.0,,,0,2017,"200,000 .. 500,000",,446,32,"Free to Play, Fishing, Simulation, Multiplayer, Sports",848,295
+491800,Across The Line,game,"Feb 1, 2017",0,Emblematic Group,Emblematic Group,"Free To Play, Indie, Simulation",0.0,,,0,2017,"0 .. 20,000",,0,0,"Free to Play, Indie, Simulation, VR",18,15
+249610,Galactic Arms Race,game,"Jun 5, 2014",0,Evolutionary Games,Evolutionary Games,"Action, Casual, Indie",2.99,,,0,2014,"20,000 .. 50,000",,112,116,"Action, Indie, Casual, Space",40,44
+733550,Clash of Magic VR,game,"Mar 19, 2018",0,Narvalous Inc,Narvalous Inc,"Strategy, Early Access",14.99,,,0,2018,"0 .. 20,000",,0,0,"Early Access, Strategy, VR",1,7
+1155910,Dice Defenders,game,"Sep 27, 2019",0,Full Screen Sorcery,Full Screen Sorcery,"Indie, Strategy",4.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Strategy, Tower Defense",2,1
+1092510,Incredible Dracula 4: Games Of Gods,game,"May 30, 2019",0,New Bridge Games,Alawar Casual,"Adventure, Casual, Indie",6.99,,,0,2019,"0 .. 20,000",,0,0,"Casual, Indie, Adventure, Time Management, Singleplayer",17,3
+279500,Nicolas Eymerich - The Inquisitor - Book 1 : The Plague,game,"Apr 30, 2014",0,"IV Productions, Trinity Team srl","IV Productions, Trinity Team srl",Adventure,4.99,,,0,2014,"50,000 .. 100,000",,0,0,"Adventure, Point & Click, Historical",69,37
+395250,The Adventures of Fatman,game,"Oct 1, 2015",0,SOCKO! Entertainment,Screen 7,"Adventure, Indie",0.99,,155.0,0,2015,"50,000 .. 100,000",,3862,230,"Adventure, Indie, Point & Click, Superhero, Pixel Graphics",141,44
+857130,Evolution,game,"Jun 3, 2018",0,D1ONE,D1ONE,Casual,3.99,,,0,2018,"0 .. 20,000",,3,3,Casual,19,9
+756530,TOKYO GHOUL:re [CALL to EXIST],game,"Nov 14, 2019",17,Three Rings Inc.,BANDAI NAMCO Entertainment,Action,59.99,,2076.0,0,2019,"20,000 .. 50,000",,317,348,"Action, Anime, Violent, Gore, Character Customization",1742,727
+746240,Flip the Table,game,"Dec 13, 2017",0,Barracuda Disaster,Barracuda Disaster,"Action, Indie, Simulation",0.0,,,0,2017,"0 .. 20,000",,0,0,"Action, Indie, Simulation, VR",12,9
+276730,Tango Fiesta,game,"Sep 24, 2015",0,Spilt Milk Studios Ltd,Spilt Milk Studios Ltd,"Action, Indie",9.99,,,0,2015,"20,000 .. 50,000",,119,184,"Competitive, Co-op, Third-Person Shooter, Shooter, Multiplayer",42,35
+372820,Shot In The Dark,game,"Jun 10, 2015",0,Technomancy Studios,Technomancy Studios,"Action, Free To Play, Indie, Early Access",0.0,,,0,2015,"20,000 .. 50,000",,241,270,"Early Access, Indie, Free to Play, Action, FPS",82,91
+314770,Pe-2: Dive Bomber,game,"Aug 6, 2014",0,Polynetix Studio,Polynetix Studio,"Indie, Simulation",9.99,,,0,2014,"0 .. 20,000",,0,0,"Simulation, Indie",10,6
+400660,Reverse Crawl,game,"Sep 24, 2015",0,Nerdook Productions,Nerdook Productions,"Action, Adventure, RPG, Strategy",5.99,,376.0,0,2015,"50,000 .. 100,000",,50,93,"Tactical RPG, Dungeon Crawler, Turn-Based Strategy, Strategy RPG, Fantasy",499,65
+722890,Last Berserker™ : Endless War,game,"Jan 11, 2018",0,Hakan Tatar,Hakan Tatar,"Adventure, Casual, Indie",0.99,,,0,2018,"0 .. 20,000",,0,0,"Casual, Adventure, Indie",38,5
+1188590,云游志 The Clouds Travel Notes,game,"Dec 2, 2019",0,狂怒工作室 Berserk Studio,狂怒工作室 Berserk Studio,"Action, Adventure, Indie, RPG, Early Access",9.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Adventure, RPG, Early Access",7,1
+549900,Leviathan Starblade,game,"Nov 3, 2016",0,Drahcir,Drahcir,Action,2.99,,,0,2016,"20,000 .. 50,000",,228,228,"Action, Shoot 'Em Up",26,22
+1081350,Master Cube,game,"Jul 18, 2019",0,Ciccolella Lorenzo,Ciccolella Lorenzo,Indie,0.99,,,0,2019,"0 .. 20,000",,0,0,"Indie, Platformer, Action, Casual, Arcade",1,0
+1094320,莫比乌斯之环-不属于任何人的交响悲歌-MOBIUS & ELEGY BELONGS TO NOBODY,game,"Oct 24, 2019",0,"雾屿镜式制作组, 睡神飞工作室-SleeeeepFly",咕咕工作室,"Casual, Indie, RPG",10.99,,163.0,0,2019,"0 .. 20,000",,0,0,"Casual, RPG, Indie, Visual Novel, Romance",200,79
+940650,Our World Is Ended.,game,"May 29, 2019",17,Red Entertainment,PQube,Adventure,39.99,,,0,2019,"0 .. 20,000",,105,105,"Adventure, Visual Novel, Anime, Nudity, Funny",67,22
+745890,This Is Not A Jumping Game,game,"Feb 23, 2018",0,Heero,Heero,"Action, Adventure, Casual, Indie",3.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Adventure, Indie, Casual",118,5
+623880,World of Speed,game,"Aug 22, 2017",0,"Saber Interactive, Redemption Ark",Mad Dog Games LLC,"Action, Massively Multiplayer, Racing, Simulation",0.0,,495.0,0,2017,"20,000 .. 50,000",,99,99,"Racing, Massively Multiplayer, Simulation, Action, Driving",315,202
+281580,Wings Over Europe,game,"May 30, 2014",0,Third Wire Productions,Strategy First,Simulation,8.99,62.0,112.0,0,2014,"20,000 .. 50,000",,68,68,"Simulation, Flight, Cold War",66,54
+200980,Geneforge 2,game,"Jul 1, 2003",0,Spiderweb Software,Spiderweb Software,"Strategy, RPG, Indie",19.99,,,0,2003,"50,000 .. 100,000",,82,82,"RPG, Indie, Strategy, Isometric, Turn-Based Combat",72,10
+409390,Marble Mountain,game,"Apr 4, 2016",0,Lightning Rock,Lightning Rock,"Action, Adventure, Casual, Indie",4.99,,,0,2016,"0 .. 20,000",,313,417,"Action, Casual, Adventure, Indie, VR",45,18
+805260,PICNIC,game,"Mar 4, 2018",0,A.D. Klumpp,A.D. Klumpp,Indie,0.0,,,0,2018,"0 .. 20,000",,0,0,Indie,7,1
+737670,Lost King's Lullaby,game,"Apr 25, 2019",0,Storeen Games,Tesura Games,"Action, Adventure, Indie",9.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Adventure",6,3
+628130,NOBUNAGA'S AMBITION: Soutenroku with Power Up Kit,game,"Dec 5, 2017",0,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",Strategy,29.99,,,0,2017,"0 .. 20,000",,44,44,"Turn-Based Tactics, Wargame, Immersive Sim, Military, Diplomacy",53,28
+497710,Holobunnies: Pause Cafe,game,"Mar 22, 2017",0,q-bit Games,Nkidu Games Inc.,"Action, Adventure, Indie",4.99,,,0,2017,"0 .. 20,000",,85,85,"Action, Adventure, Indie, Platformer",12,8
+1005930,Timeflow – Life Sim,game,"Jan 18, 2019",0,Look Book Inc,Look Book Inc,"Indie, RPG, Simulation, Strategy, Early Access",14.99,,1331.0,0,2019,"50,000 .. 100,000",,2416,3061,"Life Sim, Economy, Time Management, Education, Sandbox",1439,104
+740090,Lost Grimoires 3: The Forgotten Well,game,"Dec 14, 2017",0,World-Loom,Artifex Mundi,"Adventure, Casual",3.74,,119.0,0,2017,"20,000 .. 50,000",,240,263,"Casual, Adventure, Hidden Object, Family Friendly, Puzzle",159,35
+493080,Card Quest,game,"Nov 7, 2017",0,WinterSpring Games,WinterSpring Games,"Indie, RPG, Strategy",9.99,,319.0,0,2017,"0 .. 20,000",,44,52,"Roguelike Deckbuilder, Card Battler, RPG, Strategy, Indie",307,51
+359870,FINAL FANTASY X/X-2 HD Remaster,game,"May 12, 2016",13,Square Enix,Square Enix,RPG,29.99,,17912.0,0,2016,"1,000,000 .. 2,000,000",,1618,525,"JRPG, Turn-Based Combat, Story Rich, RPG, Great Soundtrack",18031,2016
+553430,Skill Master VR -- Learn Meditation,game,"Nov 21, 2016",0,"fletcher.richman, owockitalki",Boulder VR Studios,"Indie, Early Access",14.99,,,0,2016,"0 .. 20,000",,0,0,"Indie, Early Access, Casual, Atmospheric, VR",3,2
+551060,Creekside Creep Invasion,game,"Oct 11, 2017",0,Ouch Giver Games,Ouch Giver Games,"Action, Indie, RPG",9.99,,,0,2017,"0 .. 20,000",,0,0,"Action, Indie, RPG, 2D, Shooter",12,3
+811850,Samba Shooter,game,"Apr 18, 2018",0,Snowdrop Lab,Snowdrop Lab,"Action, Indie",1.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Indie",2,0
+856760,Gachi Gang,game,"May 27, 2018",0,"Nikita ""Ghost_RUS""",Ghost_RUS Games,"Nudity, Adventure, Casual, Indie",0.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, Casual, Adventure, Nudity",18,23
+15500,The Wonderful End of the World,game,"Jul 17, 2008",0,"Dejobaan Games, LLC","Dejobaan Games, LLC","Casual, Indie",9.99,69.0,558.0,0,2008,"100,000 .. 200,000",,80,42,"Indie, Casual, Action, Singleplayer, Short",533,147
+571180,Holiday Simulator : Wacky Sleigh Ride,game,"Dec 21, 2016",0,Hyperator VR innovation Labs,Hyperator VR Innovation Labs,Simulation,0.99,,,0,2016,"0 .. 20,000",,0,0,"Simulation, VR",2,0
+1018810,Drumpfy Walls,game,"Apr 19, 2019",18,Hotbox Garage,Hotbox Garage,"Action, Casual, Indie, Sports",4.99,,,0,2019,"0 .. 20,000",,0,0,"Action, Indie, Casual, Violent, Sports",1,0
+542050,Forgotton Anne,game,"May 15, 2018",0,Throughline Games,Throughline Games,"Action, Adventure, Casual, Indie",19.99,76.0,1535.0,0,2018,"100,000 .. 200,000",,675,501,"Story Rich, Atmospheric, Female Protagonist, Hand-drawn, Steampunk",1687,189
+243060,Urban Chaos,game,"Oct 15, 2013",17,"Mucky Foot Productions Ltd, My Little Planet Ltd",My Little Planet Ltd,Action,6.99,,216.0,0,2013,"20,000 .. 50,000",,34,34,"Action, Classic, Female Protagonist, Open World, Third Person",162,69
+504810,MXGP2 - The Official Motocross Videogame Compact,game,"Sep 8, 2016",0,Milestone S.r.l.,Milestone S.r.l.,"Racing, Simulation, Sports",0.0,,,0,2016,"20,000 .. 50,000",,63,63,"Simulation, Racing, Sports, Motocross, Motorbike",59,30
+361330,Shrooms,game,"May 8, 2015",0,Immersive Douro,Immersive Douro,"Action, Adventure, Indie, RPG, Early Access",14.99,,,0,2015,"0 .. 20,000",,0,0,"Early Access, Indie, Action, Adventure, RPG",15,31
+1169030,Monophobia,game,"Dec 5, 2019",0,ProjectCyranis,ProjectCyranis,Indie,0.99,,,0,2019,"0 .. 20,000",,0,0,Indie,3,5
+747810,Flow Handcrafted,game,"Nov 22, 2017",0,Flow,Flow,"Casual, Indie, Simulation, Strategy",1.99,,,0,2017,"0 .. 20,000",,0,0,"Casual, Puzzle, Relaxing, Logic, Simulation",6,0
+822510,Struggle For Survival VR : Battle Royale,game,"Apr 24, 2018",0,Neuron Studio,Top Power,"Action, Adventure, Massively Multiplayer, Simulation",19.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Adventure, Massively Multiplayer, Simulation, VR",12,9
+425460,Tokyo Twilight Ghost Hunters Daybreak: Special Gigs,game,"Mar 17, 2017",0,"Arc System Works, TOYBOX Inc.",PQube,"Adventure, RPG, Strategy",9.99,,,0,2017,"50,000 .. 100,000",,0,0,"Adventure, RPG, Strategy, Visual Novel, Anime",51,40
+770020,Royal Tumble,game,"Jan 9, 2018",0,4ShawGames,4ShawGames,"Action, Casual, Indie, Simulation, Strategy",0.99,,,0,2018,"0 .. 20,000",,0,0,"Casual, Strategy, Action, Indie, Simulation",8,6
+282620,The Battle of Sol,game,"Jul 1, 2015",0,"Bit Planet Games, LLC","Bit Planet Games, LLC","Action, Indie, Simulation",9.99,,,0,2015,"20,000 .. 50,000",,162,251,"Simulation, Action, Indie, Space, Sci-fi",58,43
+789610,Splash Adventure: The Maze of Morla,game,"Mar 15, 2018",0,Morla Games,Morla Games,"Action, Adventure, Casual",2.99,,,0,2018,"0 .. 20,000",,0,0,"Top-Down Shooter, Dungeon Crawler, Difficult, Souls-like, Shooter",2,0
+394970,DEADBOLT,game,"Mar 14, 2016",0,Hopoo Games,Hopoo Games,"Action, Indie",9.99,76.0,4728.0,0,2016,"200,000 .. 500,000",,468,353,"Stealth, Pixel Graphics, Great Soundtrack, Indie, 2D",5196,229
+650980,Naklua VR,game,"Nov 10, 2017",0,Fly Dream Dev,My Way Games,"Adventure, Casual, Indie, Sports, Early Access",1.99,,,0,2017,"0 .. 20,000",,0,0,"Indie, Early Access, Casual, Adventure, Sports",2,4
+705870,Echo Grotto,game,"Sep 20, 2017",0,Gaugepunk Games,Gaugepunk Games,"Adventure, Casual, Indie",7.99,,,0,2017,"20,000 .. 50,000",,0,0,"Adventure, Indie, Casual, VR, Exploration",60,8
+950130,Evidence of Life,game,"Nov 19, 2018",0,JustWallWireHead Games,JustWallWireHead Games,Indie,0.99,,,0,2018,"0 .. 20,000",,0,0,"Indie, 2D, Action-Adventure",10,1
+99410,Garshasp: Temple of the Dragon,game,"Sep 24, 2012",0,Dead Mage,Digital Dragon,"Action, Indie",4.99,,,0,2012,"20,000 .. 50,000",,13,15,"Action, Indie, Hack and Slash, Fantasy",45,96
+980440,Knights Rubbish,game,"Dec 6, 2018",0,Yu Chao,Yu Chao,"Action, Adventure, Casual, Indie, RPG, Early Access",3.99,,,0,2018,"0 .. 20,000",,0,0,"Action, Casual, Early Access, Indie, Adventure",1,1
+836080,BARRAGE / 铁幕,game,"Apr 18, 2018",0,ChronoYuki,Archetype Industry | 原型工业,"Action, Indie",4.99,,,0,2018,"0 .. 20,000",,59,59,"Indie, VR, Action, Shooter, Arcade",53,9
+840160,Tokavuh Stream Control,game,"Jun 24, 2019",0,Tokavuh Technologies oy,Tokavuh Technologies oy,"Utilities, Video Production",19.99,,,0,2019,"0 .. 20,000",,0,0,"Utilities, Video Production, Animation & Modeling",12,0
+586080,Age of Heroes (VR),game,"Jul 20, 2017",0,Omnigames,Omnigames,"Action, Adventure, RPG",29.99,,,0,2017,"0 .. 20,000",,0,0,"Adventure, Action, RPG, VR",12,26
+501440,Stars,game,"Aug 30, 2016",0,MatrixStudio,MatrixStudio,"Casual, Indie, Simulation",14.99,,,0,2016,"0 .. 20,000",,0,0,"Indie, Casual, Simulation, VR",11,5
+637110,Runes of Avalon - Path of Magic,game,"Jul 26, 2017",0,AnaWiki Games,AnaWiki Games,"Casual, Indie",7.19,,,0,2017,"0 .. 20,000",,0,0,"Indie, Casual",3,0
+612930,Fight of Gods,game,"Mar 28, 2019",0,Digital Crafter,"Digital Crafter, Light of Creators","Action, Indie",14.99,,753.0,0,2019,"50,000 .. 100,000",,545,730,"Action, Indie, Fighting, 2D Fighter, Mythology",710,133
+495520,Ping Pong League,game,"Feb 27, 2017",0,Cover Corp.,Cover Corp.,Sports,0.0,,,0,2017,"50,000 .. 100,000",,49,47,"Sports, VR, Free to Play, Multiplayer",83,61
+320330,Earthworms,game,"Feb 23, 2018",0,All Those Moments,"Ultimate Games S.A., Art Games Studio S.A.","Adventure, Casual, Indie",5.99,,142.0,0,2018,"100,000 .. 200,000",,0,0,"Adventure, Indie, Casual, Point & Click, Singleplayer",144,42
+889240,Loot Box Simulator,game,"Jul 27, 2018",0,Clickbait Studios,Clickbait Studios,Simulation,0.0,,,0,2018,"0 .. 20,000",,0,0,"Simulation, Free to Play",81,23
+>>>>>>> parent of abdb84b (added more games and did labeling and feature normalization)
