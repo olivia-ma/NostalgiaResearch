@@ -1,0 +1,29 @@
+
+============================================================
+PRICE ANALYSIS BY MOTIVATION STRENGTH - KEY FINDINGS
+============================================================
+
+SAMPLE SIZE:
+  Total reviews with price data: 8,165
+
+PRICE BY MOTIVATION STRENGTH:
+                      count   mean  median   std
+motivation_strength                             
+moderate_collectible   1317   9.43    7.50  8.52
+moderate_nostalgic      542  12.00   10.00  9.02
+strong_both              48   7.87    5.50  6.45
+strong_collectible     2507  10.44    9.00  8.78
+strong_nostalgic        365  11.55   10.00  8.26
+weak_both              1730  11.06    9.99  9.00
+weak_collectible        599  10.80    9.99  9.15
+weak_nostalgic         1057  10.66    9.99  8.35
+
+STATISTICAL TESTS:
+  Nostalgic prob. vs price correlation: r=0.087, p=0.0000
+  Collectible prob. vs price correlation: r=-0.049, p=0.0000
+
+INTERPRETATION:
+  ✗ Nostalgic motivation does NOT significantly correlate with price
+  ✗ Collectible motivation does NOT significantly correlate with price
+
+============================================================
