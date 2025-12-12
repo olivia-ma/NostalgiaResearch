@@ -10,7 +10,7 @@ tqdm.pandas()
 # 1. LOAD DATA
 # ------------------------------
 
-df = pd.read_csv('merged_data.csv')
+df = pd.read_csv('files/merged_data.csv')
 
 # Convert UNIX timestamp → datetime
 df["review_date"] = pd.to_datetime(df["timestamp"], unit='s')
@@ -106,7 +106,7 @@ df["game_age_at_review"] = (df["review_year"] - df["release_year"]).clip(lower=0
 print(df['label'].value_counts())
 
 # Save final dataset with the required columns included
-df.to_csv('labeled_data.csv', index=False)
+df.to_csv('files/labeled_data.csv', index=False)
 
 
 # -------------------------------------------------------

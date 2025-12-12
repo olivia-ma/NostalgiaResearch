@@ -40,11 +40,12 @@ except Exception:
 # ---------------------------
 # Config
 # ---------------------------
-GAMES_CSV = 'games_master.csv'
-REVIEWS_CSV = 'steam_reviews_raw.csv'
-OUT_MERGED = 'merged_data.csv'
-OUT_GAME_STATS = 'game_stats.csv'
-OUT_NON_ENG = 'reviews_non_english.csv'
+input_path ='files/'
+GAMES_CSV = f'{input_path}games_master.csv'
+REVIEWS_CSV = f'{input_path}steam_reviews_raw.csv'
+OUT_MERGED = f'{input_path}merged_data.csv'
+OUT_GAME_STATS = f'{input_path}game_stats.csv'
+OUT_NON_ENG = f'{input_path}reviews_non_english.csv'
 
 MIN_WORDS = 10               # remove reviews with fewer than this many words
 MIN_REVIEWS_PER_GAME = 5     # drop games with fewer than this many reviews

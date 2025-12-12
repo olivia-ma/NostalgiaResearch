@@ -17,8 +17,8 @@ import seaborn as sns
 # 1. LOAD CLEAN FEATURES + LABELS
 # ------------------------------
 
-X = pd.read_csv("features.csv")
-y = pd.read_csv("labels.csv")["label"]
+X = pd.read_csv("files/features.csv")
+y = pd.read_csv("files/labels.csv")["label"]
 
 # Ensure classes match your pipeline
 VALID_CLASSES = ["nostalgic", "collectible", "both"]
@@ -156,7 +156,7 @@ plt.title(f"Confusion Matrix - {best_model_name}")
 plt.xlabel("Predicted")
 plt.ylabel("True")
 plt.tight_layout()
-plt.savefig("confusion_matrix.png", dpi=300)
+plt.savefig("images/confusion_matrix.png", dpi=300)
 plt.close()
 print("\n✓ Saved confusion_matrix.png")
 
@@ -170,14 +170,14 @@ if hasattr(best_model, 'feature_importances_'):
     print("\nTop 25 Features:")
     print(feat_imp)
     
-    feat_imp.to_csv("feature_importance.csv")
+    feat_imp.to_csv("files/feature_importance.csv")
     
     plt.figure(figsize=(10, 8))
     feat_imp[::-1].plot(kind="barh")
     plt.title(f"Top 25 Most Important Features - {best_model_name}")
     plt.xlabel("Importance")
     plt.tight_layout()
-    plt.savefig("feature_importance.png", dpi=300)
+    plt.savefig("images/feature_importance.png", dpi=300)
     plt.close()
     print("✓ Saved feature_importance.csv and feature_importance.png")
 
@@ -196,12 +196,12 @@ elif hasattr(best_model, 'coef_'):
     print("\nTop 25 Features by Coefficient Magnitude:")
     print(top_features)
     
-    top_features.to_csv("feature_importance.csv")
+    top_features.to_csv("files/feature_importance.csv")
     print("✓ Saved feature_importance.csv")
 
 # Save results summary
 results_df = pd.DataFrame(results).T
-results_df.to_csv("model_comparison.csv")
+results_df.to_csv("files/model_comparison.csv")
 print("\n✓ Saved model_comparison.csv")
 
 print("\n" + "="*60)

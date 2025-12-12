@@ -19,9 +19,9 @@ import seaborn as sns
 # 1. LOAD DATA
 # ------------------------------
 
-X = pd.read_csv("features.csv")
-y = pd.read_csv("labels.csv")["label"]
-df_raw = pd.read_csv("labeled_data.csv")
+X = pd.read_csv("files/features.csv")
+y = pd.read_csv("files/labels.csv")["label"]
+df_raw = pd.read_csv("files/labeled_data.csv")
 
 VALID_CLASSES = ["nostalgic", "collectible", "both"]
 mask = y.isin(VALID_CLASSES)
@@ -263,7 +263,7 @@ plt.title(f"Best Model: {best_model_name}\n(Tested on Original Imbalanced Data)"
 plt.xlabel("Predicted")
 plt.ylabel("True")
 plt.tight_layout()
-plt.savefig("confusion_matrix_best.png", dpi=300)
+plt.savefig("images/confusion_matrix_best.png", dpi=300)
 plt.close()
 print("\n✓ Saved confusion_matrix_best.png")
 
@@ -277,14 +277,14 @@ if hasattr(best_model, 'feature_importances_'):
     print("\nTop 25 Features:")
     print(feat_imp)
     
-    feat_imp.to_csv("feature_importance_best.csv")
+    feat_imp.to_csv("files/feature_importance_best.csv")
     
     plt.figure(figsize=(10, 8))
     feat_imp[::-1].plot(kind="barh", color='darkgreen')
     plt.title(f"Top 25 Features - {best_model_name}")
     plt.xlabel("Importance")
     plt.tight_layout()
-    plt.savefig("feature_importance_best.png", dpi=300)
+    plt.savefig("images/feature_importance_best.png", dpi=300)
     plt.close()
     print("✓ Saved feature_importance_best.csv and .png")
 

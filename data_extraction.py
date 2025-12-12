@@ -8,7 +8,7 @@ import re
 
 ##### FILE_PATHS
 # input_path = '/kaggle/input/input-data/'
-input_path =''
+input_path ='files/'
 raw_game_id_path = f'{input_path}games.csv' # this has app id list to use
 master_game_raw_path = f'{input_path}games_master.csv' # getting game data from raw app id list
 master_appid_path = f'{input_path}app_ids.txt' # all app ids in master list

@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-df = pd.read_csv('labeled_data.csv')
+df = pd.read_csv('files/labeled_data.csv')
 
 # ===============================================================
 # 1. FIX RAW VALUES BEFORE FEATURE ENGINEERING
@@ -124,8 +124,8 @@ numerical_cols = ['playtime_at_review', 'playtime_ratio', 'game_age_at_review', 
 X[numerical_cols] = scaler.fit_transform(X[numerical_cols])
 
 # Save
-X.to_csv('features.csv', index=False)
-df['label'].to_csv('labels.csv', index=False)
+X.to_csv('files/features.csv', index=False)
+df['label'].to_csv('files/labels.csv', index=False)
 
 print(f"Feature matrix shape: {X.shape}")
 print(f"Features used: {len(feature_columns)}")

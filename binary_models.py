@@ -21,8 +21,8 @@ print("="*60)
 # 1. LOAD DATA
 # ==========================================
 
-X = pd.read_csv("features.csv")
-y_full = pd.read_csv("labels.csv")["label"]
+X = pd.read_csv("files/features.csv")
+y_full = pd.read_csv("files/labels.csv")["label"]
 
 # Filter valid classes
 mask = y_full.isin(["nostalgic", "collectible", "both"])
@@ -101,7 +101,7 @@ plt.title(f"Nostalgic Detector\nBalanced Accuracy: {bal_acc_nost:.1%}")
 plt.xlabel("Predicted")
 plt.ylabel("True")
 plt.tight_layout()
-plt.savefig("model_nostalgic_detector.png", dpi=300)
+plt.savefig("images/model_nostalgic_detector.png", dpi=300)
 plt.close()
 print("✓ Saved model_nostalgic_detector.png")
 
@@ -158,7 +158,7 @@ plt.title(f"Collectible Detector\nBalanced Accuracy: {bal_acc_coll:.1%}")
 plt.xlabel("Predicted")
 plt.ylabel("True")
 plt.tight_layout()
-plt.savefig("model_collectible_detector.png", dpi=300)
+plt.savefig("images/model_collectible_detector.png", dpi=300)
 plt.close()
 print("✓ Saved model_collectible_detector.png")
 
@@ -228,7 +228,7 @@ plt.title(f"Combined 3-Way Classification\n(From Dual Binary Models)\nAccuracy: 
 plt.xlabel("Predicted")
 plt.ylabel("True")
 plt.tight_layout()
-plt.savefig("model_combined_3way.png", dpi=300)
+plt.savefig("images/model_combined_3way.png", dpi=300)
 plt.close()
 print("✓ Saved model_combined_3way.png")
 
@@ -260,7 +260,7 @@ print(feat_imp_coll.head(10))
 pd.DataFrame({
     'nostalgic_importance': feat_imp_nost,
     'collectible_importance': feat_imp_coll
-}).to_csv("dual_feature_importance.csv")
+}).to_csv("files/dual_feature_importance.csv")
 
 # Visualization - side by side
 fig, axes = plt.subplots(1, 2, figsize=(16, 8))
@@ -274,7 +274,7 @@ axes[1].set_title("Top 15 Features: Collectible Detection")
 axes[1].set_xlabel("Importance")
 
 plt.tight_layout()
-plt.savefig("dual_feature_importance.png", dpi=300)
+plt.savefig("images/dual_feature_importance.png", dpi=300)
 plt.close()
 print("✓ Saved dual_feature_importance.png")
 
@@ -282,10 +282,10 @@ print("✓ Saved dual_feature_importance.png")
 # 7. SAVE MODELS
 # ==========================================
 
-with open('model_nostalgic.pkl', 'wb') as f:
+with open('files/model_nostalgic.pkl', 'wb') as f:
     pickle.dump(model_nostalgic, f)
 
-with open('model_collectible.pkl', 'wb') as f:
+with open('files/model_collectible.pkl', 'wb') as f:
     pickle.dump(model_collectible, f)
 
 print("\n✓ Saved models: model_nostalgic.pkl, model_collectible.pkl")
