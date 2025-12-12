@@ -3,5 +3,5 @@ The files are called in the order -
 2. [Merging Datasets](merge_and_initial_analysis.py) - Cleans and merges the dataset
 3. [Labels](labels.py)
 4. [Features](features.py)
-5. [Model][binary_models.py]
-6. [Insights][insights.py]
+5. [Model](binary_models.py)
+6. [Insights](insights.py)
